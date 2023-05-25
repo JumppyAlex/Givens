@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="../static/files/css/bootstrap.css">
+    <script src="../static/files/js/bootstrap.js"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        {% include 'navbar.html'%}
+        <section class="row"> 
+            <div class="col-md-4">
+                <h2>Create a Free Account</h2>
+                <span style="color: green;">{{message}}</span>
+                <form action="/signup" method="post">
+                    <input type="text" name="username"
+                   placeholder="username" class="form-control" ><br>
+
+                   <input type="password" name="password" 
+                   placeholder="Password" class="form-control"><br>
+
+                   <input type="password" name="password2" 
+                   placeholder="Confirm Password" class="form-control"><br>
+
+                   <input type="email" name="email"
+                   placeholder="Your Email" class="form-control"><br>
+
+                   <input type="phone" name="phone"
+                   placeholder="Your Phone" class="form-control"><br>
+
+                   <input type="submit" value="Create Account" class="btn btn-success">
+                 
+                </form>
+                <br>
+                <a href="/signin">Already Have a Account Login</a>
+            </div>
+        </section>
+    </div>
+
+</body>
+</html>

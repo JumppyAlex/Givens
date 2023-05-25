@@ -1,0 +1,54 @@
+
+
+ <section class="row">
+    <div class="col-md-12">
+        <nav class="navbar  bg-light navbar-expand-lg navbar-light">
+            <a href="" class="navbar-brand ps-3">
+                 <span class="text-success">Soko</span>Garden</a>
+
+            <button type="button" class="navbar-toggler me-2" data-bs-toggle="collapse" data-bs-target="#n1">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="n1">
+                <div class="navbar-nav ps-2">
+                    <a href="" class="nav-link">Home</a>
+                    <a href="" class="nav-link">Appliances</a>
+                    <a href="" class="nav-link">Cooker</a>
+                    <a href="/vendors" class="nav-link">Vendors</a>
+
+
+                    <a href="/signup" class="nav-link">SignUp</a>
+                    <a href="/signin" class="nav-link">SignIn</a>
+                    
+                    {% if session ['key']%}
+                    <b>Welcome:{{session['key']}}</b>
+                    <a href="/signout">Sign Out</a>
+                    {%else%}
+                    <b>Not Logged In</b>
+                    <a href="/signin" class="navbar-link">Signin</a>
+                    {% endif %}
+
+                    <!--Drop down  -->
+                    <div class="navbar-item dropdown">
+                        <a href="" class="nav-link dropdown-toggler"
+                         data-bs-toggle="dropdown">More categories</a>
+
+                         <div class="dropdown-menu">
+                             <a href="" class="dropdown-item">Utensils</a>
+                             <a href="" class="dropdown-item">Furnitures</a>
+                             <a href="" class="dropdown-item">Foods</a>
+                             <a href="" class="dropdown-item">Stationary</a>
+                             <a href="" class="dropdown-item">Clothes</a>
+                             <a href="" class="dropdown-item">Electronics</a>
+                             <a href="" class="dropdown-item">Carpets</a>
+                             <a href="" class="dropdown-item">Speakers</a>
+                         </div>
+                         
+                    </div>
+                </div>
+            </div>
+
+        </nav>
+    </div>
+</section>
