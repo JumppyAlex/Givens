@@ -1,0 +1,2106 @@
+,car_name,s_driven,fuel_type,city,year_of_manufacture,car_price_in_rupees,car_name2
+0,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],22402,1,8,2016,4.45,276
+1,Maruti Suzuki Alto 800 Lxi,10344,1,7,2019,2.93,495
+2,Tata Safari XZ Plus New,12999,0,2,2021,22.49,830
+3,Maruti Suzuki Ciaz ZXI+,45000,1,13,2016,6.95,559
+4,Jeep Compass Sport Plus 1.4 Petrol [2019-2020],11193,1,7,2019,12,383
+5,Maruti Suzuki Eeco 5 STR WITH A/C+HTR [2019-2020],42906,1,3,2017,3.72,577
+6,Hyundai Creta SX Plus 1.6 AT CRDI,66602,0,8,2017,11.5,232
+7,Maruti Suzuki Ertiga VXi AT,13189,1,2,2019,10.39,582
+8,Toyota Etios Liva G,67815,1,8,2013,3.75,866
+9,Renault Kwid 1.0 RXT AMT Opt [2016-2019],19509,1,8,2018,4.25,741
+10,Maruti Suzuki Ciaz VDi+ SHVS,60000,0,0,2017,6.75,555
+11,Maruti Suzuki Alto 800 LXi (O),3583,1,2,2019,4.49,491
+12,Chevrolet Optra Magnum LS 2.0 TCDi,148000,Diesel ,10,2007,3,78
+13,Maruti Suzuki Vitara Brezza VDi,48748,0,6,2019,9.5,630
+14,Jeep Compass Longitude 2.0 Diesel [2017-2020],38000,0,13,2018,13.25,380
+15,Toyota Corolla Altis VL AT Petrol,36000,1,7,2016,9.25,861
+16,Hyundai Elite i20 Magna Executive 1.2,13747,1,0,2017,6.75,252
+17,Mercedes-Benz EQC 400 4MATIC,3200,2,12,2022,95,685
+18,Ford EcoSport Titanium 1.5L Ti-VCT,12795,1,3,2018,8.71,108
+19,Hyundai i10 Magna 1.2 Kappa2,41273,1,8,2014,3.35,343
+20,Hyundai Creta 1.6 SX Plus Petrol Special Edition,20142,1,12,2016,9.88,216
+21,Porsche 718 Boxster,6500,1,12,2020, 1.15 Crore,718
+22,Kia Seltos HTE 1.5 Diesel,47103,0,13,2019,11,396
+23,Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020],7755,1,8,2020,9.9,545
+24,Renault Kwid 1.0 RXL [2017-2019],33513,1,5,2019,3.45,739
+25,BMW 3 Series 320d Luxury Line,24848,0,7,2019,37.49,45
+26,Maruti Suzuki Baleno Alpha 1.2,34559,1,4,2017,6.39,509
+27,Hyundai i20 Sportz 1.2 IVT,4000,1,0,2022,8.9,360
+28,Ford EcoSport Titanium 1.5L Ti-VCT,54544,1,7,2018,6.59,108
+29,Maruti Suzuki Wagon R 1.0 VXI,42247,1,7,2018,3.92,646
+30,Honda Jazz VX Diesel,100000,0,6,2018,8,195
+31,Maruti Suzuki Swift VDi,69000,0,6,2019,7.75,618
+32,Tata Nexon XZ Plus,10422,1,4,2021,11.52,819
+33,Audi Q3 35 TDI Premium + Sunroof,52000,0,8,2014,16.75,30
+34,Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020],56255,1,0,2019,8.5,545
+35,Hyundai Santro Sportz CNG [2018-2020],78260,3,4,2021,5.93,295
+36,Maruti Suzuki Alto 800 LXi (O) CNG,19970,3,2,2021,4.15,492
+37,MG Hector Plus Sharp 1.5 DCT Petrol,9070,1,0,2020,18.5,431
+38,Ford Figo Duratec Petrol ZXI 1.2,73000,1,13,2013,2.4,121
+39,Audi Q3 2.0 TDI Base Grade,46336,0,7,2015,11.99,25
+40,Hyundai Creta SX Plus 1.6  Petrol,57220,1,13,2016,8.95,231
+41,Honda Jazz ZX,7096,1,12,2021,9.68,197
+42,Mercedes-Benz EQC 400 4MATIC,21500,2,2,2020,81,685
+43,Hyundai Grand i10 Asta 1.2 Kappa VTVT [2013-2016],44045,1,12,2015,4.93,268
+44,BMW X1 sDrive20d,70000,0,7,2013,10.5,63
+45,Maruti Suzuki Swift ZDi Plus,32853,0,13,2018,7.85,626
+46,BMW 5 Series 520d Luxury Line [2017-2019],26781,0,7,2017,38.99,53
+47,Skoda Superb L&K TSI AT,45700,1,0,2021,31,788
+48,Maruti Suzuki Swift DZire VXI,62000,1,13,2014,4.85,610
+49,Maruti Suzuki Wagon R 1.0 LXI CNG,73500,3,13,2017,4.35,641
+50,Maruti Suzuki Wagon R 1.0 LXI CNG,74076,3,12,2017,4.51,641
+51,Tata Tiago Revotron XZA,56355,1,8,2018,5.45,843
+52,Tata Tiago Revotron XT [2016-2019],37000,1,13,2017,4.5,840
+53,Maruti Suzuki Wagon R LXi 1.0 CNG,22158,3,12,2021,6.81,652
+54,Hyundai Xcent S 1.2,62568,1,9,2014,3.95,330
+55,Kia Seltos HTK 1.5 [2020-2021],19970,1,12,2019,11.43,397
+56,BMW 5 Series 520d Luxury Line,73900,0,0,2015,23,52
+57,Kia Seltos HTE 1.5,37991,1,13,2020,10.5,395
+58,Hyundai Creta 1.6 SX Plus AT Petrol,58676,1,8,2018,12.75,214
+59,Hyundai Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],35104,1,2,2017,5.99,284
+60,Kia Seltos GTX 1.4 Dual Tone,51605,1,12,2019,16.2,390
+61,Maruti Suzuki S-Presso VXi,17472,1,4,2020,4.2,605
+62,Hyundai Elite i20 Sportz 1.4,80000,0,4,2015,4.75,257
+63,Mercedes-Benz GLC 200 Progressive,16785,1,2,2021,66,691
+64,Mercedes-Benz E-Class E 200,3999,1,2,2020,68.99,678
+65,Maruti Suzuki Wagon R 1.0 LXI CNG,66882,3,12,2017,4.41,641
+66,Audi A4 35 TDI Technology,71235,0,0,2018,29.5,15
+67,Chevrolet Cruze LTZ AT,56000,0,0,2013,5.9,77
+68,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],74938,1,4,2016,4.14,276
+69,Honda City 1.5 S MT,82000,1,9,2009,2.85,156
+70,Maruti Suzuki Wagon R LXi 1.0 CNG,57685,3,12,2021,6.75,652
+71,Hyundai Elite i20 Sportz 1.2,48000,1,6,2018,7.1,254
+72,Mercedes-Benz C-Class 220 BlueEfficiency,120000,0,6,2013,13.95,666
+73,Hyundai Eon Magna [2011-2012],33146,1,0,2015,3.2,265
+74,Maruti Suzuki Baleno Delta 1.2,26603,1,4,2019,6.29,512
+75,Volkswagen Vento Comfortline 1.2 (P) AT,53094,1,8,2016,6.51,924
+76,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],4098,1,8,2017,4.75,276
+77,Maruti Suzuki Wagon R 1.0 VXi,75379,1,12,2011,2.89,651
+78,Hyundai Venue S 1.0 Petrol [2019-2020],15763,1,7,2019,8.97,304
+79,Mercedes-Benz C-Class 200 K AT,119500,1,0,2010,8.5,665
+80,Maruti Suzuki Wagon R 1.0 VXi,42697,1,7,2013,2.76,651
+81,Hyundai Elite i20 Magna Executive 1.2,45000,1,0,2018,6.9,252
+82,Maruti Suzuki Vitara Brezza ZDi Plus,55174,0,12,2019,10.44,634
+83,Honda City VX CVT,82953,1,3,2016,7.35,173
+84,Maruti Suzuki Wagon R 1.0 VXI AMT,85138,1,12,2016,3.9,648
+85,Audi Q5 3.0 TDI quattro Premium Plus,57000,0,6,2015,25,37
+86,Audi A6 2.0 TDI Premium,52000,0,7,2013,11.25,18
+87,Hyundai Creta SX Plus 1.6  Petrol,27623,1,2,2016,9.79,231
+88,Hyundai Xcent SX 1.2 (O),73333,1,2,2015,4.99,335
+89,MG Hector Sharp 2.0 Diesel [2019-2020],45999,0,2,2019,16.59,438
+90,Maruti Suzuki Baleno Sigma 1.2,61518,1,9,2017,5.45,517
+91,Maruti Suzuki S-Presso VXi Plus,65,1,4,2021,4.76,606
+92,Maruti Suzuki Baleno Zeta 1.3,42400,0,2,2017,7.39,522
+93,Jeep Compass Limited 1.4 Petrol AT [2017-2020],45221,1,8,2017,13.95,373
+94,Maruti Suzuki Ignis Zeta 1.2 MT,11290,1,12,2020,6.28,594
+95,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,68446,1,4,2016,4.09,283
+96,Honda City V,51850,1,8,2015,5.9,168
+97,Toyota Glanza G CVT,10000,1,8,2020,7.95,878
+98,Audi Q3 2.0 TDI quattro Premium,69500,0,0,2012,11.9,26
+99,Maruti Suzuki Swift DZire ZXI,44681,1,6,2012,4.45,612
+100,Renault Kwid RXT [2015-2019],65428,1,12,2016,2.99,754
+101,Hyundai Verna Fluidic 1.6 VTVT SX,84344,1,4,2013,3.91,322
+102,Maruti Suzuki Vitara Brezza ZDi Plus AGS,113600,0,13,2018,8.9,635
+103,Maruti Suzuki Wagon R LXi 1.0 CNG,17778,3,4,2020,5.99,652
+104,Maruti Suzuki Baleno Delta 1.2,33269,1,7,2018,5.8,512
+105,MG Hector Sharp 1.5 DCT Petrol [2019-2020],15222,1,2,2021,19.25,434
+106,Honda City V Diesel,87139,0,6,2017,9.25,170
+107,Maruti Suzuki Swift VXi ABS,69551,1,4,2013,3.4,621
+108,Hyundai Verna Fluidic 1.6 CRDi SX,72500,0,13,2013,4.85,321
+109,Maruti Suzuki Swift ZXi,28899,1,4,2018,6.33,627
+110,Maruti Suzuki Wagon R 1.0 VXI,13595,1,7,2017,3.96,646
+111,Ford Endeavour Titanium 3.2 4x4 AT,83000,0,8,2016,24.75,115
+112,Hyundai Elite i20 Magna Executive 1.2,19418,1,2,2019,7.75,252
+113,Volvo V40 D3 Kinetic,50965,0,7,2015,12,941
+114,Ford EcoSport Ambiente 1.5L TDCi,74000,0,13,2014,4.91,97
+115,Hyundai Xcent SX CRDi,21707,0,7,2017,4.25,336
+116,Mahindra XUV500 W8,83555,0,6,2013,7.4,486
+117,Hyundai Verna 1.6 VTVT SX,37000,1,8,2015,5.85,317
+118,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],43000,1,9,2014,3.85,275
+119,Maruti Suzuki Baleno Zeta 1.2 AT,21769,1,8,2017,6.9,521
+120,BMW 5 Series 530i Sport Line,32000,1,8,2018,42.5,57
+121,Maruti Suzuki Ciaz Zeta Hybrid  1.5 [2018-2020],14886,1,8,2018,7.99,564
+122,MG Hector Plus Sharp 1.5 DCT Petrol,6602,1,0,2020,18.9,431
+123,Maruti Suzuki Wagon R 1.0 LXI CNG,58000,3,13,2014,3.85,641
+124,Maruti Suzuki Wagon R 1.0 LXI CNG,63339,3,12,2014,4.07,641
+125,Maruti Suzuki Ciaz Delta 1.5,4500,1,5,2020,8.3,551
+126,Renault Triber RXZ EASY-R AMT,23600,1,3,2020,7.6,757
+127,Hyundai Venue S 1.0 Petrol [2019-2020],17844,1,7,2019,9.55,304
+128,Honda City SV,21000,1,0,2019,8.75,164
+129,Tata Indica LS,60000,0,14,2017,2.5,807
+130,Maruti Suzuki Celerio VXi AMT,34530,1,13,2016,4.5,527
+131,Honda CR-V 2.4 AT,117192,1,6,2014,14,154
+132,Honda Jazz VX Diesel,54000,0,13,2016,5.95,195
+133,Nissan Terrano XL (P),38999,1,2,2016,6.79,716
+134,Volkswagen Ameo Highline Plus 1.5L AT (D)16 Alloy,58549,0,3,2017,6.6,905
+135,Hyundai Elite i20 Sportz 1.2 [2016-2017],41055,1,4,2019,6.87,256
+136,Renault Kwid 1.0 RXT [2016-2019],53728,1,4,2018,3.04,744
+137,Hyundai Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],42141,1,2,2017,5.29,284
+138,Tata Tiago JTP 1.2 [2018-2019],63130,1,4,2018,4.16,836
+139,Maruti Suzuki Alto K10 VXi [2014-2019],53912,1,3,2016,3.01,507
+140,Tata Nexon XMA Diesel,20678,0,13,2019,9.41,815
+141,Tata Safari XTA Plus,4259,0,2,2022,23.75,828
+142,Honda Jazz E MT [2015-2016],48866,1,0,2016,4.9,185
+143,Renault Kwid RXT [2015-2019],32954,1,4,2018,3.31,754
+144,Maruti Suzuki Wagon R 1.0 VXi,37000,1,8,2012,2.35,651
+145,Mahindra XUV500 W11 AT,85000,0,0,2018,13.9,481
+146,Audi A3 35 TDI Premium + Sunroof,36627,0,2,2016,24.75,0
+147,Volkswagen Polo GT TSI,62690,1,2,2018,9.25,914
+148,Toyota Innova Crysta GX 2.4 7 STR,12039,0,0,2020,21.5,891
+149,Honda City VX CVT Petrol,26230,1,4,2020,12.04,174
+150,Hyundai Santro Sportz AMT,19156,1,12,2020,5.57,293
+151,Hyundai Grand i10 Nios Sportz 1.2 Kappa VTVT,18350,1,7,2020,5.79,279
+152,Hyundai Elite i20 Magna Executive 1.2,44053,1,12,2018,5.54,252
+153,Hyundai i10 1.1L iRDE Magna Special Edition,69000,1,0,2014,3.4,337
+154,Kia Seltos GTX 1.4 Dual Tone,51605,1,12,2019,16.2,390
+155,BMW 5 Series 520d Sedan,40000,0,0,2017,43,55
+156,Tata Harrier XZ Plus Dual Tone,35438,0,13,2020,18.95,800
+157,BMW 7 Series 750Li Sedan,65000,1,0,2008,10,61
+158,Maruti Suzuki Ciaz Alpha 1.4 AT,38500,1,0,2020,8.85,543
+159,Maruti Suzuki Wagon R 1.0 LXI CNG,20583,3,12,2018,4.84,641
+160,Skoda Rapid Style 1.5 TDI AT,81325,0,7,2016,7.15,780
+161,Maruti Suzuki Baleno Zeta 1.2,35000,1,0,2017,5.9,520
+162,Maruti Suzuki Celerio VXi AMT ABS,25000,1,6,2015,4.85,528
+163,Honda Jazz V Petrol,37993,1,4,2015,4.62,193
+164,Land Rover Discovery Sport HSE 7-Seater,21693,0,7,2018,34.99,412
+165,Hyundai Creta SX 1.6 (O) Petrol,63194,1,13,2018,10.25,225
+166,Hyundai i10 1.2 L Kappa Magna Special Edition,60000,1,13,2009,1.8,338
+167,Honda City VX CVT Petrol [2017-2019],70000,Petrol ,1,2018,12,175
+168,Tata Hexa XTA 4x2 6 STR,51000,Diesel ,1,2018,16,805
+169,Hyundai Elite i20 Asta 1.2 (O) CVT [2019-2020],22024,1,13,2019,8.3,240
+170,Skoda Octavia 2.0 TDI L&K,35793,0,6,2017,20.95,769
+171,Hyundai Tucson GLS 4WD AT Diesel,75400,0,12,2017,19.25,302
+172,Maruti Suzuki Swift Dzire LDI,84996,0,6,2016,4.75,613
+173,Maruti Suzuki Swift VXi,74767,1,8,2015,4.6,620
+174,Honda Amaze 1.2 EX i-VTEC,63956,1,5,2013,3.42,130
+175,Maruti Suzuki Wagon R 1.0 LXI CNG,48000,3,13,2017,4.5,641
+176,Renault Duster 85 PS RxL Diesel,48330,0,2,2014,6.85,733
+177,Maruti Suzuki Alto 800 Vxi,93150,1,7,2014,2.1,498
+178,BMW X3 xDrive 30d M Sport [2015-2017],69499,0,6,2016,41,68
+179,Mahindra TUV300 T8 AMT mHAWK100,75000,0,9,2016,5.45,467
+180,Kia Carnival Prestige 7 STR,13748,0,2,2021,34.99,386
+181,Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020],30672,1,2,2019,10.75,545
+182,Jeep Compass Limited Plus Diesel [2018-2020],64683,0,2,2019,17.99,376
+183,Maruti Suzuki Baleno Alpha 1.2,69886,1,8,2019,7.11,509
+184,Audi Q5 2.0 TDI quattro Premium,34000,0,7,2014,21.5,35
+185,Hyundai Creta SX 1.6 Petrol,62137,1,2,2019,11.49,230
+186,Maruti Suzuki Baleno Alpha 1.2,56800,1,4,2016,5.24,509
+187,Hyundai Xcent S 1.2,42382,1,13,2015,4.75,330
+188,Maruti Suzuki Wagon R 1.0 VXI,66794,1,7,2018,3.9,646
+189,Honda City V CVT Petrol [2017-2019],19600,1,0,2020,11.5,169
+190,Mercedes-Benz S-Class 350 CDI L,85489,0,6,2011,19,699
+191,Renault Triber RXZ EASY-R AMT,19784,1,8,2020,7.5,757
+192,Honda City ZX CVT Petrol,19238,1,8,2020,12.85,177
+193,Maruti Suzuki Swift VXi,78518,1,6,2013,4.2,620
+194,Hyundai Creta E Plus 1.6 Petrol,54104,1,8,2017,8.55,219
+195,Renault Duster 85 PS RXS 4X2 MT Diesel,55300,0,2,2018,8.99,731
+196,Renault Kwid 1.0 RXT Opt [2016-2019],40397,1,3,2018,3.48,743
+197,Mahindra XUV500 W8,87527,0,8,2015,8.11,486
+198,Toyota Glanza V,63000,1,0,2019,6.75,879
+199,Maruti Suzuki Swift VDi ABS [2014-2017],83647,0,12,2016,5.67,619
+200,Isuzu MU-X 4x2,75592,0,6,2018,21,364
+201,Renault Duster 85 PS RxL Diesel (Opt),57660,0,8,2012,4.75,734
+202,Honda Amaze 1.2 VX MT Petrol [2018-2020],42277,1,9,2018,6.85,140
+203,Maruti Suzuki S-Presso VXi Plus,2600,1,0,2022,5.25,606
+204,Volvo XC90 D5 AWD,51000,0,0,2014,22.57,945
+205,Hyundai Grand i10 Asta 1.2 Kappa VTVT,19630,1,8,2017,5.75,266
+206,Honda City VX,42218,1,8,2016,7.45,172
+207,Toyota Glanza G,69553,1,3,2019,7.08,877
+208,Maruti Suzuki Alto K10 VXi AMT [2014-2018],48448,1,4,2017,3.38,506
+209,Tata Tiago Revotron XT [2016-2019],60167,1,4,2019,4.84,840
+210,Honda City 1.5 V MT,61000,1,9,2012,3.95,157
+211,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,26282,1,12,2015,4.34,283
+212,Mercedes-Benz E-Class E 220 d Avantgarde,19070,0,2,2019,61.75,679
+213,Audi A4 3.0 TDI quattro Technology Pack,67262,0,3,2018,32,12
+214,Maruti Suzuki Ciaz Alpha Hybrid 1.5 [2018-2020],5814,1,7,2020,8.72,546
+215,Skoda Rapid Ultima Elegance 1.6 TDI CR MT,76810,0,7,2017,6.5,784
+216,Honda Amaze 1.5 VX i-DTEC,63587,0,8,2015,4.95,144
+217,Kia Seltos GTX Plus AT 1.4 [2019-2020],28000,1,7,2019,15.25,393
+218,Honda Amaze 1.5 S i-DTEC,42637,0,2,2014,4.99,143
+219,Maruti Suzuki Wagon R 1.0 VXI,52775,1,12,2017,4.32,646
+220,Maruti Suzuki Ciaz Zeta Hybrid 1.5 AT [2018-2020],21809,1,13,2019,8.5,565
+221,Volkswagen Vento Highline Plus 1.2 (P) AT 16 Alloy,45689,1,8,2016,7.25,935
+222,Maruti Suzuki Celerio ZXi [2017-2019],34251,1,12,2017,4.33,541
+223,Maruti Suzuki Ertiga VXI CNG,55000,3,13,2016,7.2,580
+224,Skoda Rapid Ambition 1.6 TDI CR MT,95004,0,6,2018,9.25,778
+225,Tata Harrier XZ [2019-2020],20856,0,2,2019,16.95,801
+226,Maruti Suzuki Dzire ZXi Plus AMT,11800,1,3,2020,8.75,575
+227,Maruti Suzuki Baleno Delta 1.2,32897,1,12,2016,5.1,512
+228,Mahindra TUV300 T8,47107,0,4,2016,5.65,466
+229,Maruti Suzuki Alto K10 VXi,76614,1,12,2011,2.25,502
+230,Audi Q3 35 TDI quattro Premium Plus,32345,0,7,2018,19.99,32
+231,Jaguar XE Portfolio Diesel,35491,0,2,2018,37.75,365
+232,Toyota Innova Crysta ZX 2.4 AT 7 STR,22562,0,6,2021,32.5,893
+233,Maruti Suzuki Ciaz Delta 1.3 Diesel,49908,0,8,2018,7.45,547
+234,MINI Cooper JCW Hatchback,2482,1,8,2021,44,445
+235,Jeep Compass Limited Plus 2.0 Diesel 4x4 AT,9000,0,1,2020,23,375
+236,Volkswagen Polo Comfortline 1.2L (P),27700,1,13,2015,4.65,912
+237,Maruti Suzuki Wagon R LXi Minor,49000,1,13,2009,1.8,653
+238,Maruti Suzuki Ignis Delta 1.2 MT,12104,1,7,2018,4.53,592
+239,Hyundai Xcent SX 1.2,28646,1,12,2016,5.34,334
+240,Maruti Suzuki Alto 800 Lxi,35965,1,7,2014,2.05,495
+241,Mercedes-Benz E-Class E350 CDI BlueEfficiency,64000,0,6,2010,15.5,684
+242,Maruti Suzuki Baleno Zeta 1.2,5288,1,13,2020,7.35,520
+243,Volvo S60 Kinetic D4,90604,0,6,2017,17.9,939
+244,Maruti Suzuki Estilo VXi ABS BS-IV,68000,Petrol ,14,2011,2.25,590
+245,Hyundai i20 Asta (O) 1.2 MT,32243,1,6,2020,8.5,350
+246,Maruti Suzuki Ciaz Delta 1.4 MT,33823,1,4,2017,6.87,550
+247,Maruti Suzuki Swift VXi AMT [2018-2019],25412,1,7,2018,5.38,623
+248,BMW 3 Series Gran Limousine 320Ld Luxury Line,22600,0,3,2021,57.5,51
+249,Honda City V CVT Petrol [2017-2019],56468,1,0,2017,8.3,169
+250,Ford Figo Duratec Petrol EXI 1.2,73000,Petrol ,11,2011,2.4,120
+251,Honda City SV,24751,1,7,2018,6.3,164
+252,Audi TT 45 TFSI,9865,1,0,2016,46,43
+253,Maruti Suzuki Celerio ZXi AMT [2019-2020],29646,1,13,2016,4.75,540
+254,BMW X1 sDrive20d Expedition,55000,0,8,2017,21.75,64
+255,Volvo S90 D4 Inscription,15446,0,6,2020,59,940
+256,Maruti Suzuki Celerio VXi AMT ABS,24595,1,8,2016,4.45,528
+257,Hyundai Creta 1.6 S Plus AT,97761,0,12,2016,9.98,209
+258,Maruti Suzuki Celerio VXi,47000,1,6,2020,5.65,524
+259,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],66471,1,4,2017,4.85,288
+260,Datsun redi-GO S [2016-2019],37000,1,0,2019,3.25,87
+261,Kia Seltos GTX Plus 1.4 [2020-2021],28100,1,0,2020,16.9,392
+262,Skoda Octavia Elegance 2.0 TDI AT,63000,0,4,2014,7.99,771
+263,Maruti Suzuki Wagon R 1.0 LXI CNG (O),26600,3,12,2016,4.3,642
+264,Mahindra XUV500 W8,55105,0,7,2013,5.75,486
+265,Hyundai Eon Era +,42748,1,3,2017,3.3,263
+266,Audi Q7 45 TDI Technology Pack,51000,0,0,2018,59.5,41
+267,Audi A6 35 TDI Matrix,76000,0,0,2018,25,20
+268,Hyundai Elite i20 Sportz 1.2,35247,1,12,2017,6.13,254
+269,Hyundai Elite i20 Sportz 1.2,30183,1,7,2019,5.59,254
+270,Mercedes-Benz GLS 350 d,88000,0,6,2018,68,697
+271,MG Hector Sharp 1.5 DCT Petrol [2019-2020],7870,1,7,2021,16.99,434
+272,Mahindra XUV500 W10,50000,0,3,2018,14.9,479
+273,BMW 3 Series 320d Luxury Line,46000,0,4,2015,17.1,45
+274,Maruti Suzuki Celerio VXi AMT [2017-2019],28726,1,13,2018,4.9,529
+275,Maruti Suzuki Wagon R 1.0 LXI,32907,1,4,2014,3.13,639
+276,Maruti Suzuki Alto 800 Vxi,29092,1,7,2019,3.32,498
+277,Hyundai Creta 1.6 S Petrol,62461,1,8,2016,7.45,208
+278,Skoda Rapid Ambition 1.6 MPI MT,60000,1,9,2012,3.85,776
+279,Jaguar XF 3.0 V6 Premium Luxury,62645,0,6,2015,26.5,369
+280,Toyota Innova 2.5 G BS III 7 STR,83000,0,0,2015,9.75,882
+281,Hyundai i10 1.1L iRDE Magna Special Edition,55000,1,0,2015,3.5,337
+282,Toyota Fortuner 2.8 4x4 AT [2016-2020],181213,0,6,2019,35,871
+283,Maruti Suzuki Dzire VXi AMT,25000,1,4,2020,6.9,569
+284,Datsun GO T [2018-2019],52000,1,0,2018,2.35,84
+285,Ford EcoSport Titanium 1.0 Ecoboost,38203,1,7,2013,4.51,102
+286,Maruti Suzuki Wagon R 1.0 LXI CNG,64942,3,4,2017,4.06,641
+287,Maruti Suzuki Baleno Delta 1.2,47837,1,4,2018,5.4,512
+288,Maruti Suzuki Ertiga Vxi,85000,Petrol ,14,2013,5,583
+289,Mercedes-Benz CLA 200 CDI Sport,51500,0,7,2015,16.49,673
+290,Skoda Octavia 1.8 TSI L&K,23160,1,6,2018,21,766
+291,Toyota Corolla Altis G Petrol,75000,1,13,2015,6.95,858
+292,Toyota Corolla Altis 1.8 G AT,63000,1,4,2014,8.83,854
+293,BMW 3 Series 320d Luxury Line,104264,0,6,2013,15.5,45
+294,Hyundai Elite i20 Asta 1.2 (O) [2016],15972,1,4,2017,6.59,241
+295,Hyundai Eon Magna [2011-2012],33146,1,0,2015,3.2,265
+296,Maruti Suzuki Swift VXi [2014-2017],30956,1,3,2020,6.74,624
+297,Renault Kiger RXT Turbo CVT Dual Tone,4371,1,7,2022,9.98,738
+298,Hyundai Elite i20 Asta 1.4 CRDI (O) [2016-2017],63653,0,6,2020,10.75,247
+299,Honda City 1.5 V MT,55297,1,13,2013,4.05,157
+300,Porsche Cayenne Turbo,12000,1,0,2015,78.57,719
+301,Maruti Suzuki Swift DZire VXI,21391,1,7,2014,4.17,610
+302,Renault Kwid CLIMBER 1.0 (O),11546,1,4,2021,4.83,745
+303,Hyundai Santro Sportz,16270,1,12,2020,5.89,292
+304,Nissan Micra XV Diesel,73000,0,0,2012,2.9,710
+305,Hyundai Grand i10 Magna AT 1.2 Kappa VTVT,53000,1,6,2018,5.49,277
+306,Mercedes-Benz CLA 200 Petrol Sport,34000,1,8,2016,19.25,675
+307,Hyundai Venue S 1.0 Petrol [2019-2020],16328,1,12,2019,10.64,304
+308,Land Rover Range Rover Evoque SE R-Dynamic Petrol,5600,1,13,2021,77,421
+309,Maruti Suzuki S-Cross Alpha 1.3,73994,0,6,2016,7.6,600
+310,Hyundai Verna SX (O) AT Anniversary Edition 1.6 VTVT,43920,1,2,2019,10.59,326
+311,Maruti Suzuki Wagon R 1.0 VXI,17715,1,7,2014,3.17,646
+312,Toyota Corolla Altis G Petrol,82902,1,4,2018,10.4,858
+313,Land Rover Range Rover Sport SDV6 SE,39012,0,13,2019, 1.23 Crore,422
+314,Maruti Suzuki Wagon R 1.0 VXI,23344,1,6,2018,4.71,646
+315,Hyundai Verna 1.6 VTVT SX (O),93494,1,7,2019,7.49,318
+316,Honda Jazz V AT Petrol,27222,1,8,2018,7.25,191
+317,Hyundai Creta S 1.5 Diesel [2020-2022],14468,0,6,2021,16,221
+318,Honda Jazz V Diesel,40000,Diesel ,10,2017,7.47,192
+319,Maruti Suzuki Ciaz ZXI+,65000,1,13,2015,5.75,559
+320,Maruti Suzuki Alto K10 LXi,60028,1,4,2012,1.9,500
+321,Mercedes-Benz CLA 200 CDI Sport,37300,0,2,2018,29.5,673
+322,Hyundai Creta 1.6 SX Plus AT Petrol,32143,1,8,2018,11.25,214
+323,Hyundai Elite i20 Asta 1.2 [2016-2017],55669,1,3,2016,6.45,244
+324,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],72757,1,4,2016,4.05,276
+325,Honda City SV CVT,56000,1,0,2017,8.75,165
+326,Maruti Suzuki Swift VXi ABS,70244,1,7,2013,3.26,621
+327,BMW X1 sDrive20d xLine,46595,0,4,2018,21.45,66
+328,Maruti Suzuki XL6 Zeta MT Petrol,20703,1,0,2020,9.51,660
+329,Tata Harrier XZ [2019-2020],47579,0,8,2019,14.65,801
+330,BMW X1 sDrive20d xLine,31000,0,7,2019,28,66
+331,Mercedes-Benz GLE 350 d,31300,0,0,2019,58,696
+332,Ford EcoSport Titanium+ 1.5L TDCi Black Edition,52157,0,6,2016,7.5,111
+333,Mahindra XUV500 W6 AT,91000,0,0,2016,9.5,484
+334,Audi A6 2.0 TDI Premium,69631,0,6,2013,21,18
+335,Hyundai i20 Active 1.2 S,32036,1,8,2018,6.11,347
+336,Mercedes-Benz AMG GLA35 4MATIC,2000,1,3,2022,64.5,663
+337,Hyundai Elite i20 Asta 1.2,22621,1,7,2018,6,239
+338,Honda City VX,45000,1,13,2015,6.25,172
+339,Hyundai Verna Fluidic 1.6 VTVT SX Opt AT,33423,1,12,2019,11.26,324
+340,Hyundai i10 1.1L iRDE Magna Special Edition,31500,1,0,2015,3.5,337
+341,Hyundai Creta SX Plus 1.6  Petrol,51000,1,13,2017,9.25,231
+342,Renault Duster 85 PS RXS 4X2 MT Diesel,39030,0,2,2018,9.79,731
+343,Mercedes-Benz C-Class C 200 Avantgarde Edition,27236,1,2,2018,30.56,668
+344,Maruti Suzuki Celerio VXi,24063,1,7,2015,3.57,524
+345,Volkswagen Polo Highline1.2L (P),59819,1,8,2015,5.21,917
+346,Renault Kwid 1.0 RXT Opt,8297,1,4,2019,4.39,742
+347,Maruti Suzuki Dzire ZXi AMT,32740,1,12,2017,7.35,573
+348,BMW 5 Series 520d Luxury Line [2017-2019],34500,0,0,2020,45.99,53
+349,Kia Sonet GTX Plus 1.5 [2020-2021],25007,0,12,2020,14.19,405
+350,Maruti Suzuki Ignis Sigma 1.2 MT,38944,1,3,2019,4.89,593
+351,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],72757,1,4,2016,4.05,276
+352,Volkswagen Vento Trendline Petrol,101740,1,6,2010,3.5,937
+353,Maruti Suzuki Celerio ZXi AMT [2019-2020],9130,1,12,2019,5.99,540
+354,Honda Jazz V AT Petrol,48650,1,8,2017,6.75,191
+355,Hyundai Creta 1.6 SX Plus AT Petrol,40314,1,12,2016,10.29,214
+356,Volvo XC90 D5 AWD,30800,0,0,2015,22.87,945
+357,Maruti Suzuki Alto 800 Lxi CNG,33000,3,9,2019,3.45,496
+358,Hyundai Elite i20 Sportz 1.2 [2016-2017],54000,1,6,2019,7.9,256
+359,Honda City V,22500,1,13,2018,8.45,168
+360,Toyota Glanza G CVT,29866,1,2,2020,8.49,878
+361,Ford Aspire Titanium 1.2 Ti-VCT,65000,1,9,2017,5.35,93
+362,Ford EcoSport Titanium 1.0 Ecoboost (Opt),78822,1,5,2014,4.75,103
+363,Volkswagen Taigun GT Plus 1.5 TSI DSG,9792,1,0,2021,16.49,919
+364,Hyundai Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],64774,1,2,2016,5.69,267
+365,Toyota Fortuner 2.8 4x2 MT [2016-2020],31283,0,2,2018,33.75,870
+366,Skoda Rapid Ambition 1.6 MPI AT,10713,1,4,2020,10.82,774
+367,Maruti Suzuki Baleno Zeta 1.2,13127,1,7,2021,6.99,520
+368,Maruti Suzuki Wagon R 1.0 VXI AMT,50000,1,13,2016,4.25,648
+369,Maruti Suzuki Alto 800 Lxi,35340,1,12,2018,3.25,495
+370,Honda Jazz V AT Petrol,27654,1,8,2017,6.51,191
+371,Hyundai Santro Sportz CNG [2018-2020],40067,3,12,2018,5.23,295
+372,Maruti Suzuki Baleno Delta 1.2,50899,1,4,2018,5.48,512
+373,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],52000,1,13,2017,4.6,276
+374,Honda City S Petrol,51292,1,13,2017,6.95,163
+375,Hyundai Elite i20 Magna Executive 1.2,19905,1,7,2017,5.19,252
+376,Tata Nano Twist XT,18000,1,0,"2,015",1.1,810
+377,Maruti Suzuki Ertiga VXI CNG,28715,3,13,2021,11.4,580
+378,Maruti Suzuki Ertiga Vxi CNG,69161,3,8,2015,7.21,584
+379,Maruti Suzuki S-Cross Zeta 1.3,54571,0,12,2017,8.87,603
+380,Honda City VX CVT,25000,1,13,2016,7.75,173
+381,Honda City VX,24259,1,7,2019,8.75,172
+382,Maruti Suzuki Alto 800 Lxi,30233,1,12,2015,2.95,495
+383,Mahindra Thar LX Hard Top Diesel AT,21000,0,4,2021,17.5,471
+384,Maruti Suzuki Ertiga VXI CNG,51000,3,13,2017,8.25,580
+385,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],23137,1,13,2016,4.5,276
+386,Land Rover Discovery Sport HSE,159070,0,6,2015,26,411
+387,Maruti Suzuki Dzire VDi AMT,52328,0,9,2018,6.45,567
+388,Maruti Suzuki Baleno RS 1.0,35849,1,12,2017,6.66,516
+389,Hyundai Venue SX 1.0 Petrol [2019-2020],24783,1,2,2020,10.66,309
+390,Maruti Suzuki Ciaz VXi,27346,1,7,2016,5,556
+391,Hyundai i10 Magna 1.2 Kappa2,75619,1,3,2014,3.49,343
+392,Hyundai i10 Magna 1.2 Kappa2,54000,1,7,2013,2.45,343
+393,Nissan Sunny XE,58000,1,9,2012,2.95,711
+394,Jeep Wrangler Rubicon,27340,1,6,2021,65,385
+395,Maruti Suzuki Swift VXi AMT,17000,1,10,2020,6.3,622
+396,Volkswagen Vento Highline 1.5 (D) AT,111139,0,8,2018,7.9,928
+397,Hyundai Elantra 1.6 SX (O) AT,40916,0,12,2018,18.75,233
+398,Honda WR-V VX MT Diesel,120463,0,14,2018,9.5,201
+399,Honda BR-V VX Diesel,94197,0,13,2017,7.99,148
+400,Maruti Suzuki Swift DZire VXI,76859,1,12,2014,4.24,610
+401,Honda City S Petrol,33000,1,0,2017,7.25,163
+402,Maruti Suzuki Baleno Delta 1.2,17286,1,7,2018,5.96,512
+403,Mercedes-Benz GLA 220 d 4MATIC,40484,0,2,2017,28.5,690
+404,Tata Tiago Revotorq XZ Plus,70450,0,0,2020,5.4,838
+405,Honda City V,45074,1,7,2019,8.4,168
+406,Hyundai Elite i20 Asta 1.4 CRDI,101000,0,13,2015,6.95,246
+407,BMW 7 Series 760Li,22000,1,0,2016,59,62
+408,Hyundai i20 Sportz 1.2 BS-IV,69000,1,8,2012,3.45,359
+409,Maruti Suzuki Dzire VXi AMT,14895,1,12,2018,6.96,569
+410,Tata Tiago XZ Plus CNG,11444,3,4,2022,8.1,847
+411,Tata Tiago Revotron XE [2016-2019],32120,1,4,2018,4.14,839
+412,Toyota Fortuner 2.8 4x4 AT [2016-2020],64300,0,0,2019,33,871
+413,Tata Harrier XZA Plus,30503,0,13,2021,22,802
+414,Honda City SV Petrol [2019-2020],62042,1,0,2019,8.25,167
+415,Mahindra TUV300 T8,122924,0,6,2017,7.45,466
+416,Ford EcoSport Titanium 1.5L Ti-VCT AT,37000,1,0,2016,6.9,109
+417,Skoda Kushaq Style 1.5L TSI DSG (6 Airbags),23402,1,2,2021,19.25,762
+418,Audi A4 35 TFSI Premium Sunroof,35000,1,8,2015,17.25,16
+419,Hyundai Elite i20 Asta 1.2 (O) [2016],38657,1,12,2017,6.39,241
+420,Maruti Suzuki Wagon R 1.0 VXI AMT,64000,1,6,2016,4.45,648
+421,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],35094,1,12,2018,5.1,275
+422,Toyota Glanza G,18000,1,14,2021,7.3,877
+423,Nissan Magnite XE,18503,1,12,2021,6.7,705
+424,Ford EcoSport Titanium 1.5 Ti-VCT AT,30000,1,4,2018,8.25,106
+425,Honda Jazz ZX CVT,33197,1,3,2020,8.42,198
+426,Land Rover Range Rover Velar 2.0 R-Dynamic Petrol 250,39800,1,13,2019,77,424
+427,Ford EcoSport Titanium + 1.5L TDCi,83000,0,0,2016,6.9,100
+428,BMW 3 Series GT 320d Luxury Line [2014-2016],3600000,0,12,2019,36,49
+429,Maruti Suzuki Swift ZXi Plus,24783,1,7,2021,7.15,629
+430,Maruti Suzuki Vitara Brezza VDi (O) [2016-2018],55000,0,13,2017,8.15,631
+431,Hyundai Santro Sportz [2018-2020],11844,1,12,2019,5.54,296
+432,Jeep Compass Limited (O) 2.0 Diesel 4x4 [2017-2020],37430,0,6,2017,16.95,371
+433,Mahindra XUV500 W8,81682,0,2,2013,8.79,486
+434,Hyundai Xcent S 1.2,32700,1,0,2014,4.9,330
+435,Honda WR-V VX MT Petrol,23795,1,3,2021,10.19,202
+436,Maruti Suzuki Swift DZire ZXI,37188,1,12,2015,5.18,612
+437,Maruti Suzuki Alto K10 VXi [2014-2019],27044,1,2,2017,3.79,507
+438,Hyundai Elite i20 Sportz 1.4 CRDI [2016-2017],52451,0,6,2016,6.6,258
+439,MG Hector Sharp 1.5 Petrol Turbo DCT,35200,1,2,2020,16.49,436
+440,Hyundai Elite i20 Sportz 1.2,30490,1,2,2019,8.49,254
+441,Maruti Suzuki Celerio ZXi AMT [2019-2020],65000,1,13,2019,5,540
+442,Maruti Suzuki Alto 800 LXi CNG (O),36427,3,8,2017,3.49,493
+443,Hyundai Santro Sportz,47873,1,12,2020,5.89,292
+444,Mahindra XUV500 W10,116000,0,9,2015,8.65,479
+445,Volkswagen Taigun Topline 1.0 TSI AT,11321,1,13,2022,17.9,921
+446,Hyundai Creta E Plus 1.6 Petrol,12000,1,13,2018,9.3,219
+447,Hyundai Grand i10 Sportz (O) AT 1.2 Kappa VTVT [2017-2018],23671,1,2,2018,6.95,285
+448,Maruti Suzuki SX4 ZXi,58000,1,7,2009,1.6,609
+449,Honda Amaze 1.2 V CVT Petrol [2018-2020],38868,1,4,2018,6.65,137
+450,Honda City VX CVT,33613,1,8,2016,7.95,173
+451,Audi Q3 35 TDI Premium + Sunroof,90246,0,0,2016,20.5,30
+452,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,58005,1,13,2018,5,283
+453,Toyota Yaris V MT,44000,1,6,2018,9.8,902
+454,Maruti Suzuki Swift VXi AMT,28151,1,4,2019,7.04,622
+455,Hyundai Creta 1.6 E Petrol,59233,1,9,2015,7.45,207
+456,Hyundai Grand i10 Era 1.1 CRDi [2016-2017],34000,0,14,2017,5,271
+457,Maruti Suzuki Baleno Alpha 1.2,47500,1,13,2017,6.1,509
+458,Honda City 1.5 V MT,82000,1,13,2010,3.25,157
+459,Toyota Fortuner Legender 4X2 AT 2.8 Legender,28000,0,12,2021,48.5,876
+460,Toyota Etios Cross 1.2 G,32545,1,7,2015,4.35,863
+461,Honda City V,82852,1,4,2014,6.53,168
+462,Ford EcoSport Titanium 1.5 TDCi,56615,0,13,2015,5.99,104
+463,Kia Seltos GTX Plus AT 1.4 [2019-2020],57600,1,3,2019,14.9,393
+464,Hyundai Grand i10 Magna 1.1 CRDi [2016-2017],30704,0,6,2018,6.2,273
+465,BMW X5 xDrive 30d,60000,0,12,2017,47.9,71
+466,Maruti Suzuki Baleno Delta 1.2,14813,1,4,2016,5.27,512
+467,Fiat Punto Active 1.3,85451,0,6,2014,3.5,91
+468,Renault Kwid CLIMBER 1.0 AMT [2017-2019],39736,1,8,2017,4.25,747
+469,Mercedes-Benz C-Class C 220 CDI Avantgarde,31283,0,2,2016,28.78,669
+470,Honda City SV CVT,69000,1,13,2015,6.15,165
+471,Maruti Suzuki XL6 Zeta AT Petrol,14222,1,0,2022,12.9,659
+472,Honda City 1.5 S MT,63000,1,8,2011,3.45,156
+473,Volkswagen Polo Comfortline 1.2L (D),57261,0,7,2013,2.9,911
+474,Skoda Rapid Ambition 1.6 MPI AT,14049,1,7,2020,10.13,774
+475,Hyundai Eon Era +,75000,1,0,2016,2.95,263
+476,Maruti Suzuki S-Presso VXi Plus,66,1,4,2021,4.76,606
+477,Maruti Suzuki Dzire VDi,91000,0,6,2018,7.85,566
+478,Maruti Suzuki Ritz VXI BS-IV,39900,1,13,2011,2.35,595
+479,Hyundai Creta SX (O) 1.5 Petrol CVT [2020-2022],9355,1,13,2022,19.25,223
+480,Maruti Suzuki Baleno Zeta 1.2 AT,55000,1,14,2018,7,521
+481,Volkswagen Taigun Highline 1.0 TSI AT,16777,1,2,2021,17.49,920
+482,Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020],55627,0,2,2018,24.49,888
+483,Maruti Suzuki Ertiga ZXi,67590,1,8,2014,5.95,587
+484,Nissan Micra Active XV,16937,1,7,2017,3.25,708
+485,Honda City V,36000,1,8,2018,8.75,168
+486,Honda Amaze 1.2 VX MT Petrol [2018-2020],7702,1,12,2022,8.57,140
+487,Maruti Suzuki S-Presso VXi Plus,50729,1,12,2020,4.54,606
+488,BMW 3 Series 330i Sport Line,63000,1,0,2018,22.5,48
+489,MINI Cooper Countryman Cooper D,46251,0,0,2014,14.75,443
+490,Hyundai Verna 1.4 VTVT,67000,1,0,2016,5.9,314
+491,Mercedes-Benz CLA 200 CDI Sport,52295,0,6,2016,25,673
+492,Maruti Suzuki Alto 800 Lxi,52460,1,12,2015,2.92,495
+493,Hyundai i20 Asta 1.2,41429,1,12,2012,4.3,353
+494,Jeep Compass Limited (O) 1.4 Petrol AT [2017-2020],28449,1,8,2019,18.25,370
+495,Hyundai Santro Sportz [2018-2020],57588,1,12,2019,5.26,296
+496,Mercedes-Benz CLA 200 CDI Sport,51500,0,7,2015,16.49,673
+497,Maruti Suzuki Wagon R 1.0 VXI AMT,53830,1,0,2018,4.9,648
+498,Toyota Innova 2.5 G4 8 STR,120000,0,13,2009,4.25,885
+499,Tata Indica V2 DLE BS-III,50000,0,10,2007,60000,808
+500,Maruti Suzuki Alto 800 Lxi,68000,1,6,2015,3.1,495
+501,Maruti Suzuki Baleno Zeta,22772,1,7,2018,6.55,519
+502,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],22407,1,8,2017,4.65,276
+503,Hyundai Elite i20 Sportz 1.2 (O),61546,1,12,2018,6.3,255
+504,Hyundai i20 Magna 1.2,68000,1,9,2012,3.1,355
+505,Honda City SV CVT,45000,1,0,2015,6.9,165
+506,MG Astor Sharp 1.5 CVT,4946,1,13,2021,16.85,428
+507,Maruti Suzuki Wagon R 1.0 VXI,13889,1,12,2017,4.64,646
+508,Jeep Compass Limited 1.4 Petrol AT [2017-2020],23409,1,12,2019,16.92,373
+509,Toyota Fortuner 2.8 4x2 AT [2016-2020],82000,0,6,2017,32.5,869
+510,Maruti Suzuki Celerio VXi,40900,1,2,2014,4.15,524
+511,Mercedes-Benz A-Class A 200d,8368,0,2,2017,22.95,661
+512,Toyota Fortuner 3.0 4x2 AT,107281,0,2,2012,16.49,872
+513,Maruti Suzuki Swift VXi ABS,51595,1,4,2013,3.4,621
+514,Renault Kwid 1.0 RXT [2016-2019],22541,1,2,2018,4.6,744
+515,Mercedes-Benz GLC 220 d Sport,46000,0,12,2018,44,692
+516,Maruti Suzuki Wagon R 1.0 VXI,20728,1,7,2016,3.59,646
+517,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],44868,1,2,2019,5.95,275
+518,Hyundai Grand i10 Nios Sportz AMT 1.2 Kappa VTVT,18631,1,12,2019,7.33,281
+519,Toyota Innova Crysta 2.8 GX AT 8 STR [2016-2020],48969,0,13,2018,18.9,889
+520,Toyota Innova Crysta ZX 2.4 7 STR,42000,0,6,2022,33.5,892
+521,Maruti Suzuki Wagon R ZXi 1.2,9011,1,2,2021,6.49,657
+522,Honda City VX CVT,77116,1,6,2015,9.5,173
+523,Honda City Anniversary Edition Diesel,26500,Diesel ,1,2018,8.2,159
+524,Hyundai Creta SX Plus 1.6  Petrol,22872,1,2,2017,11.37,231
+525,Volvo V40 D3 Kinetic,30000,0,0,2016,16,941
+526,Hyundai Elite i20  Asta 1.2 AT,33647,1,13,2018,7.5,238
+527,Maruti Suzuki Alto 800 Vxi,27233,1,7,2014,2.23,498
+528,Hyundai Creta SX (O) 1.5 Petrol CVT [2020-2022],28374,1,13,2021,17.25,223
+529,Mahindra Scorpio S6 Plus 1.99 Intelli-Hybrid,80500,0,4,2017,8.95,464
+530,Volkswagen Polo GT TSI,41417,1,2,2017,9.45,914
+531,Maruti Suzuki Alto 800 Vxi,23377,1,4,2015,2.67,498
+532,Hyundai Elite i20 Asta 1.4 (O) CRDi,75126,0,6,2018,8.5,245
+533,Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020],16700,1,0,2020,9.49,545
+534,Honda WR-V VX MT Petrol,27429,1,7,2019,6.99,202
+535,Renault Kwid RXL [2015-2019],40000,1,9,2018,2.95,752
+536,Ford Figo Duratorq Diesel Titanium 1.4,50945,0,6,2015,4.75,122
+537,Maruti Suzuki Swift VXi [2014-2017],9500,1,13,2019,6.5,624
+538,Honda Civic 1.8V MT,107551,1,8,2009,2.35,183
+539,Mahindra XUV700 AX 7 Diesel AT 7 STR,2100,0,0,2022,28,488
+540,Maruti Suzuki Swift VXi,40110,1,7,2012,3.27,620
+541,Honda Brio E MT,60000,1,10,2013,3.7,149
+542,Honda CR-V 2.4 AT,74009,1,8,2015,12.51,154
+543,BMW 3 Series 330i M Sport Edition,13900,1,0,2020,47.5,47
+544,BMW X5 xDrive 30d,28000,0,0,2017,48,71
+545,Maruti Suzuki S-Presso VXi,11537,1,0,2020,4.5,605
+546,Toyota Glanza V CVT,15928,1,2,2021,9.85,880
+547,Mahindra Alturas G4 4WD AT [2018-2020],40180,0,7,2019,21.45,447
+548,Renault Duster 85 PS RxL,22601,0,6,2018,8.5,732
+549,BMW 3 Series GT 320d Sport Line [2014-2016],99000,0,6,2016,27.5,50
+550,Maruti Suzuki Ignis Alpha 1.2 MT,10658,1,12,2020,7.12,591
+551,Maruti Suzuki Celerio VXi (O) CNG,75044,3,12,2020,5.56,525
+552,Ford EcoSport Signature Edition Diesel,52000,0,13,2019,10.2,99
+553,Maruti Suzuki Ciaz Zeta 1.4 MT,43999,1,2,2018,8.75,563
+554,Honda Jazz VX Petrol,92270,1,8,2017,5.7,196
+555,Maruti Suzuki Swift DZire VXI,77000,1,13,2012,3.7,610
+556,Audi Q3 35 TDI Premium Plus + Sunroof,148108,0,0,2015,15,31
+557,Maruti Suzuki Wagon R 1.0 VXI,39876,1,12,2016,4.07,646
+558,Jaguar XF 2.2 Diesel Luxury,67534,0,0,2014,19.5,368
+559,Maruti Suzuki Alto 800 Lxi CNG,75430,3,12,2015,3.3,496
+560,Maruti Suzuki Alto K10 VXi,20000,Petrol ,14,2022,4.2,502
+561,Maruti Suzuki Vitara Brezza ZDi Plus AGS,32000,0,2,2019,11.5,635
+562,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],29000,1,6,2016,5.35,287
+563,Hyundai i20 Active 1.2 S,60273,1,6,2016,6.45,347
+564,Honda Amaze 1.2 S i-VTEC,57000,1,13,2015,4.5,135
+565,Tata Nexon XZ Plus (O),3280,1,13,2022,10.65,820
+566,Audi Q7 Technology 55 TFSI,6500,1,12,2022,93,42
+567,Toyota Fortuner 2.8 4x2 AT [2016-2020],51000,0,8,2018,32.5,869
+568,Toyota Corolla Altis JS Petrol,90293,1,8,2015,6.45,860
+569,Maruti Suzuki Swift DZire ZXI,36000,1,13,2013,3.95,612
+570,Mercedes-Benz E-Class E250 CDI Avantgarde,39000,0,0,2014,22,682
+571,BMW 5 Series 520d Luxury Line [2017-2019],25234,0,6,2019,51.95,53
+572,Hyundai i10 Magna 1.2 Kappa2,75619,1,3,2014,3.49,343
+573,Skoda Kodiaq L&K 2.0 TDI 4x4 AT,61213,0,6,2019,32.6,759
+574,Renault Kwid RXT [2015-2019],36904,1,12,2021,4.46,754
+575,Maruti Suzuki Swift VXi [2014-2017],16304,1,7,2018,5.42,624
+576,Skoda Octavia Elegance 1.8 TSI AT,43000,1,8,2015,9.45,770
+577,Tata Nexon XZA Plus (S),20763,1,5,2021,12.25,825
+578,Maruti Suzuki Eeco 5 STR WITH A/C+HTR CNG [2017-2019],38500,3,13,2016,4.75,576
+579,Mahindra Thar CRDe 4x4 Non AC,41535,0,6,2017,7.3,468
+580,Maruti Suzuki Baleno Alpha 1.2,24645,1,13,2019,7.31,509
+581,BMW X5 xDrive 30d M Sport,48213,0,8,2018,53,72
+582,BMW X5 xDrive30d xLine,80000,0,13,2017,42.5,73
+583,Audi Q3 2.0 TDI quattro Premium Plus,79000,0,0,2015,15.13,27
+584,Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020],32031,1,8,2021,11.55,545
+585,Hyundai i10 Sportz 1.2 AT Kappa2,65002,1,13,2013,2.95,345
+586,Mahindra XUV300 W8 1.5 Diesel,39300,0,12,2021,15.74,478
+587,Renault Kwid 1.0 RXT AMT Opt [2016-2019],25332,1,2,2016,4.95,741
+588,Maruti Suzuki Alto 800 Lxi,24456,1,12,2016,2.98,495
+589,Hyundai Grand i10 Asta 1.2 Kappa VTVT,32491,1,3,2017,5.21,266
+590,Hyundai Elite i20 Sportz 1.2,12593,1,8,2018,6.45,254
+591,Hyundai Santro Sportz [2018-2020],34267,1,12,2019,5.5,296
+592,Maruti Suzuki Celerio ZXi AMT ABS,29855,1,4,2016,4.82,538
+593,Hyundai i20 Active 1.2 S,15367,1,13,2015,5.5,347
+594,Hyundai Venue S 1.0 Petrol [2019-2020],14667,1,7,2019,8.95,304
+595,Hyundai Verna 1.6 VTVT S,41990,1,7,2016,5.49,316
+596,Hyundai Creta 1.6 SX,59000,0,6,2018,14.25,210
+597,Hyundai Xcent S 1.1 CRDi (O),48000,0,7,2015,3.5,329
+598,Maruti Suzuki Celerio ZXi AMT [2017-2019],17542,1,2,2018,5.6,539
+599,Skoda Rapid Ambition 1.6 MPI AT,57702,1,2,2018,8.99,774
+600,Honda City 1.5 S AT,42408,1,6,2013,6.2,155
+601,Renault Triber RXZ EASY-R AMT,19784,1,8,2020,7.5,757
+602,Honda City VX CVT,51000,1,7,2016,5.99,173
+603,Renault Duster 85 PS Base 4X2 MT Diesel,75795,0,2,2018,8.62,730
+604,Toyota Innova Crysta ZX 2.4 AT 7 STR,22562,0,6,2021,32.5,893
+605,Maruti Suzuki Baleno Alpha Automatic,21367,1,2,2018,8.95,510
+606,Mercedes-Benz C-Class 200 K AT,76000,1,0,2006,4.63,665
+607,Mercedes-Benz C-Class C 220 CDI Avantgarde,30000,0,2,2015,26.5,669
+608,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],41017,1,8,2015,5.35,270
+609,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],58184,1,12,2016,5.24,269
+610,Maruti Suzuki Ciaz Zeta 1.4 AT,31573,1,6,2018,9,562
+611,Tata Nexon EV XZ Plus,4100,2,8,2022,15,812
+612,Mahindra Quanto C8,100000,0,14,2012,3,461
+613,Tata Tigor Buzz Petrol,33100,1,0,2018,4.9,848
+614,Maruti Suzuki Dzire VXi,19000,1,13,2018,6.65,568
+615,Honda City V,9300,1,0,2022,9.91,168
+616,Hyundai Grand i10 Nios Sportz AMT 1.2 Kappa VTVT,18631,1,12,2019,7.33,281
+617,Hyundai Tucson 2WD MT Diesel,12030,0,4,2021,7.61,301
+618,Hyundai Elite i20 Asta 1.2 (O) [2016],9889,1,2,2016,7.79,241
+619,Skoda Octavia 1.8 TSI Style Plus AT [2017],41000,1,3,2019,19.5,767
+620,Hyundai Verna SX Plus 1.6 CRDi AT,69599,0,0,2017,10.25,328
+621,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,56322,1,4,2014,3.76,283
+622,Hyundai Santro Xing GL Plus,24587,1,4,2013,2.65,298
+623,Hyundai Creta SX Plus 1.6  Petrol,43398,1,13,2017,9.75,231
+624,BMW 3 Series 320d Highline Sedan,40000,0,7,2011,9,44
+625,Maruti Suzuki Wagon R 1.0 LXI ABS,18512,1,12,2021,6.87,640
+626,Maruti Suzuki Alto 800 VXi,13046,1,7,2020,3.69,497
+627,Hyundai i10 1.1L iRDE Magna Special Edition,73700,1,0,2014,3.9,337
+628,Honda WR-V VX MT Petrol,6000,1,13,2019,8.9,202
+629,Tata Harrier XTA Plus Dark Edition,6861,0,6,2022,25,798
+630,Hyundai Elite i20 Magna 1.2,53776,1,13,2015,4.65,250
+631,Skoda Rapid Style 1.5 TDI,61681,0,7,2017,6.54,779
+632,Renault Kwid RXL,13045,1,4,2019,3.51,751
+633,Maruti Suzuki Swift DZire ZDI,98251,0,12,2012,5.26,611
+634,Renault Kwid CLIMBER 1.0 [2017-2019],52778,1,6,2018,3.8,748
+635,Hyundai Creta SX Plus 1.6  Petrol,45000,1,8,2016,9.11,231
+636,Nissan Terrano XL (D),72000,0,0,2015,6.25,715
+637,MG Hector Sharp 1.5 Petrol CVT,20999,1,2,2021,19.75,435
+638,Maruti Suzuki Ritz VXI BS-IV,42000,1,13,2012,3.15,595
+639,Maruti Suzuki Vitara Brezza VXi,72255,1,3,2020,8.59,632
+640,Hyundai Creta 1.6 S Petrol,48529,1,12,2017,10.03,208
+641,Honda Jazz S Petrol,55056,1,2,2017,6.73,189
+642,Land Rover Range Rover Velar 2.0 R-Dynamic S Petrol 250 [2017-2020],31059,1,7,2020,78.99,425
+643,Renault Duster 110 PS RxZ Diesel,56816,0,13,2014,5.7,729
+644,Maruti Suzuki Ertiga ZXi AT,12587,1,0,2021,11.9,588
+645,Toyota Innova Crysta 2.8 GX AT 8 STR [2016-2020],56967,0,6,2017,18.5,889
+646,Renault Kwid Neotech RXL,5485,1,12,2021,5.49,749
+647,Renault Captur Platine Mono Diesel,51720,0,7,2019,6.75,720
+648,Hyundai Santro Sportz AMT [2018-2020],29944,1,12,2018,5.18,294
+649,Hyundai Verna 1.6 VTVT SX,16339,1,7,2018,7.5,317
+650,Maruti Suzuki Vitara Brezza ZDi Plus AGS,93500,0,6,2018,9.85,635
+651,Tata Nexon XMA Diesel,20678,0,13,2019,9.41,815
+652,Honda City S Petrol,31605,1,13,2017,6.95,163
+653,Hyundai Verna SX (O) 1.5 CRDi,14512,0,6,2021,13.83,325
+654,Maruti Suzuki Alto 800 Lxi,24993,1,4,2018,3.19,495
+655,Maruti Suzuki Wagon R 1.0 VXI AMT,53830,1,0,2018,4.9,648
+656,Mahindra XUV300 1.5 W8 (O) [2019-2020],72000,0,6,2018,11.5,477
+657,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],52907,0,3,2017,22.5,890
+658,Ford Figo Titanium 1.5 Ti-VCT AT,49223,1,6,2016,5.5,123
+659,Toyota Corolla Altis G Petrol,125000,1,4,2018,8.85,858
+660,Tata Tiago Revotron XZ Plus,32210,1,2,2018,6.39,842
+661,Honda WR-V VX MT Petrol,27963,1,4,2018,8.2,202
+662,Volkswagen Tiguan Highline TDI,74000,0,6,2017,24,923
+663,Audi Q7 45 TDI Technology Pack,40000,0,0,2017,61.5,41
+664,Mahindra XUV500 W8,147421,0,2,2012,7.5,486
+665,BMW X1 sDrive20d xLine,36114,0,8,2019,32.5,66
+666,Toyota Camry Hybrid,82000,1,4,2017,21.43,852
+667,Honda Amaze 1.2 SX i-VTEC,65000,1,1,2014,4.6,136
+668,Mercedes-Benz C-Class 250 CDI Avantagarde,99941,0,0,2012,9.5,667
+669,Ford EcoSport Titanium 1.5 TDCi,74000,0,13,2013,4.85,104
+670,Maruti Suzuki Swift VXi,76256,1,7,2015,3.7,620
+671,Fiat Punto Evo Dynamic 1.2,36500,1,1,2016,4,92
+672,Maruti Suzuki Ignis Alpha 1.2 MT,41240,1,8,2017,5.25,591
+673,Jeep Compass Limited 1.4 Petrol AT [2017-2020],23409,1,12,2019,16.92,373
+674,Mercedes-Benz E-Class E 220d Exclusive [2019-2019],11000,0,4,2022,74,680
+675,Mercedes-Benz C-Class 250 CDI Avantagarde,55910,0,2,2013,13.95,667
+676,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,38345,1,12,2016,4.79,283
+677,Audi A6 Technology 45 TFSI,23931,1,0,2020,48,22
+678,Mahindra XUV500 W7 [2018-2020],73342,0,8,2020,13.5,485
+679,Honda Amaze 1.2 V CVT Petrol [2018-2020],17500,1,0,2021,8.51,137
+680,Kia Seltos GTX Plus 1.4 [2020-2021],23113,1,2,2019,14.91,392
+681,Mercedes-Benz GLE 250 d,47045,0,13,2016,42.75,694
+682,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],32064,1,12,2014,4.15,275
+683,Maruti Suzuki Dzire ZXi Plus AMT,76203,1,3,2017,6.37,575
+684,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,27448,1,7,2019,4.77,283
+685,Jeep Compass Limited (O) 1.4 Petrol AT [2017-2020],5030,1,7,2021,22.5,370
+686,Hyundai Santro Magna [2018-2020],30858,1,6,2019,5.1,291
+687,Maruti Suzuki Swift Dzire VXI,48000,1,13,2016,5.5,614
+688,Hyundai i10 Sportz 1.2 AT Kappa2,36500,1,0,2011,3.2,345
+689,Maruti Suzuki Celerio VXi CNG [2017-2019],34039,3,12,2018,5.24,532
+690,Hyundai Elite i20 Magna Executive 1.2,24062,1,7,2018,5.36,252
+691,Mercedes-Benz C-Class C 220 CDI Style,64148,0,6,2015,30,670
+692,MG Hector Sharp 2.0 Diesel [2019-2020],46301,0,8,2019,16.11,438
+693,Mahindra Thar LX Hard Top Petrol MT,3590,1,2,2022,16.99,474
+694,Toyota Fortuner 3.0 4x2 AT,134361,0,6,2014,19.9,872
+695,Toyota Fortuner 4x2 AT,108512,0,0,2016,26.49,875
+696,Hyundai Grand i10 Magna 1.2 Kappa VTVT CNG [2019-2020],8423,3,12,2021,7.78,274
+697,Volkswagen Polo Comfortline 1.2L (P),78800,1,13,2013,3.45,912
+698,Maruti Suzuki Ciaz Sigma 1.4 MT,46023,1,8,2018,7.45,554
+699,Hyundai Verna 1.6 VTVT SX,47000,1,0,2017,6.75,317
+700,Hyundai Elite i20 Asta 1.2 (O) [2016],18352,1,4,2017,6.83,241
+701,Honda Amaze 1.2 VX i-VTEC,70000,1,13,2015,4.6,141
+702,MG Astor Savvy 1.5 CVT S Red,12000,1,4,2021,14.75,427
+703,Maruti Suzuki Vitara Brezza VDi,36422,0,8,2019,8.75,630
+704,Honda City 1.5 V MT Sunroof,86593,1,2,2012,5.65,158
+705,Hyundai Eon Era +,34000,1,13,2013,2.5,263
+706,Ford EcoSport Titanium 1.5L Ti-VCT AT,48504,1,8,2016,6.85,109
+707,Maruti Suzuki Swift LXi,12463,1,3,2020,5.64,616
+708,Maruti Suzuki Alto 800 Lxi,54923,1,12,2017,2.99,495
+709,Honda Brio S MT,52000,1,13,2013,3.05,151
+710,Mahindra XUV500 W10 AT,53075,0,2,2017,14.99,480
+711,BMW X1 sDrive20d Expedition,21000,0,8,2017,21.75,64
+712,Maruti Suzuki Wagon R 1.0 LXI,18705,1,4,2017,3.91,639
+713,Maruti Suzuki Swift Dzire ZDI AMT,69000,0,0,2017,6.9,615
+714,Maruti Suzuki Dzire ZDi Plus,71250,0,6,2017,7.7,571
+715,Hyundai Creta Facelift 1.4 Turbo Petrol DCT,18583,1,13,2022,19.2,220
+716,Maruti Suzuki Vitara Brezza ZDi Plus,117859,0,6,2017,9.5,634
+717,Hyundai Elite i20 Magna 1.2,67000,1,6,2015,5.75,250
+718,Maruti Suzuki Baleno Zeta 1.2,57052,1,7,2016,4.83,520
+719,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],75000,0,0,2018,19.75,890
+720,Hyundai Elantra SX (O) 2.0 AT,71395,1,8,2016,10.9,237
+721,Maruti Suzuki Alto K10 VXi AMT [2014-2018],24550,1,12,2016,3.89,506
+722,Volkswagen Ameo Comfortline 1.0L (P),28000,1,0,2019,5.9,903
+723,Maruti Suzuki Dzire ZXi,8087,1,7,2019,6.34,572
+724,Volkswagen Vento Highline Petrol,88000,1,8,2014,4.45,932
+725,Tata Nexon XMA Petrol,26438,1,13,2019,7.45,816
+726,Honda City V CVT Petrol [2017-2019],71420,1,3,2018,9.96,169
+727,Maruti Suzuki Vitara Brezza ZXi Plus AT SHVS,21052,1,12,2020,11.17,638
+728,Audi Q7 4.2 TDI quattro,170000,0,2,2014,32,39
+729,Honda City V CVT Petrol [2017-2019],43417,1,8,2017,8.85,169
+730,Maruti Suzuki Swift DZire VXI,75100,1,4,2012,3.25,610
+731,Toyota Camry Hybrid [2015-2017],700,1,12,2022,48.5,853
+732,Honda Brio S MT,21996,1,0,2016,4.5,151
+733,Tata Harrier XZA Plus Dual Tone,30229,0,8,2021,22.51,804
+734,Maruti Suzuki Alto 800 Lxi,37796,1,12,2016,2.99,495
+735,MG Hector Sharp 1.5 Petrol Turbo Hybrid MT,32000,Hybrid,10,2022,18.66,437
+736,Maruti Suzuki Dzire ZXi Plus AMT,40904,1,6,2020,8.8,575
+737,Hyundai Grand i10 Magna 1.1 CRDi [2016-2017],43000,0,13,2015,4.15,273
+738,Maruti Suzuki Wagon R 1.0 LXi CNG,80173,3,8,2012,2.95,644
+739,Maruti Suzuki Alto 800 Vxi,18512,1,2,2018,3.79,498
+740,Honda City V,73000,1,0,2016,6.25,168
+741,Maruti Suzuki Celerio VXi CNG,1064,3,12,2022,6.89,530
+742,Hyundai Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],37000,Petrol ,14,2017,4.1,267
+743,Hyundai Santro Sportz [2018-2020],60600,1,3,2019,4.86,296
+744,Hyundai Elite i20 Sportz 1.2 [2016-2017],21344,1,8,2016,4.95,256
+745,Hyundai Creta SX 1.6 AT CRDi,82899,0,8,2018,12.85,226
+746,Maruti Suzuki Celerio X Zxi (O) AMT [2017-2019],29192,1,7,2018,4.5,535
+747,Maruti Suzuki Celerio VXi,11363,1,7,2015,3.64,524
+748,Maruti Suzuki Wagon R 1.0 LXi CNG,77050,3,0,2011,2.5,644
+749,Tata Tiago Revotron XZA,24051,1,13,2018,5.25,843
+750,Mahindra XUV500 W10,75811,0,2,2016,13.75,479
+751,Tata Tiago Revotron XZ,45412,1,8,2017,4.65,841
+752,Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020],115000,0,4,2018,15.8,888
+753,Maruti Suzuki Swift VDi,90251,0,6,2018,7.3,618
+754,Maruti Suzuki Wagon R 1.0 VXI,28518,1,7,2016,3.59,646
+755,Datsun GO T [2018-2019],33766,1,6,2018,3.61,84
+756,Ford Fiesta Exi 1.6 Duratec Ltd,114000,Petrol ,10,2009,1.75,119
+757,Volvo S90 D4 Inscription,30000,0,4,2020,47.5,940
+758,Maruti Suzuki Swift DZire VXI,12902,1,7,2014,4.28,610
+759,Maruti Suzuki Vitara Brezza ZDi,62769,0,8,2018,8.45,633
+760,Hyundai Grand i10 Sports Edition 1.1 CRDi,52242,0,7,2015,3.49,282
+761,Honda Jazz ZX CVT,9838,1,12,2021,10.24,198
+762,Renault Kwid Neotech RXL,12000,1,8,2021,4.75,749
+763,Honda BR-V V CVT Petrol,76275,1,8,2016,7.75,147
+764,Honda City V Petrol [2017-2019],29500,1,13,2017,7.65,171
+765,Tata Safari XZA Plus,22617,0,2,2021,23.95,832
+766,Renault Triber RXZ,25000,1,14,2020,6.7,756
+767,Maruti Suzuki Wagon R 1.0 VXI,13889,1,12,2017,4.64,646
+768,BMW 7 Series 730Ld,22000,0,0,2017,69.75,59
+769,Nissan Sunny XL D,29208,0,0,2017,5.75,714
+770,Volkswagen Vento Trendline Petrol,62000,1,13,2011,3.15,937
+771,Land Rover Range Rover Evoque HSE Dynamic,22000,0,2,2018,53,419
+772,Hyundai Eon Era +,26700,1,0,2017,3.5,263
+773,Honda Jazz V Petrol,41217,1,8,2016,5.3,193
+774,Hyundai Creta SX Plus 1.6  Petrol,56747,1,13,2015,7.5,231
+775,Maruti Suzuki Wagon R LXi 1.0 CNG,51765,3,4,2020,5.53,652
+776,Honda Amaze 1.2 VX AT i-VTEC,54000,1,8,2014,4.65,139
+777,Tata Harrier XZA Plus Dark Edition,9535,0,0,2021,22.5,803
+778,Hyundai Santro Sportz [2018-2020],25000,1,0,2019,4.85,296
+779,Maruti Suzuki Wagon R 1.0 LXI CNG,47000,3,13,2015,4,641
+780,Honda City VX CVT,46399,1,8,2015,7.5,173
+781,Maruti Suzuki Alto K10 LXi CNG,47377,3,4,2019,3.7,501
+782,Hyundai Grand i10 Nios Sportz 1.2 Kappa VTVT,44300,1,2,2019,6.69,279
+783,Toyota Innova Crysta 2.4 ZX 7 STR [2016-2020],144286,0,6,2017,19.75,887
+784,Hyundai i10 Asta 1.2 AT with Sunroof,46721,1,13,2013,3.25,339
+785,Hyundai Elite i20 Asta 1.2,21303,1,2,2018,7.99,239
+786,Maruti Suzuki Ritz Vdi BS-IV,80000,0,13,2014,4.1,596
+787,Audi Q3 2.0 TDI quattro Premium Plus,73000,0,4,2015,15.79,27
+788,Chevrolet Beat LS Diesel,84656,Diesel ,1,2011,1.5,75
+789,Hyundai Elite i20 Asta 1.2,18523,1,8,2015,5.65,239
+790,Honda Amaze 1.5 S i-DTEC,76018,0,6,2015,5.6,143
+791,Nissan Sunny XL CVT AT,73056,1,2,2013,4.95,713
+792,Hyundai Venue SX 1.4 (O) CRDi,23221,0,13,2021,13,310
+793,Honda Brio V MT,71000,1,9,2011,2.85,152
+794,Hyundai Elite i20 Sportz 1.2 [2016-2017],13825,1,12,2019,7.23,256
+795,Tata Zest XM 75 PS Diesel,101785,0,3,2015,5.5,851
+796,Maruti Suzuki Wagon R 1.0 LXI CNG,24000,3,13,2015,4.1,641
+797,Maruti Suzuki Celerio VXi (O) CNG [2019-2020],77813,3,12,2019,5.58,526
+798,Maruti Suzuki Baleno Delta 1.2,41617,1,4,2019,6.18,512
+799,BMW 3 Series 320d Luxury Line,41000,0,7,2013,12,45
+800,Maruti Suzuki Wagon R 1.0 VXI,55847,1,12,2015,3.78,646
+801,Renault Duster RXZ 1.3 Turbo Petrol CVT [2020-2021],16600,1,3,2020,11.9,737
+802,Honda Jazz V Petrol,57340,1,0,2019,5.99,193
+803,Hyundai i20 Active 1.2 SX,45173,1,8,2015,5.9,348
+804,Honda City VX CVT Petrol,58019,1,2,2017,9.99,174
+805,Hyundai Elite i20 Asta 1.2,18523,1,8,2015,5.65,239
+806,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],53150,1,13,2015,4.99,270
+807,Tata Nexon XZA Plus,44999,1,2,2020,10.99,824
+808,Hyundai Santro Sportz,12996,1,2,2021,5.4,292
+809,Tata Nexon XZ Plus Dual Tone,50043,1,12,2018,9.13,823
+810,Maruti Suzuki Ciaz S 1.4 MT,21880,1,4,2018,6.86,553
+811,Volkswagen Polo Highline1.2L (D),36486,0,6,2014,5.5,916
+812,Toyota Yaris J CVT [2018-2020],18535,1,12,2019,8.47,899
+813,Maruti Suzuki Swift VXi AMT [2018-2019],37090,1,0,2018,6.75,623
+814,Honda Jazz S MT [2015-2016],26361,1,6,2018,6.5,188
+815,Honda City ZX CVT Petrol [2017-2019],72973,1,7,2017,8.11,178
+816,Toyota Etios VX,121790,1,8,2014,4.11,868
+817,Renault Kwid 1.0 RXT [2016-2019],140000,1,14,2018,2.7,744
+818,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],39200,1,12,2017,5.25,288
+819,Hyundai Grand i10 Sports Edition 1.1 CRDi,61391,0,6,2017,5.5,282
+820,Maruti Suzuki S-Cross Zeta 1.3,87544,0,6,2018,9.5,603
+821,Honda Brio S MT,32000,1,13,2014,3.45,151
+822,Maruti Suzuki Baleno Delta 1.2,66000,1,9,2017,5.65,512
+823,Nissan Magnite XV Premium Dual Tone,13264,1,13,2021,8.4,706
+824,Skoda Rapid Style 1.6 MPI AT,31469,1,8,2018,8.75,782
+825,Volkswagen Cross Polo 1.2 MPI,71976,1,6,2017,6.5,908
+826,Honda City S,59800,1,0,2016,5.75,162
+827,Honda Amaze VX CVT 1.2 Petrol,5768,1,12,2020,9.22,145
+828,Maruti Suzuki Swift ZXi,55209,1,12,2015,5.31,627
+829,Mercedes-Benz CLA 200 CDI Sport,59500,0,0,2016,24.26,673
+830,Hyundai i10 Magna 1.1 iRDE2 [2010-2017],45000,Petrol ,11,2016,4,342
+831,Nissan Terrano XL (D),63839,0,2,2016,7.69,715
+832,Jaguar XE Prestige,32434,1,2,2017,29.75,366
+833,Maruti Suzuki Wagon R 1.0 VXI,55264,Petrol ,13,2016,3.75,646
+834,Hyundai Elite i20 Asta 1.2 (O) [2016],12906,1,7,2017,5.45,241
+835,Maruti Suzuki Swift VXi AMT,18236,1,13,2021,7.65,622
+836,Maruti Suzuki S-Cross Zeta,6200,1,0,2022,10.5,602
+837,Honda City SV,80122,1,9,2014,5.75,164
+838,Honda Jazz S Diesel [2015-2016],46220,0,7,2016,4.5,187
+839,Ford EcoSport Titanium 1.5L TDCi,63767,0,2,2016,7.99,107
+840,Audi A6 2.0 TDI Premium,69000,0,4,2013,12.13,18
+841,Maruti Suzuki Swift VDi,81007,0,6,2018,6.85,618
+842,Audi Q5 3.0 TDI quattro Premium Plus,78457,0,6,2015,28,37
+843,Maruti Suzuki Vitara Brezza VXi,41098,1,2,2020,9.49,632
+844,Maruti Suzuki Celerio VXi,50809,1,12,2016,3.96,524
+845,Maruti Suzuki Vitara Brezza ZDi+ Dual Tone [2017-2018],59568,0,6,2019,9.54,636
+846,Skoda Laura Ambition 2.0 TDI CR AT,140037,0,8,2013,4.25,763
+847,Honda WR-V VX MT Diesel,63036,0,7,2017,6.45,201
+848,Maruti Suzuki Alto 800 LXi (O) CNG,18362,3,4,2021,4.51,492
+849,Hyundai Elantra 1.6 SX AT,85520,0,12,2015,9.31,234
+850,Honda Amaze 1.2 VX i-VTEC,46000,1,8,2016,5,141
+851,Land Rover Discovery Sport SE,38000,0,13,2018,49.5,414
+852,Maruti Suzuki S-Cross Zeta,12712,1,6,2021,10.95,602
+853,Maruti Suzuki Ciaz Alpha 1.4 MT,35731,1,2,2017,7.69,544
+854,Ford EcoSport Titanium 1.5L Ti-VCT,39000,1,7,2017,5.85,108
+855,Honda Jazz V AT Petrol,32000,1,7,2015,4.75,191
+856,Honda City ZX EXi,119000,Petrol ,1,2007,2.95,179
+857,Maruti Suzuki Swift ZXi,80457,1,6,2018,6.52,627
+858,Hyundai Elite i20 Asta 1.4 CRDi,91234,0,7,2018,6.21,248
+859,Hyundai Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],49422,1,12,2016,6.15,267
+860,Maruti Suzuki Wagon R 1.0 VXI AMT,33053,1,12,2017,4.75,648
+861,Hyundai Aura SX 1.2 (O) Petrol,17385,1,12,2020,7.3,205
+862,Mercedes-Benz AMG GLA35 4MATIC,1600,1,8,2021,61,663
+863,Maruti Suzuki Dzire ZXi Plus,10158,1,12,2022,9.74,574
+864,Hyundai Creta SX Plus 1.6 AT CRDI,56907,0,7,2018,10.23,232
+865,Hyundai Elite i20 Asta 1.2 (O) [2019-2020],18000,Petrol ,14,2019,8,242
+866,Kia Seltos GTX 1.4,12498,1,2,2020,16.82,389
+867,Honda Brio S MT,42265,1,2,2013,4.19,151
+868,Maruti Suzuki Celerio VXi CNG [2017-2019],81329,3,4,2018,4.87,532
+869,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],53300,1,12,2016,4.5,276
+870,Nissan Magnite XV Premium Dual Tone,20000,Petrol ,10,2021,8.3,706
+871,Renault Duster 110 PS RXS 4X2 AMT Diesel,59839,0,2,2018,10.29,724
+872,Toyota Fortuner 2.8 4x2 AT [2016-2020],177734,0,6,2018,32,869
+873,Honda Brio S MT,55200,1,4,2014,2.82,151
+874,Maruti Suzuki S-Presso VXi,31651,1,7,2020,4.52,605
+875,Hyundai Verna 1.6 VTVT SX,25921,1,4,2018,9.1,317
+876,Tata Nexon XZ Plus (O),700,1,3,2022,11.5,820
+877,Maruti Suzuki Swift VXi AMT,28151,1,4,2019,7.04,622
+878,Honda Brio V MT,39276,1,8,2014,3.51,152
+879,Audi A6 2.0 TDI Premium,75000,0,0,2014,16.5,18
+880,Honda Amaze 1.2 VX MT Petrol [2018-2020],25075,1,8,2018,6.85,140
+881,Kia Seltos HTX 1.5 [2020-2021],10678,1,4,2020,13.53,401
+882,Ford EcoSport Titanium 1.5L Ti-VCT AT,31250,1,8,2015,5.75,109
+883,Maruti Suzuki Alto 800 LXi (O) CNG,18362,3,4,2021,4.51,492
+884,Maruti Suzuki Swift VXi,38500,1,13,2010,2.65,620
+885,Maruti Suzuki Wagon R 1.0 VXI AMT,25299,1,8,2015,4,648
+886,Mercedes-Benz C-Class 250 CDI Avantagarde,99941,0,0,2012,9.5,667
+887,BMW 7 Series 730Ld Sedan,35000,0,0,2009,12.5,60
+888,Maruti Suzuki Alto K10 VXi AMT [2014-2018],48448,1,4,2017,3.38,506
+889,Maruti Suzuki Ciaz Delta 1.4 MT,33823,1,4,2017,6.87,550
+890,Maruti Suzuki Swift VXi [2014-2017],21388,1,7,2019,5.71,624
+891,Mahindra TUV300 T8 AMT mHAWK100,35239,0,8,2015,6.45,467
+892,Volkswagen Polo GT TSI,11106,1,7,2021,8.25,914
+893,Kia Seltos HTX IVT 1.5 [2019-2020],28133,1,7,2020,12.75,402
+894,Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020],23097,1,12,2021,10.76,545
+895,Maruti Suzuki Wagon R 1.0 VXI,57348,1,12,2016,3.76,646
+896,Mercedes-Benz CLA 200 D Urban Sport,37329,0,2,2018,29.75,674
+897,Ford EcoSport Titanium 1.5L Ti-VCT,15443,1,4,2017,7.19,108
+898,Hyundai Eon Era +,43000,1,9,2018,3.4,263
+899,Hyundai Creta SX Plus 1.6  Petrol,39240,1,13,2017,9.25,231
+900,Hyundai Santro Sportz CNG [2018-2020],43784,3,8,2019,5.45,295
+901,Maruti Suzuki Vitara Brezza ZDi,87803,0,6,2018,9.25,633
+902,Hyundai i20 Active 1.2 SX,45000,1,13,2015,6.45,348
+903,Toyota Etios VX,35311,1,4,2011,3.09,868
+904,Mahindra Alturas G4 4WD AT [2018-2020],42347,0,7,2018,18.99,447
+905,Maruti Suzuki Swift ZXi AMT [2018-2019],68183,1,2,2018,7,628
+906,Mercedes-Benz GLA 200 d Sport,41679,0,6,2018,33,689
+907,Hyundai Verna Fluidic 1.6 VTVT SX Opt AT,77394,1,13,2013,4.6,324
+908,Honda Jazz VX CVT Petrol,30610,1,0,2019,6.99,194
+909,Toyota Urban Cruiser High Grade AT,6257,1,13,2021,11.4,895
+910,Honda Amaze 1.2 VX MT Petrol [2018-2020],7702,1,12,2022,8.57,140
+911,Hyundai Creta SX 1.6 CRDI (O),75799,0,3,2017,10.72,228
+912,Datsun GO T (O),47000,1,0,2018,2.5,83
+913,Maruti Suzuki Ertiga Vxi CNG,52000,3,13,2013,6.5,584
+914,Toyota Innova 2.5 GX BS IV 7 STR,40372,0,4,2018,20.31,886
+915,Audi A8 L 3.0 TDI quattro,45500,0,0,2013,27.51,23
+916,Ford EcoSport Titanium 1.5 Ti-VCT AT,43624,1,8,2019,9.45,106
+917,Maruti Suzuki Swift VXi [2014-2017],18548,1,13,2018,5.95,624
+918,Ford Freestyle Trend Plus 1.2 Ti-VCT [2019-2020],63000,1,11,2019,6.1,127
+919,Maruti Suzuki Vitara Brezza ZDi Plus,51439,0,8,2017,8.85,634
+920,BMW X1 sDrive20d xLine,56307,0,2,2018,32.75,66
+921,Maruti Suzuki Dzire VXi,30481,1,12,2018,6.41,568
+922,Hyundai Elite i20 Asta 1.2,34058,1,2,2018,7.89,239
+923,Honda Amaze 1.2 SX i-VTEC,48285,1,2,2015,5.19,136
+924,Ford EcoSport Titanium 1.5L TDCi,60126,0,0,2017,7.9,107
+925,BMW 5 Series 520d Luxury Line [2017-2019],61000,0,0,2019,38,53
+926,Maruti Suzuki Celerio VXi CNG [2017-2019],88603,3,12,2017,4.89,532
+927,Maruti Suzuki Alto 800 Lxi,45643,1,7,2013,2.09,495
+928,Tata Altroz XZ (O) Diesel,10412,0,3,2021,9.78,793
+929,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],32335,1,2,2019,5.7,275
+930,Mercedes-Benz S-Class 350 L,133000,1,0,2011,14.56,701
+931,Hyundai Elantra 1.6 SX AT,80000,0,4,2014,6.25,234
+932,Honda Jazz SV Petrol,39173,1,2,2015,5.99,190
+933,Hyundai i20 Sportz 1.4 CRDI,91127,0,6,2013,4.5,361
+934,Hyundai Verna SX Plus 1.6 CRDi AT,29373,0,12,2019,13.25,328
+935,Kia Sonet HTX 1.0 iMT [2020-2021],23700,1,3,2020,10.5,408
+936,Honda City 1.5 S MT,62550,1,13,2013,3.99,156
+937,Hyundai Elite i20 Sportz 1.4,66000,0,8,2015,5.71,257
+938,Maruti Suzuki Wagon R 1.0 LXI CNG,89000,3,13,2014,3.49,641
+939,Hyundai Eon 1.0 Kappa Magna + [2014-2016],45100,1,6,2016,2.95,259
+940,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,53734,1,12,2016,4.61,283
+941,Hyundai i20 Active 1.2 SX,74655,1,3,2016,6.9,348
+942,Toyota Innova 2.5 G2,340000,0,10,2009,6.5,884
+943,Toyota Corolla Altis G Petrol,54517,1,0,2019,11.9,858
+944,Maruti Suzuki Alto 800 Lxi,35000,1,0,2019,3.35,495
+945,Maruti Suzuki Ciaz ZXi  AT,36937,1,8,2016,6.4,561
+946,Mercedes-Benz E-Class 280,40206,1,7,2007,4.5,677
+947,Hyundai Creta SX Plus 1.6  Petrol,48488,1,13,2016,8.8,231
+948,Volkswagen Tiguan Highline TDI,72533,0,12,2017,23.76,923
+949,Mercedes-Benz R-Class R350 4MATIC,44724,1,2,2012,24.85,698
+950,Honda Amaze 1.5 E i-DTEC,43000,0,7,2017,4.75,142
+951,Hyundai Xcent SX 1.2,94691,1,12,2015,4.86,334
+952,Hyundai Verna Fluidic 1.6 VTVT SX,71550,1,2,2013,4.99,322
+953,Nissan Terrano XL D Plus,77000,0,0,2014,6.25,717
+954,Ford EcoSport Titanium 1.5 TDCi,95240,0,6,2015,6.3,104
+955,Honda City SV CVT,46200,1,8,2014,5.95,165
+956,Maruti Suzuki Vitara Brezza VDi,58481,0,12,2018,7.79,630
+957,Honda Jazz VX CVT Petrol,8652,1,4,2019,8.11,194
+958,Maruti Suzuki Alto 800 LXi (O),30680,1,6,2017,3.5,491
+959,Maruti Suzuki Swift LXi,34933,1,7,2018,4.5,616
+960,Hyundai Elite i20 Asta 1.2,42825,1,2,2018,7.79,239
+961,Hyundai Creta 1.6 S Petrol,39813,1,7,2018,7.91,208
+962,Volkswagen Vento Highline Petrol AT,50667,1,8,2011,3.45,933
+963,Maruti Suzuki Vitara Brezza VXi,29219,1,12,2020,8.62,632
+964,Mercedes-Benz E-Class E350 CDI Avantgarde,63906,0,8,2012,11.95,683
+965,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],35531,0,8,2019,24.5,890
+966,Hyundai Santro Sportz CNG [2018-2020],23404,3,8,2019,5.45,295
+967,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],22407,1,8,2017,4.65,276
+968,Hyundai Grand i10 Asta 1.2 Kappa VTVT [2013-2016],22498,1,7,2018,5.11,268
+969,Maruti Suzuki Wagon R 1.0 LXi CNG Avance LE,68000,3,13,2015,3.95,645
+970,Mahindra Marazzo M6 8 STR,70163,0,6,2018,10.45,458
+971,Datsun redi-GO Gold Limited Edition,48261,1,8,2017,2.85,86
+972,Honda City V,42700,1,0,2019,9.9,168
+973,Renault Kwid 1.0 RXT AMT Opt,32000,1,8,2020,5.45,740
+974,Ford EcoSport Titanium 1.5L Ti-VCT,46900,1,2,2018,7.59,108
+975,Maruti Suzuki Alto 800 Lxi,20315,1,7,2018,3.21,495
+976,Jeep Compass Limited (O) 2.0 Diesel [2017-2020],66500,0,1,2018,18,372
+977,Maruti Suzuki Vitara Brezza ZDi,40579,0,4,2018,7.45,633
+978,Honda City 1.5 V MT,72474,1,0,2010,3.9,157
+979,Tata Nexon XZ Plus (S),1419,1,7,2022,11.5,821
+980,Maruti Suzuki Alto 800 Lxi,29799,1,0,2016,3.2,495
+981,Maruti Suzuki Ciaz ZXi,73402,1,12,2017,6.75,560
+982,Maruti Suzuki Alto 800 Lxi,70661,1,12,2015,2.69,495
+983,Mahindra XUV500 W10,148803,0,6,2015,11.5,479
+984,Kia Sonet HTE 1.2 [2020-2021],7500,1,0,2021,7.9,406
+985,Maruti Suzuki Ertiga VXI,53056,1,7,2017,6.44,579
+986,Maruti Suzuki Eeco 5 STR WITH A/C+HTR CNG [2017-2019],69817,3,12,2020,5.55,576
+987,Audi A6 35 TDI Premium,38894,0,6,2013,18,21
+988,Maruti Suzuki Alto K10 VXi,15685,1,12,2012,2.34,502
+989,Jeep Compass Sport 1.4 Petrol,18000,1,6,2018,15.3,382
+990,Maruti Suzuki Wagon R 1.0 VXi,76617,1,7,2013,2.68,651
+991,Skoda Kodiaq Style 2.0 TDI 4x4 AT,32407,0,2,2018,33.25,760
+992,Land Rover Discovery Sport SE,38000,0,13,2018,49.5,414
+993,Maruti Suzuki Swift ZXi,21852,1,4,2018,6.48,627
+994,Mahindra KUV100 K4 Plus 6 STR,41000,1,9,2017,3.95,452
+995,Kia Sonet GTX Plus 1.0 iMT [2020-2021],4000,1,0,2022,12.75,404
+996,Hyundai Elite i20 Sportz 1.2,31776,1,13,2018,6.75,254
+997,Maruti Suzuki Swift DZire VXI,76725,1,7,2014,3.85,610
+998,Maruti Suzuki Dzire VXi,25144,1,7,2018,5.44,568
+999,Renault Duster 110 PS RXZ 4X2 MT Diesel,63673,0,2,2018,10.25,726
+1000,Hyundai Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],40558,1,3,2017,5.34,284
+1001,Hyundai Creta 1.6 SX Plus AT,74469,0,2,2015,11.25,213
+1002,Toyota Yaris G CVT [2018-2020],67067,1,8,2018,7.55,897
+1003,Volkswagen Vento Highline Petrol,77000,1,9,2011,3.25,932
+1004,Tata Nexon XZ Plus Dual Tone,50043,1,12,2018,9.13,823
+1005,Hyundai Eon Era [2011-2012],81000,1,0,2011,2.2,264
+1006,Tata Harrier XT Plus,30830,0,13,2020,18.95,797
+1007,Maruti Suzuki Swift VDi ABS [2014-2017],83647,0,12,2016,5.67,619
+1008,Tata Tiago Revotron XZ,33640,1,2,2018,5.69,841
+1009,Volkswagen Vento Comfortline Petrol AT,60240,1,2,2015,7.65,926
+1010,Ford EcoSport Titanium 1.5 TDCi,62225,0,8,2014,5.11,104
+1011,Audi A4 2.0 TDI Sline,48000,0,0,2015,16.9,11
+1012,Honda BR-V V CVT Petrol,61280,1,8,2016,7.95,147
+1013,Maruti Suzuki Ertiga VDi,92064,0,6,2014,6.7,578
+1014,Tata Altroz XZ Petrol,9291,1,12,2020,7.89,794
+1015,Maruti Suzuki Baleno Delta 1.3,65000,0,10,2018,6.25,514
+1016,Jeep Compass Limited (O) 1.4 Petrol AT [2017-2020],28449,1,8,2019,18.25,370
+1017,Toyota Yaris V CVT,41079,1,12,2019,9.9,901
+1018,Renault Kwid CLIMBER 1.0 AMT [2017-2019],10690,1,8,2020,5.55,747
+1019,Hyundai Creta 1.6 SX Plus Petrol,36313,1,8,2019,11.75,215
+1020,Honda City SV CVT,75258,1,8,2015,5.9,165
+1021,Maruti Suzuki Swift ZXi AMT [2018-2019],21523,1,6,2018,7.5,628
+1022,Hyundai Eon 1.0 Kappa Magna + [2014-2016],40000,1,13,2016,3.1,259
+1023,Maruti Suzuki Wagon R 1.0 LXI CNG,57300,3,0,2018,4.9,641
+1024,BMW 7 Series 730Ld Sedan,77000,0,0,2010,19.56,60
+1025,Maruti Suzuki Vitara Brezza ZDi+ Dual Tone [2017-2018],20744,0,4,2019,10.12,636
+1026,Audi A3 35 TDI Technology + Sunroof,40910,0,2,2020,30.5,3
+1027,Mercedes-Benz GLA 200 d Sport,25000,0,4,2017,25.59,689
+1028,Maruti Suzuki Ertiga VXI,43162,1,6,2021,9.36,579
+1029,Honda Accord 2.4 Elegance MT,82000,1,8,2010,3.9,128
+1030,MG Hector Plus Sharp 1.5 Petrol Turbo CVT 6-STR,24000,1,4,2021,19.4,432
+1031,Tata Indigo eCS LS CR4 BS-IV,175000,0,11,2014,2,809
+1032,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,21415,1,2,2014,4.71,283
+1033,Maruti Suzuki Celerio ZXi AMT [2019-2020],48549,1,8,2016,4.45,540
+1034,BMW 5 Series 520d Luxury Line [2017-2019],69000,0,4,2015,21.49,53
+1035,Datsun redi-GO T(O) 1.0,1391,1,8,2019,3.45,89
+1036,Maruti Suzuki Wagon R 1.0 LXI,42000,1,8,2014,3.25,639
+1037,Renault Kwid RXT 1.0 AMT,8097,1,9,2022,5.25,753
+1038,Maruti Suzuki Swift LXi,31511,1,4,2014,4.08,616
+1039,Skoda Rapid Ambition 1.6 MPI AT Plus,65000,1,8,2013,3.51,775
+1040,Mercedes-Benz E-Class E 220 d Avantgarde,88508,0,6,2018,44.5,679
+1041,Mahindra Thar LX Convertible Diesel MT,36804,0,7,2021,12.99,470
+1042,Hyundai Creta SX 1.6 CRDi (O),40000,0,6,2018,14.9,229
+1043,Skoda Rapid Ambition 1.6 TDI CR MT,117048,0,6,2016,7.45,778
+1044,Maruti Suzuki Alto 800 LXi (O),28200,1,0,2021,3.5,491
+1045,Maruti Suzuki Swift VXi,57742,1,2,2014,4.99,620
+1046,Audi Q3 30 TDI Premium FWD,94520,0,0,2017,22.5,28
+1047,Mahindra XUV500 W8 [2015-2017],88066,0,4,2015,6.85,487
+1048,Volkswagen Polo Highline1.2L (D),78140,0,0,2014,3.8,916
+1049,Tata Nexon XZA Plus Petrol,29873,1,13,2018,8.75,826
+1050,Hyundai Elite i20 Asta 1.4 (O) CRDi,56415,0,6,2019,8.8,245
+1051,Honda BR-V S Petrol,38258,1,4,2018,9.42,146
+1052,Volvo S60 Kinetic D4,118271,0,6,2016,15.95,939
+1053,Mahindra Bolero Power Plus ZLX,29726,0,4,2019,8.32,449
+1054,Maruti Suzuki Vitara Brezza ZDi,77000,0,6,2017,8.65,633
+1055,Mahindra XUV500 W11(O) [2018-2020],55218,0,4,2018,13.95,482
+1056,Maruti Suzuki XL6 Zeta MT Petrol,2390,1,8,2021,10.45,660
+1057,Hyundai Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],71975,1,6,2017,4.91,284
+1058,Tata Hexa XTA 4x2 7 STR,70930,0,6,2018,15.5,806
+1059,Honda Amaze 1.2 S AT i-VTEC,45751,1,0,2017,6.25,131
+1060,Maruti Suzuki Wagon R 1.0 VXI,32702,1,7,2016,3.69,646
+1061,Honda Amaze 1.2 V MT Petrol [2018-2020],45982,1,2,2018,7.25,138
+1062,Jeep Compass Limited (O) 2.0 Diesel [2017-2020],57624,0,6,2018,17.45,372
+1063,Maruti Suzuki Celerio VXi AMT,67000,1,14,2014,4,527
+1064,Renault Kwid CLIMBER 1.0 (O),1245,1,7,2021,4.8,745
+1065,Honda City SV,56861,1,2,2016,7.99,164
+1066,Maruti Suzuki Dzire ZXi,33372,1,2,2020,7.95,572
+1067,Tata Safari XZA Plus Gold 6 S,22360,0,13,2021,24,835
+1068,Hyundai i20 Magna (O) 1.2,74050,1,12,2014,4.25,354
+1069,Hyundai Elite i20  Asta 1.2 AT,39389,1,2,2018,8.95,238
+1070,Maruti Suzuki Alto K10 VXi [2014-2019],44042,1,12,2015,3.36,507
+1071,Mercedes-Benz C-Class C 220d Progressive [2018-2019],53841,0,6,2019,46,671
+1072,Mahindra XUV500 W11 AT,45724,0,0,2018,15.9,481
+1073,Jeep Compass Model S (O) Diesel 4x4 AT,1600,0,6,2022,37,381
+1074,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],33583,1,7,2019,5,275
+1075,Hyundai Venue S 1.0 AT Petrol [2019-2020],32727,1,8,2020,10.45,303
+1076,Hyundai Verna 1.6 VTVT SX,52858,1,4,2018,8.68,317
+1077,Maruti Suzuki Alto K10 VXi [2014-2019],88989,1,3,2016,2.95,507
+1078,Skoda Rapid Style 1.6 MPI,10418,1,4,2021,10.46,781
+1079,Chevrolet Cruze LTZ,65000,0,13,2017,8.5,76
+1080,Ford EcoSport Titanium 1.5 Ti-VCT AT,43624,1,8,2019,9.45,106
+1081,Maruti Suzuki Baleno Alpha 1.2,31968,1,4,2018,6.89,509
+1082,Hyundai Elite i20 Asta 1.2 (O) CVT [2019-2020],41236,1,8,2019,8.51,240
+1083,Maruti Suzuki Baleno Zeta 1.2,36101,1,8,2017,5.85,520
+1084,Hyundai Creta SX Plus 1.6 AT CRDI,44157,0,8,2017,11.71,232
+1085,Volkswagen Polo GT TSI,51644,1,12,2014,5.92,914
+1086,Hyundai Venue SX 1.4 CRDi,40655,0,4,2019,9.83,311
+1087,Honda Amaze 1.2 SX i-VTEC,79749,1,12,2015,4.69,136
+1088,Volkswagen Ameo Trendline 1.0L (P),46000,1,9,2018,4.65,907
+1089,Volkswagen Ameo Highline1.2L (P) [2016-2018],40729,1,7,2016,3.99,906
+1090,Hyundai Elite i20 Asta 1.2,36349,1,2,2015,6.58,239
+1091,Hyundai Grand i10 Magna 1.2 Kappa VTVT CNG [2019-2020],23345,3,12,2019,5.37,274
+1092,Hyundai Elite i20 Magna 1.2 [2016-2017],33679,1,4,2016,5.34,251
+1093,Hyundai i10 1.1L iRDE Magna Special Edition,56000,1,13,2014,2.95,337
+1094,Maruti Suzuki Celerio VXi,66290,1,9,2015,3.95,524
+1095,Maruti Suzuki Celerio ZXi (O) AMT [2019-2020],41624,1,12,2017,4.25,537
+1096,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],46458,1,12,2013,4.31,287
+1097,Audi A4 2.0 TDI (177bhp) Premium,116265,0,6,2013,16.5,9
+1098,Honda Amaze 1.2 S i-VTEC,50821,1,4,2014,4,135
+1099,Mahindra XUV500 W8 [2015-2017],87820,0,8,2016,9.75,487
+1100,Renault Kwid RXT [2015-2019],22785,1,13,2019,4.25,754
+1101,Maruti Suzuki Wagon R 1.0 LXI CNG,70000,3,13,2018,4.5,641
+1102,Mercedes-Benz E-Class E 350 CDI Edition E,84169,0,6,2016,27,681
+1103,Maruti Suzuki Baleno Zeta 1.2,12252,1,8,2020,7.25,520
+1104,Hyundai i20 Asta (O) 1.2 MT,12420,1,12,2021,9.1,350
+1105,Hyundai i10 Sportz 1.1 iRDE2 [2010--2017],50714,1,3,2014,3.67,344
+1106,Tata Tiago Revotron XZ,16337,1,4,2021,5.9,841
+1107,Maruti Suzuki S-Cross Alpha 1.3,52245,0,13,2017,7.95,600
+1108,Hyundai Venue SX Plus 1.0 Turbo DCT,64317,1,12,2020,10.97,313
+1109,Audi A6 2.0 TDI Premium,101850,0,0,2014,15.5,18
+1110,Hyundai Santro Sportz [2018-2020],43189,1,12,2019,5.29,296
+1111,Audi A4 35 TDI Premium,82695,0,3,2016,27,13
+1112,Maruti Suzuki Wagon R LXi 1.0 CNG,19225,3,12,2021,6.87,652
+1113,Maruti Suzuki Swift VXi [2014-2017],63323,1,6,2016,5.8,624
+1114,Toyota Corolla Altis GL,71957,0,6,2015,11.5,859
+1115,Maruti Suzuki Ciaz Delta 1.5,54031,1,6,2020,8.49,551
+1116,Maruti Suzuki S-Cross Delta 1.3,53416,0,2,2018,8.95,601
+1117,BMW 3 Series 320d Luxury Line,64229,0,2,2016,27.85,45
+1118,Honda Brio EX MT,81122,1,2,2014,3.75,150
+1119,Maruti Suzuki Wagon R VXi 1.2,50860,1,2,2019,5.79,655
+1120,Skoda Kushaq Style 1.0L TSI MT,3000,1,7,2022,14.5,761
+1121,Maruti Suzuki Swift VXi AMT,32516,1,2,2019,7.85,622
+1122,Maruti Suzuki Alto K10 VXi AMT (Airbag) [2014-2019],30305,1,0,2018,4.3,505
+1123,Mahindra Bolero Power Plus SLE [2016-2019],45090,0,7,2017,5.71,448
+1124,BMW 3 Series GT 320d Luxury Line [2014-2016],51400,0,6,2019,39.5,49
+1125,Volkswagen Taigun GT Plus 1.5 TSI DSG,9792,1,0,2021,16.49,919
+1126,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],85182,0,4,2017,16.31,890
+1127,Hyundai Elantra 1.8 SX AT,25000,1,12,2014,6.85,236
+1128,Kia Seltos GTX (O) 1.4,14300,1,12,2021,15.98,388
+1129,Honda City SV CVT,52283,1,8,2015,6.45,165
+1130,Tata Tiago NRG Petrol,9578,1,12,2022,8.43,837
+1131,Ford Freestyle Titanium Plus 1.2 Ti-VCT [2018-2020],32000,1,1,2020,6,126
+1132,Honda City ZX CVT Petrol [2017-2019],43239,1,8,2017,9.25,178
+1133,Maruti Suzuki Wagon R LXi Minor,150000,Petrol ,1,2007,1.5,653
+1134,Skoda Rapid Ambition 1.6 MPI AT,54698,1,4,2020,9.59,774
+1135,Maruti Suzuki Alto 800 VXi,19097,1,4,2020,3.49,497
+1136,Maruti Suzuki Swift VXi [2014-2017],37497,1,2,2018,6.29,624
+1137,Volkswagen Polo Highline1.2L (P),76143,1,8,2013,3,917
+1138,Honda City VX CVT Petrol [2017-2019],28340,1,2,2017,11.45,175
+1139,Toyota Corolla Altis G CVT Petrol,75766,1,4,2017,12.27,857
+1140,Hyundai Verna Fluidic 1.6 CRDi SX,106985,0,6,2014,6,321
+1141,Jeep Compass Limited Plus Petrol AT,11000,1,8,2020,20,377
+1142,BMW X3 xDrive20d,74073,0,6,2012,18,69
+1143,Volkswagen Ameo Highline Plus 1.5L AT (D)16 Alloy,58549,0,3,2017,6.6,905
+1144,Volkswagen Taigun Topline 1.0 TSI MT,12093,1,2,2021,15.99,922
+1145,Ford Figo Duratorq Diesel Titanium 1.4,64983,0,8,2013,2.99,122
+1146,Hyundai Elite i20 Asta 1.2,36787,1,13,2014,5.15,239
+1147,Jeep Compass Limited (O) 2.0 Diesel [2017-2020],47631,0,7,2017,11.26,372
+1148,Maruti Suzuki Ciaz Zeta 1.4 AT,28800,1,0,2017,7.52,562
+1149,Maruti Suzuki Baleno Alpha 1.2,43000,1,6,2019,8.75,509
+1150,Volkswagen Vento TSI,55837,1,8,2016,6.1,936
+1151,Hyundai Creta SX Plus 1.6  Petrol,41441,1,13,2016,8.99,231
+1152,Volkswagen Polo Comfortline 1.2L (P),49047,1,8,2015,4.25,912
+1153,Hyundai Grand i10 Asta 1.2 Kappa VTVT [2013-2016],55888,1,6,2013,4.28,268
+1154,Hyundai Santro Sportz CNG [2018-2020],32036,3,4,2021,6.04,295
+1155,Maruti Suzuki Alto 800 Vxi,71169,1,4,2014,2.46,498
+1156,Honda Civic ZX CVT Petrol [2019-2020],19600,1,12,2019,20.7,184
+1157,Maruti Suzuki Ciaz Delta 1.3 Hybrid,61456,0,4,2017,6,548
+1158,Maruti Suzuki Baleno Delta Dualjet,28417,1,4,2020,6.79,515
+1159,Maruti Suzuki Baleno Sigma 1.3,60132,0,2,2018,6.99,518
+1160,Hyundai Elite i20 Sportz 1.2,45571,1,8,2017,6.1,254
+1161,Hyundai Eon 1.0 Kappa Magna + [2014-2016],34229,1,4,2014,2.83,259
+1162,Maruti Suzuki Wagon R 1.0 VXI AMT,38754,1,4,2018,4.45,648
+1163,Hyundai Verna 1.6 VTVT SX,5564,1,8,2019,9.65,317
+1164,Maruti Suzuki Alto K10 VXi AMT,58006,1,6,2019,4.3,504
+1165,Jeep Compass Limited Plus 2.0 Diesel 4x4 AT,11293,0,8,2020,24.75,375
+1166,Volkswagen Polo Comfortline 1.2L (P),51000,1,2,2015,5.79,912
+1167,Hyundai Elite i20 Asta 1.4 CRDI,77505,0,3,2017,7.7,246
+1168,Volkswagen Polo GT TSI,62690,1,2,2018,9.25,914
+1169,Maruti Suzuki Alto 800 LXi (O),6370,1,7,2019,3.43,491
+1170,Maruti Suzuki Swift Dzire VXI,59000,1,5,2017,5.15,614
+1171,Maruti Suzuki Swift ZXi AMT [2018-2019],11874,1,13,2019,7.25,628
+1172,Renault Kwid 1.0 RXL [2017-2019],56856,1,4,2017,2.85,739
+1173,Maruti Suzuki Ignis Delta 1.2 MT,11824,1,12,2018,4.74,592
+1174,Mahindra XUV500 W6,56877,0,2,2016,11.25,483
+1175,Maruti Suzuki Wagon R 1.0 LXI CNG,45000,3,13,2015,4,641
+1176,Honda WR-V VX MT Petrol,24459,1,7,2017,6.25,202
+1177,Renault Kwid 1.0 RXT [2016-2019],43335,1,12,2016,3.14,744
+1178,Honda Jazz V Petrol,54912,1,7,2016,4,193
+1179,Maruti Suzuki Baleno Delta 1.2,15116,1,8,2019,6.65,512
+1180,Volvo V90 Cross Country D5 Inscription [2017-2020],67713,0,0,2018,36,943
+1181,Maruti Suzuki Baleno Delta 1.2 AT,45000,1,6,2020,7.25,513
+1182,Hyundai Eon Era +,46101,1,7,2018,2.45,263
+1183,Maruti Suzuki Dzire VXi AMT,46232,1,2,2018,7.69,569
+1184,Mercedes-Benz GLC 220d 4MATIC Progressive,6563,0,7,2022,64.99,693
+1185,Land Rover Discovery Sport HSE Luxury,64801,0,7,2016,26.99,413
+1186,Mercedes-Benz GLE 250 d,46023,0,2,2018,53.55,694
+1187,Hyundai Verna Fluidic 1.6 VTVT SX,74371,1,8,2014,5.15,322
+1188,Hyundai Elite i20 Magna Plus 1.4 CRDi,58262,0,4,2018,5.94,253
+1189,Honda BR-V V CVT Petrol,61225,1,8,2016,7.9,147
+1190,Hyundai Xcent S 1.2 Special Edition,37882,1,12,2015,4.82,332
+1191,Ford Endeavour Titanium 3.2 4x4 AT,71773,0,6,2018,33,115
+1192,Hyundai i20 Magna 1.2,35982,1,7,2012,2.99,355
+1193,Honda Amaze 1.2 S i-VTEC,46500,1,8,2014,3.75,135
+1194,Mercedes-Benz E-Class E 350 CDI Edition E,24162,0,7,2016,27.99,681
+1195,Datsun GO Plus T,43000,1,0,2015,2.5,81
+1196,Ford EcoSport Titanium 1.5 TDCi,53000,0,7,2015,4.65,104
+1197,Kia Sonet HTX 1.5 [2020-2021],58063,0,7,2021,9.5,409
+1198,Audi Q7 45 TDI Technology Pack,37648,0,2,2018,69.95,41
+1199,Maruti Suzuki Swift VDi,82366,0,6,2017,6.5,618
+1200,Skoda Kodiaq Style 2.0 TDI 4x4 AT,103885,0,6,2017,25,760
+1201,Hyundai Elite i20 Magna 1.2,67000,1,6,2015,5.75,250
+1202,Volkswagen Jetta Trendline 2.0L TDI,63389,0,7,2011,2.95,909
+1203,Maruti Suzuki Ritz Vxi BS-IV,88000,1,6,2015,4.65,598
+1204,Audi A3 40 TFSI Premium Plus + sunroof,43290,1,12,2018,24.5,6
+1205,Maruti Suzuki Baleno Zeta,29093,1,7,2018,6.21,519
+1206,Hyundai i10 Magna 1.1 LPG,73380,LPG,6,2013,3.5,341
+1207,Honda Jazz VX Petrol,48210,1,13,2017,5.5,196
+1208,Hyundai Verna Fluidic 1.6 VTVT SX,14296,1,2,2014,6.69,322
+1209,Ford EcoSport Titanium 1.5L TDCi,59511,0,7,2018,6.5,107
+1210,Toyota Fortuner 2.8 4x4 AT [2016-2020],6373,0,7,2021,41.99,871
+1211,Toyota Innova Crysta 2.4 ZX 7 STR [2016-2020],88000,0,6,2018,22,887
+1212,Kia Seltos HTX 1.5 [2020-2021],42000,1,0,2020,12.75,401
+1213,Renault Duster 110 PS RxL AWD Diesel,94931,0,2,2015,7.75,727
+1214,MG Hector Shine 1.5 Petrol Turbo CVT,5900,1,7,2021,18,440
+1215,Land Rover Discovery Sport HSE Luxury,38144,0,0,2019,43.07,413
+1216,Toyota Innova Crysta 2.4 ZX 7 STR [2016-2020],48989,0,13,2020,27,887
+1217,Maruti Suzuki Swift VXi [2014-2017],15205,1,13,2018,5.95,624
+1218,Mercedes-Benz GLS 350 d,59348,0,8,2017,63,697
+1219,Maruti Suzuki Wagon R 1.0 VXI,33941,1,7,2018,3.82,646
+1220,Maruti Suzuki Wagon R 1.0 LXI CNG,19812,3,12,2015,4.15,641
+1221,Volkswagen Polo Highline Plus 1.2( P)16 Alloy [2017-2018],55800,1,5,2018,4.85,915
+1222,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],35010,1,4,2017,4.82,276
+1223,Kia Seltos GTX Plus 1.4 [2020-2021],11000,1,3,2020,16.9,392
+1224,Maruti Suzuki Baleno Delta 1.2,28000,1,13,2017,5.7,512
+1225,Renault Kwid 1.0 RXT [2016-2019],53728,1,4,2018,3.04,744
+1226,Tata Harrier XZ,28000,0,8,2020,16.75,799
+1227,Maruti Suzuki Alto K10 VXi,66000,1,6,2012,2.55,502
+1228,Maruti Suzuki Ertiga ZXi AT,32881,1,0,2019,10.9,588
+1229,Volkswagen Vento Trendline Petrol,101740,1,6,2010,3.5,937
+1230,BMW X1 sDrive20d,47000,0,13,2011,8.35,63
+1231,Maruti Suzuki Vitara Brezza ZDi,82559,0,3,2018,8.13,633
+1232,Kia Seltos HTK 1.5 [2020-2021],20881,1,6,2021,18.5,397
+1233,Toyota Corolla H2 1.8E,140000,Petrol ,10,2004,2,862
+1234,Maruti Suzuki S-Cross Alpha 1.3,48159,0,7,2018,6.25,600
+1235,Mercedes-Benz B-Class B180 CDI,64300,0,0,2014,13.5,664
+1236,Kia Seltos GTX Plus AT 1.5 Diesel [2019-2020],32244,0,8,2020,18.51,394
+1237,Ford EcoSport Titanium + 1.5L Ti-VCT AT [2019-2020],52547,1,0,2019,9.5,101
+1238,Maruti Suzuki Swift VXi,71861,1,2,2009,3.25,620
+1239,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],24251,1,2,2013,4.69,275
+1240,Mercedes-Benz S-Class 350 CDI Long Blue-Efficiency,32500,0,8,2014,46.6,700
+1241,Maruti Suzuki Swift VDi,82500,Diesel ,11,2017,6,618
+1242,Audi A3 40 TFSI Premium,69727,1,0,2015,15,5
+1243,Hyundai Elite i20 Sportz 1.2,54822,1,12,2015,5.26,254
+1244,Ford Aspire Titanium Plus 1.5 TDCi,167000,0,0,2016,4.25,94
+1245,Skoda Kushaq Style 1.5L TSI DSG (6 Airbags),23402,1,2,2021,19.25,762
+1246,Hyundai Xcent S 1.2,36000,1,7,2018,3.95,330
+1247,Maruti Suzuki S-Presso VXi,53958,1,7,2020,4.31,605
+1248,Maruti Suzuki Baleno Zeta Automatic,690000,1,13,2018,6.9,523
+1249,Hyundai i20 Sportz 1.2 (O),50546,1,4,2014,4.3,358
+1250,Maruti Suzuki Celerio VXi AMT,59175,1,2,2015,4.79,527
+1251,Audi A3 35 TDI Premium Plus + Sunroof,17300,0,2,2018,29.5,2
+1252,Maruti Suzuki Ritz Vxi BS-IV,88000,1,6,2014,4.25,598
+1253,Toyota Yaris G MT [2018-2020],28103,1,4,2019,7.85,898
+1254,Honda Jazz V Petrol,73061,1,6,2015,5.2,193
+1255,Toyota Innova 2.5 G 7 STR BS-IV,101330,0,12,2012,7.25,881
+1256,Maruti Suzuki Baleno Zeta 1.2,7773,1,12,2021,9.42,520
+1257,Land Rover Range Rover Velar 2.0 R-Dynamic SE Petrol 250,29000,1,5,2020,85,426
+1258,Maruti Suzuki Alto 800 VXi,1953,1,4,2021,4.01,497
+1259,Hyundai Elite i20 Asta 1.2 (O) [2019-2020],18490,1,3,2019,7.67,242
+1260,Hyundai Grand i10 Sportz U2 1.2 CRDi,60093,0,13,2018,5.5,289
+1261,Maruti Suzuki Swift VXi [2014-2017],46282,1,7,2019,5.43,624
+1262,Volkswagen Vento Highline Petrol,93682,1,6,2015,7,932
+1263,Maruti Suzuki Swift VDi,84316,0,0,2015,4.9,618
+1264,Kia Seltos HTX Plus AT 1.5 Diesel [2019-2020],20175,0,6,2020,17,403
+1265,Hyundai Elite i20 Asta 1.2 (O) [2016],19266,1,6,2017,7.39,241
+1266,Maruti Suzuki Alto 800 Vxi,26802,1,2,2016,3.22,498
+1267,Hyundai Elite i20 Asta 1.2 (O) [2019-2020],20454,1,3,2018,7.17,242
+1268,Toyota Corolla Altis G CVT Petrol,75766,1,4,2017,12.27,857
+1269,Honda City 1.5 V MT,80000,1,13,2012,3.65,157
+1270,Renault Kwid 1.0 RXT Opt,2421,1,12,2019,4.51,742
+1271,Hyundai Creta SX Plus 1.6  Petrol,53946,1,8,2016,9.11,231
+1272,Hyundai Xcent S 1.2 (O),74000,1,13,2015,4.35,331
+1273,Hyundai Verna 1.6 VTVT SX,22911,1,13,2018,7.75,317
+1274,Hyundai Creta SX 1.6 AT CRDi,59994,0,6,2018,14.5,226
+1275,Maruti Suzuki Baleno Delta 1.2,48702,1,4,2016,4.98,512
+1276,Honda City V,12382,1,12,2019,10.6,168
+1277,Hyundai Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],12930,1,2,2016,6.29,267
+1278,Jeep Compass Limited Plus 2.0 Diesel 4x4 AT,11293,0,8,2020,24.75,375
+1279,Maruti Suzuki Ciaz Alpha Hybrid 1.5 [2018-2020],20440,1,6,2019,9.95,546
+1280,Maruti Suzuki Swift ZXi,43000,1,13,2017,5.7,627
+1281,Maruti Suzuki Celerio VXi CNG [2017-2019],81091,3,4,2018,4.68,532
+1282,Hyundai Grand i10 Magna 1.1 CRDi [2016-2017],67621,0,6,2014,4.5,273
+1283,Hyundai Verna 1.6 VTVT SX,38494,1,8,2016,6.5,317
+1284,Maruti Suzuki Celerio VXi (O) CNG,42348,3,12,2020,5.47,525
+1285,Maruti Suzuki Celerio VXi CNG [2019-2020],93275,3,12,2019,5.27,533
+1286,Maruti Suzuki Alto K10 VXi (O),44199,1,7,2018,3.67,503
+1287,Audi A3 35 TFSI Premium Plus,77590,1,4,2018,21.8,4
+1288,Audi A3 35 TDI Premium Plus,15678,0,7,2019,42.99,1
+1289,Maruti Suzuki Celerio VXi CNG (O),52000,3,13,2016,4.4,531
+1290,Maruti Suzuki Ertiga VXI CNG,28678,3,13,2021,11.4,580
+1291,Maruti Suzuki Ritz Vxi (ABS) BS-IV,40877,1,12,2013,3.57,597
+1292,Honda Jazz V Petrol,44464,1,3,2016,5.57,193
+1293,Mahindra Bolero Power Plus ZLX [2016-2019],57994,0,6,2017,7.25,450
+1294,Hyundai Elite i20 Asta 1.2 (O) [2016],54982,1,2,2017,6.57,241
+1295,Datsun GO T (O),40000,1,0,2018,2.5,83
+1296,Maruti Suzuki A-Star Vxi,54000,1,13,2010,1.99,490
+1297,Audi Q5 2.0 TDI quattro,56173,0,6,2012,15,34
+1298,Renault Duster RXS CVT,36700,1,2,2019,8.99,736
+1299,Volkswagen Taigun Topline 1.0 TSI AT,2377,1,6,2022,18.95,921
+1300,Volvo S60 D5 2.4 L,83893,0,6,2016,18,938
+1301,Hyundai Verna Fluidic 1.6 VTVT SX,96000,1,9,2011,4.25,322
+1302,Renault Kwid RXL [2015-2019],64346,1,2,2016,3.39,752
+1303,BMW 3 Series 320d Luxury Line,104264,0,6,2013,15.5,45
+1304,Hyundai Santro Magna [2018-2020],15447,1,7,2020,4.41,291
+1305,MG Hector Sharp 1.5 DCT Petrol [2019-2020],29979,1,2,2019,15.99,434
+1306,Skoda Octavia 1.8 TSI L&K,45661,1,13,2018,16.99,766
+1307,MG ZS EV Exclusive [2020-2021],57946,2,2,2020,19.19,442
+1308,Renault Kwid 1.0 RXL [2017-2019],43361,1,2,2017,3.69,739
+1309,Honda City V CVT Petrol [2017-2019],18711,1,4,2017,8.62,169
+1310,Tata Nexon XZ,29700,1,3,2020,8.5,818
+1311,Isuzu D-Max V-Cross 4x4,64377,0,2,2018,18.95,363
+1312,Maruti Suzuki Ciaz Delta 1.3 Hybrid,57498,0,4,2017,5.97,548
+1313,Toyota Etios GD,169100,0,1,2015,5.5,865
+1314,Maruti Suzuki Swift ZXi,24389,1,4,2016,4.79,627
+1315,Tata Harrier XZ [2019-2020],21077,0,13,2019,16.2,801
+1316,Tata Nexon EV XZ Plus,21065,2,13,2022,14.75,812
+1317,Honda Jazz ZX CVT,9838,1,12,2021,10.24,198
+1318,Hyundai Venue SX 1.0 (O) Petrol [2019-2020],24410,1,6,2020,11.75,308
+1319,Hyundai Elite i20 Asta 1.2 Dual Tone,14000,1,13,2018,7.15,243
+1320,Maruti Suzuki Ciaz S 1.4 MT,21880,1,4,2018,6.86,553
+1321,Maruti Suzuki Swift VDi ABS [2014-2017],69939,0,2,2016,6.45,619
+1322,Volkswagen Polo Trendline 1.2L (P),25501,1,2,2017,6.09,918
+1323,Hyundai Creta 1.6 S Petrol,78623,1,4,2016,8.28,208
+1324,Kia Seltos GTK 1.4 Dual Tone [2019-2020],25483,1,7,2019,11.05,387
+1325,Maruti Suzuki Ciaz Alpha 1.4 AT,46993,1,13,2017,7.35,543
+1326,Maruti Suzuki Alto 800 LXi (O),4697,1,4,2020,3.66,491
+1327,Maruti Suzuki Wagon R 1.0 VXI+ AMT,53000,1,0,2016,4.3,650
+1328,Maruti Suzuki Ciaz Alpha Hybrid 1.5 [2018-2020],61867,1,4,2019,8.12,546
+1329,Maruti Suzuki S-Cross Zeta 1.3,28016,0,6,2018,9.5,603
+1330,Ford EcoSport Titanium 1.5L TDCi,71400,0,0,2017,7.9,107
+1331,Ford Endeavour Titanium Plus 2.2 4x2 AT,27635,0,2,2019,35.95,116
+1332,Jeep Compass Limited 1.4 Petrol AT [2017-2020],48179,1,8,2018,12.85,373
+1333,Renault Captur RXL Petrol,99938,1,2,2018,7.79,721
+1334,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,12842,1,7,2019,5.66,283
+1335,Toyota Yaris J MT,8465,1,4,2021,10.27,900
+1336,Renault Triber RXL [2019-2020],30040,1,7,2019,5.39,755
+1337,Maruti Suzuki Swift VXi AMT [2018-2019],45745,1,6,2020,7.25,623
+1338,Audi A6 35 TDI Matrix,62410,0,2,2016,31.75,20
+1339,Hyundai Grand i10 Asta 1.2 Kappa VTVT,29135,1,13,2017,5.4,266
+1340,Mercedes-Benz S-Class Maybach S 500,24500,1,7,2017, 1.19 Crore,702
+1341,Hyundai Verna 1.6 VTVT SX,8000,1,4,2019,9.92,317
+1342,Volkswagen Vento Highline Plus 1.2 (P) AT 16 Alloy,40000,1,0,2018,8.39,935
+1343,Maruti Suzuki Wagon R 1.0 VXI,48502,1,5,2017,4,646
+1344,Datsun redi-GO T(O) 1.0,10655,1,3,2021,4.65,89
+1345,Ford Fiesta Classic SXi 1.4 TDCi,55000,0,7,2011,1.85,118
+1346,Mahindra Alturas G4 4WD AT [2018-2020],40180,0,7,2019,21.45,447
+1347,Hyundai Grand i10 Nios Sportz 1.2 Kappa VTVT,33863,1,2,2021,7.29,279
+1348,Maruti Suzuki Ritz Vxi (ABS) BS-IV,40877,1,12,2013,3.57,597
+1349,Honda City VX CVT,61123,1,9,2016,7.85,173
+1350,Volvo XC60 Kinetic,82807,0,6,2016,26,944
+1351,Hyundai Alcazar Prestige (O) 6 STR 2.0 Petrol AT,2293,1,0,2021,18.75,204
+1352,Renault Kwid 1.0 RXT [2016-2019],28213,1,2,2018,4.49,744
+1353,Maruti Suzuki Swift VXi [2014-2017],15400,1,2,2018,6.99,624
+1354,BMW 3 Series 320d Sport Line,38000,0,7,2013,11.5,46
+1355,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,63148,1,2,2015,4.91,283
+1356,Mahindra Bolero Power Plus ZLX [2016-2019],91752,0,6,2016,6.5,450
+1357,Maruti Suzuki Ertiga ZXi,67590,1,8,2014,5.95,587
+1358,Maruti Suzuki Swift DZire ZXI,66784,1,13,2015,4.95,612
+1359,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],73000,1,9,2014,3.85,275
+1360,Ford Endeavour Titanium Plus 2.2 4x2 AT,27000,0,2,2019,35.95,116
+1361,Maruti Suzuki Alto 800 Lxi,21857,1,12,2018,3.3,495
+1362,Maruti Suzuki Alto LXi BS-III,60506,1,6,2009,2,508
+1363,Hyundai Santro Sportz CNG [2018-2020],39598,3,8,2020,4.99,295
+1364,Maruti Suzuki Ciaz ZDi+ SHVS,48196,0,7,2016,4.99,558
+1365,Hyundai Creta SX Plus 1.6  Petrol,27433,1,7,2016,8.13,231
+1366,Honda Jazz V Petrol,60857,1,8,2017,5.45,193
+1367,Land Rover Discovery Sport HSE,46328,0,7,2017,32.99,411
+1368,Mercedes-Benz GLA 200 CDI Sport,75000,0,5,2015,16.5,687
+1369,Hyundai Verna SX Plus 1.6 CRDi AT,41197,0,13,2019,12,328
+1370,Volkswagen Ameo Comfortline 1.2L (P),40000,1,0,2017,5.5,904
+1371,Datsun GO Plus T,24921,1,13,2016,3.25,81
+1372,Toyota Yaris G CVT [2018-2020],14839,1,12,2018,8.04,897
+1373,Maruti Suzuki Celerio VXi AMT [2017-2019],80306,1,12,2017,4.48,529
+1374,Honda City VX CVT,49419,1,13,2016,7.5,173
+1375,Honda Jazz V AT Petrol,29206,1,0,2017,6.5,191
+1376,Hyundai Creta 1.6 SX Plus AT Petrol,37499,1,8,2019,14.45,214
+1377,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],41017,1,8,2015,5.35,270
+1378,Mercedes-Benz CLS 350,47000,1,0,2014,29,676
+1379,Ford EcoSport Titanium 1.5L Ti-VCT Black Edition AT,15386,1,7,2020,9.01,110
+1380,Toyota Innova 2.5 G BS IV 7 STR,45530,0,2,2015,14.35,883
+1381,Hyundai i10 Sportz 1.2 Kappa2,57000,1,0,2014,3.65,346
+1382,Maruti Suzuki Celerio VXi (O) CNG [2019-2020],89495,3,12,2019,5.58,526
+1383,Maruti Suzuki Celerio ZXi AMT [2019-2020],51722,1,6,2016,4.7,540
+1384,BMW 5 Series 520d M Sport,45700,0,0,2020,57.5,54
+1385,Honda WR-V VX MT Diesel,46945,0,4,2018,7.75,201
+1386,Ford EcoSport Titanium 1.5L TDCi,27117,0,4,2017,7.02,107
+1387,Jeep Compass Limited 1.4 Petrol AT [2017-2020],63000,1,6,2017,16.5,373
+1388,Mercedes-Benz C-Class C 220d Progressive [2018-2019],40378,0,2,2018,32.5,671
+1389,Maruti Suzuki Ertiga ZDI SHVS,110399,0,6,2015,7.9,586
+1390,Maruti Suzuki S-Cross Zeta 1.3,45000,0,13,2015,6.5,603
+1391,Kia Sonet GTX Plus 1.5 [2020-2021],40089,0,8,2020,12.6,405
+1392,Land Rover Range Rover 4.4 SDV8 Autobiography LWB,45000,0,0,2018, 1.95 Crore,417
+1393,Volkswagen Polo Comfortline 1.5L (D),46354,0,6,2018,7.3,913
+1394,Hyundai Santro Magna [2018-2020],4441,1,7,2019,4.09,291
+1395,Maruti Suzuki Baleno Zeta,36146,1,8,2017,6.15,519
+1396,Hyundai Venue SX Plus 1.0 Turbo DCT,16768,1,12,2020,11.61,313
+1397,Honda City V,21691,1,2,2019,9.99,168
+1398,Kia Seltos GTX Plus AT 1.5 Diesel [2019-2020],67420,0,7,2020,14.45,394
+1399,Hyundai i20 Sportz (AT) 1.4,41999,1,2,2013,4.99,356
+1400,Maruti Suzuki Baleno Alpha Automatic,62000,1,0,2018,6.75,510
+1401,Tata Nexon XZ,3200,1,3,2021,9.75,818
+1402,Maruti Suzuki Wagon R 1.0 LXI CNG,47747,3,12,2014,3.87,641
+1403,Hyundai i20 Asta 1.0 Turbo DCT,14746,1,0,2021,9.75,351
+1404,Audi A3 35 TDI Technology + Sunroof,78597,0,0,2014,16.5,3
+1405,Honda Amaze 1.2 VX i-VTEC,82075,1,12,2013,4.09,141
+1406,Honda City SV,45000,1,1,2015,6.5,164
+1407,Hyundai i10 1.1L iRDE Magna Special Edition,55000,1,0,2015,3.5,337
+1408,Maruti Suzuki Ertiga VXi,19900,1,5,2020,9.56,581
+1409,Honda Amaze 1.2 S CVT Petrol [2018-2020],36000,1,0,2016,5.25,133
+1410,Nissan Micra XL (O) [2013-2016],57000,Petrol ,1,2013,4,709
+1411,Maruti Suzuki Alto 800 Vxi,27233,1,7,2014,2.23,498
+1412,Toyota Innova Crysta GX 2.4 7 STR,21396,0,2,2019,22.99,891
+1413,Tata Nexon EV XZ Plus,48400,2,2,2020,15.5,812
+1414,Hyundai Venue S Plus 1.2 Petrol,7432,1,3,2020,8.31,305
+1415,Maruti Suzuki Wagon R 1.0 LXI CNG,68695,3,8,2014,3.75,641
+1416,Renault Kwid Neotech RXL 1.0 MT,13150,1,1,2021,4.6,750
+1417,Hyundai Elite i20 Era 1.2,36000,1,7,2017,4.4,249
+1418,Skoda Rapid 1.5 TDI CR Elegance,109335,0,6,2015,6.2,772
+1419,Kia Seltos GTX Plus 1.4 [2020-2021],10400,1,0,2022,15.51,392
+1420,Tata Altroz XZ Plus Petrol,11178,1,2,2021,8.49,795
+1421,Maruti Suzuki Wagon R 1.0 LXi,66000,1,9,2012,2.35,643
+1422,Honda Amaze 1.2 E i-VTEC,33046,1,8,2016,4.65,129
+1423,Hyundai i20 Sportz 1.2,64000,1,9,2013,3.65,357
+1424,Mahindra Marazzo M4 8 STR,20473,0,2,2019,11.49,457
+1425,Honda City VX CVT,62000,1,0,2015,7.75,173
+1426,Maruti Suzuki Alto 800 LXi (O) CNG,37228,3,12,2021,5,492
+1427,Toyota Camry Hybrid [2015-2017],700,1,12,2022,48.5,853
+1428,Hyundai Santro Sportz [2018-2020],43189,1,12,2019,5.29,296
+1429,Audi Q3 35 TDI Premium,65000,0,0,2015,15.13,29
+1430,Ford Figo Duratec Petrol ZXI 1.2,71000,1,13,2014,2.49,121
+1431,Maruti Suzuki Swift ZDi AMT,60161,0,13,2019,8,625
+1432,Maruti Suzuki Ciaz Delta 1.3 Hybrid,57498,0,4,2017,5.97,548
+1433,Tata Nexon XZ Plus Diesel,37845,0,13,2019,9.6,822
+1434,Mahindra KUV100 K2 D 6 STR,20338,0,0,2017,4.25,451
+1435,Skoda Octavia 1.8 TSI Ambition Plus AT,38842,1,12,2016,15.23,765
+1436,Maruti Suzuki Celerio VXi,76775,1,12,2016,3.94,524
+1437,Maruti Suzuki Dzire VXi AMT,39439,1,2,2018,7.29,569
+1438,Maruti Suzuki Swift VXi ABS,81869,1,3,2017,5.2,621
+1439,Ford EcoSport Titanium 1.5L TDCi,56204,0,0,2017,7.9,107
+1440,Honda BR-V S Petrol,49889,1,8,2018,7.75,146
+1441,Maruti Suzuki S-Presso VXi,7942,1,13,2021,4.75,605
+1442,Jaguar XF 2.2 Diesel Luxury,83358,0,6,2013,23,368
+1443,Hyundai i20 Active 1.2 S,50307,1,7,2016,4.93,347
+1444,Audi Q3 35 TDI Premium + Sunroof,21894,0,7,2016,17.99,30
+1445,Ford EcoSport Titanium 1.5 TDCi (Opt),52613,0,7,2015,4.9,105
+1446,Maruti Suzuki Baleno Delta 1.2 AT,59468,1,8,2018,6.51,513
+1447,Hyundai Eon 1.0 Kappa Magna AirBag,16205,1,12,2015,3.6,260
+1448,Maruti Suzuki Celerio ZXi (O) AMT [2019-2020],41624,1,12,2017,4.25,537
+1449,Maruti Suzuki Ertiga VDi,120000,0,6,2015,7.3,578
+1450,Hyundai Creta SX 1.6 AT Petrol,33815,1,0,2018,13.5,227
+1451,Renault Duster 110 PS RxZ AWD,41591,0,2,2017,9.99,728
+1452,Renault Duster 110 PS RXL 4X2 AMT [2016-2017],82000,0,6,2018,7.95,723
+1453,Maruti Suzuki Alto K10 VXi,44288,1,4,2019,3.45,502
+1454,Maruti Suzuki S-Presso VXi,7082,1,7,2020,4.55,605
+1455,Mahindra Scorpio S2,36624,0,2,2015,9.29,463
+1456,Maruti Suzuki Ritz Zxi BS-IV,51000,1,6,2014,3.9,599
+1457,Ford Aspire Titanium 1.2 Ti-VCT,24954,1,0,2017,5.5,93
+1458,Jeep Compass Longitude (O) 2.0 Diesel [2017-2020],54441,0,12,2017,12.24,379
+1459,Maruti Suzuki Alto K10 VXi,34579,1,12,2012,1.99,502
+1460,Maruti Suzuki Wagon R 1.0 LXI CNG,23000,3,13,2020,6.15,641
+1461,Hyundai Creta 1.6 SX Plus AT Petrol,35000,1,8,2018,13.5,214
+1462,Mercedes-Benz AMG A35 4MATIC,1700,1,12,2021,52,662
+1463,Volkswagen Ameo Highline Plus 1.5L AT (D)16 Alloy,30000,0,7,2016,5.15,905
+1464,Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020],11140,1,12,2020,10.63,545
+1465,Tata Safari XZA Plus,19075,0,2,2021,23.49,832
+1466,Mercedes-Benz E-Class E250 CDI Avantgarde,114686,0,8,2014,17.9,682
+1467,Ford Figo Titanium 1.5 Ti-VCT AT,38603,1,6,2019,6.5,123
+1468,Maruti Suzuki SX4 ZXI MT BS-IV,67860,1,13,2010,2.45,608
+1469,Maruti Suzuki Alto K10 VXi [2014-2019],40510,1,4,2018,3.36,507
+1470,Hyundai Elite i20 Magna Executive 1.2,19905,1,7,2017,5.19,252
+1471,Jaguar XE Prestige,21000,1,7,2017,24,366
+1472,Hyundai Eon D-Lite +,28104,1,2,2014,3.29,262
+1473,Mercedes-Benz C-Class C 300d AMG line,23400,0,12,2020,49,672
+1474,Hyundai Elite i20 Asta 1.2 (O) [2019-2020],32000,1,3,2019,7.75,242
+1475,Hyundai Creta SX Plus 1.6  Petrol,58289,1,13,2015,7.9,231
+1476,Hyundai Venue SX Plus 1.0 Turbo DCT,11457,1,2,2019,11.45,313
+1477,Tata Nexon EV Prime XZ Plus Dark Edition,5000,2,8,2022,15.25,811
+1478,Honda Amaze 1.2 VX i-VTEC,73699,1,3,2016,6.5,141
+1479,Hyundai Elite i20 Sportz 1.2 (O),68766,1,8,2015,5.25,255
+1480,Honda WR-V VX MT Petrol,30902,1,8,2017,6.95,202
+1481,Honda City VX CVT,66684,1,8,2015,7.35,173
+1482,Toyota Urban Cruiser Premium Grade MT,8134,1,13,2021,9.85,896
+1483,Hyundai Venue SX (O) 1.0 Turbo iMT,24432,1,7,2021,9.64,306
+1484,Hyundai i10 Magna 1.2 Kappa2,58734,1,12,2011,2.86,343
+1485,Hyundai i10 Magna 1.2 Kappa2,15780,1,13,2013,3.25,343
+1486,Datsun GO T,44760,1,8,2014,2.65,82
+1487,Hyundai Creta S 1.5 Petrol [2020-2022],17000,1,13,2021,13.2,222
+1488,Hyundai Creta 1.6 SX (O),117295,0,6,2015,9.7,211
+1489,Hyundai Eon D-Lite,62000,1,11,2014,2.5,261
+1490,Hyundai Creta 1.4 S,43300,0,0,2019,11.75,206
+1491,Honda Amaze 1.2 V CVT Petrol [2018-2020],15899,1,0,2020,7.75,137
+1492,Mahindra Alturas G4 4WD AT,76187,0,7,2020,22.5,446
+1493,Hyundai Elite i20 Asta 1.2,59194,1,8,2015,5.21,239
+1494,Kia Seltos HTX 1.5 Dual Tone [2019-2020],13841,1,12,2021,16.67,400
+1495,Maruti Suzuki Swift LXi Special Edition,11000,1,3,2019,7,617
+1496,Hyundai Creta 1.6 SX Plus AT Petrol,24128,1,13,2018,12.25,214
+1497,Volkswagen Vento Highline Diesel AT [2015-2016],96710,0,12,2017,8.14,931
+1498,Mahindra Thar LX Hard Top Diesel MT,38500,0,6,2020,16.25,472
+1499,Honda WR-V S MT Petrol,23798,1,0,2017,6.25,199
+1500,Tata Altroz XT Petrol,5918,1,3,2021,7.37,792
+1501,Hyundai Santro Sportz AMT,5231,1,12,2020,6.06,293
+1502,Skoda Laura Elegance 2.0 TDI CR AT,78000,0,13,2013,5.95,764
+1503,Hyundai Creta SX 1.6 AT Petrol,60038,1,0,2019,12.9,227
+1504,Maruti Suzuki Ciaz Delta 1.4 AT,48279,1,8,2017,7.4,549
+1505,Nissan Micra Active XL,56000,1,0,2017,3.25,707
+1506,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],45907,1,2,2017,5.09,276
+1507,Hyundai i20 Asta 1.0 Turbo IMT,8566,1,13,2021,9.95,352
+1508,Skoda Octavia 2.0 TDI CR Style Plus AT [2017],97050,0,12,2017,15.21,768
+1509,Maruti Suzuki Swift ZXi,50000,1,13,2021,6.95,627
+1510,Toyota Corolla Altis VL AT Petrol,86000,1,0,2018,12,861
+1511,BMW X1 sDrive20d xLine,67337,0,2,2018,32.75,66
+1512,Ford Endeavour Titanium Plus 3.2 4x4 AT,59000,0,5,2019,31.25,117
+1513,Land Rover Range Rover Evoque SE R-Dynamic,45195,0,7,2021,59.99,420
+1514,Ford Endeavour Titanium 3.2 4x4 AT,71000,0,0,2018,27,115
+1515,Skoda Rapid Style 1.5 TDI AT,123000,0,6,2017,8.25,780
+1516,Maruti Suzuki Baleno Delta 1.2,24695,1,4,2019,6.07,512
+1517,Maruti Suzuki Celerio VXi,62228,1,9,2015,3.85,524
+1518,Honda City V Diesel,80000,0,6,2015,6.5,170
+1519,Maruti Suzuki Swift VXi,22500,1,13,2013,3.75,620
+1520,Ford Classic 1.4 TDCi CLXi,106587,0,6,2013,3.3,96
+1521,Land Rover Freelander 2 HSE SD4,75000,0,7,2012,9.5,416
+1522,Ford Endeavour Titanium 2.2 4x2 AT,28466,0,8,2018,29.95,114
+1523,Hyundai Santa Fe 2WD MT [2014-2017],87642,0,13,2015,10.25,290
+1524,Toyota Etios Liva GD,65243,0,2,2013,5.4,867
+1525,Volkswagen Polo Comfortline 1.2L (P),90381,1,6,2015,5.2,912
+1526,Honda WR-V VX MT Diesel,84439,0,3,2018,8.53,201
+1527,Renault Kwid CLIMBER 1.0 AMT,20916,1,8,2019,4.85,746
+1528,Audi A6 2.0 TFSi Technology Pack,20000,1,2,2021,72,19
+1529,Maruti Suzuki S-Presso VXi Plus,70,1,4,2021,4.76,606
+1530,Mahindra XUV500 W11 AT,45350,0,2,2020,20.49,481
+1531,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],36283,0,8,2018,22.25,890
+1532,Maruti Suzuki Dzire ZXi Plus,26450,1,12,2019,7.45,574
+1533,Maruti Suzuki Ertiga ZXi,62285,1,6,2013,6.45,587
+1534,Mahindra Thar LX 4-STR Hard Top Petrol AT,5438,1,2,2021,17.95,469
+1535,Toyota Corolla Altis VL AT Petrol,88105,1,4,2016,10.02,861
+1536,Honda City SV,78529,1,4,2015,5.56,164
+1537,Honda Jazz S MT [2015-2016],33000,1,6,2018,6.75,188
+1538,Audi Q5 30 TDI Premium Edition,133000,0,0,2015,17.5,38
+1539,Maruti Suzuki Ciaz Delta 1.4 AT,53197,1,2,2017,7.49,549
+1540,Maruti Suzuki S-Cross Zeta 1.3,15629,0,8,2017,7.75,603
+1541,Volkswagen Vento Highline Diesel AT,95860,0,6,2014,6.25,930
+1542,Maruti Suzuki Dzire VXi AMT,39439,1,2,2018,7.29,569
+1543,Hyundai Verna EX 1.6 CRDi [2017-2018],91495,0,12,2017,8.79,319
+1544,Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020],177700,0,5,2017,13.69,888
+1545,Maruti Suzuki Baleno Zeta,29093,1,7,2018,6.21,519
+1546,Ford EcoSport Titanium 1.5L Ti-VCT,74280,1,12,2018,8.59,108
+1547,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],22676,1,4,2015,4.3,287
+1548,Honda City 1.5 V MT,77000,1,9,2010,3.25,157
+1549,Skoda Superb Style TSI AT,38818,1,13,2017,16.99,789
+1550,Hyundai Elantra 1.6 SX MT,66666,0,8,2013,5.65,235
+1551,Maruti Suzuki Alto LXi BS-III,62000,1,6,2011,2.85,508
+1552,Hyundai i10 1.1L iRDE Magna Special Edition,63000,1,0,2014,3.25,337
+1553,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],58184,1,12,2016,5.24,269
+1554,Ford EcoSport Trend 1.5L TDCi,80600,0,5,2015,3.5,113
+1555,Volkswagen Vento Highline Petrol,40912,1,0,2019,8.5,932
+1556,Maruti Suzuki S-Presso VXi Plus,9323,1,7,2020,4.6,606
+1557,Mahindra Marazzo M2 8 STR,5300,0,11,2022,15,456
+1558,Honda Jazz ZX,5870,1,7,2021,8.08,197
+1559,Honda City VX CVT,66608,1,13,2015,6.75,173
+1560,Hyundai Elite i20 Asta 1.2,41068,1,2,2018,7.89,239
+1561,Maruti Suzuki Ciaz Alpha 1.4 MT,40532,1,2,2017,8.25,544
+1562,Honda City VX CVT,48146,1,8,2015,7.25,173
+1563,Kia Seltos HTK Plus AT 1.5 Diesel [2020-2021],27710,0,8,2020,15.45,399
+1564,Maruti Suzuki Baleno Delta,49000,1,10,2019,5.8,511
+1565,Hyundai Xcent S 1.2 (O),11628,1,7,2015,4.25,331
+1566,Maruti Suzuki Alto K10 VXi,63250,1,4,2012,1.81,502
+1567,Mahindra Thar LX Convertible Diesel MT,4600,0,6,2022,18,470
+1568,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],35531,0,8,2019,24.5,890
+1569,Maruti Suzuki Ciaz Zeta 1.4 MT,19586,1,12,2019,10.87,563
+1570,Maruti Suzuki Alto K10 VXi,17815,1,4,2019,3.73,502
+1571,Skoda Kodiaq Style 2.0 TDI 4x4 AT,51000,0,6,2018,28.75,760
+1572,MG Hector Sharp 1.5 DCT Petrol [2019-2020],29988,1,2,2020,15.99,434
+1573,Nissan Terrano XL (D),121000,0,0,2014,5.7,715
+1574,Maruti Suzuki Baleno Delta 1.2,39852,1,4,2018,5.85,512
+1575,Renault Kwid Neotech RXL,12850,1,8,2020,4.35,749
+1576,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],31500,1,3,2018,5.81,288
+1577,Maruti Suzuki Alto 800 Lxi,35965,1,7,2014,2.05,495
+1578,Kia Sonet HTX Plus 1.0 iMT [2020-2021],18169,1,12,2020,10.06,410
+1579,Maruti Suzuki Celerio VXi,24063,1,7,2015,3.57,524
+1580,Mahindra Scorpio 2021 S7 140 2WD 7 STR,19000,0,4,2020,12.85,462
+1581,Hyundai Elite i20 Sportz 1.2 [2016-2017],35811,1,6,2020,8.3,256
+1582,Mercedes-Benz CLA 200 CDI Sport,7000,0,7,2018,26.75,673
+1583,Honda City SV Diesel,60000,0,0,2018,7.9,166
+1584,Skoda Rapid 1.6 MPI Ambition Plus AT,67269,1,8,2017,6.95,773
+1585,Maruti Suzuki Wagon R 1.0 LXI CNG (O),40664,3,8,2021,6.4,642
+1586,Toyota Fortuner 3.0 MT,113000,0,8,2011,10.75,873
+1587,Maruti Suzuki Alto 800 Vxi,20786,1,3,2018,3.41,498
+1588,MG Hector Sharp Hybrid 1.5 Petrol [2019-2020],35000,Hybrid,4,2020,14.5,439
+1589,BMW 5 Series 520d M Sport,53971,0,13,2017,32.95,54
+1590,Toyota Fortuner 4X4 AT 2.8 Diesel,53834,0,7,2021,39.5,874
+1591,Tata Nexon XZ Plus (O),30356,1,3,2020,10.67,820
+1592,Maruti Suzuki Ciaz Delta 1.5 Diesel,76000,0,6,2019,9.1,552
+1593,Hyundai Santro Xing GLS,79800,1,1,2013,2.6,299
+1594,Maruti Suzuki Alto 800 Vxi Plus,4958,1,4,2021,4.02,499
+1595,Hyundai Creta 1.6 SX Plus AT Petrol,70000,1,0,2019,11.75,214
+1596,Hyundai Santro Magna [2018-2020],24669,1,12,2020,5.62,291
+1597,Land Rover Range Rover Evoque Dynamic SD4,89000,0,0,2014,22.5,418
+1598,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],42228,1,4,2014,3.85,275
+1599,Hyundai Creta E Plus 1.6 Petrol,40544,1,2,2016,9.39,219
+1600,Maruti Suzuki Vitara Brezza ZXI Plus Dual Tone,19608,1,2,2020,11.25,637
+1601,Maruti Suzuki Celerio VXi AMT,41058,1,4,2016,3.95,527
+1602,BMW 3 Series 320d Luxury Line,65000,0,0,2013,10.9,45
+1603,Maruti Suzuki Ciaz Sigma 1.4 MT,38773,1,8,2017,6.35,554
+1604,Mercedes-Benz E-Class E 220 d Avantgarde,49700,0,0,2018,44.37,679
+1605,Tata Nexon XZA Plus Petrol,31585,1,12,2018,8.66,826
+1606,Maruti Suzuki Wagon R 1.0 VXI,86866,1,7,2015,3.6,646
+1607,Skoda Superb L&K TDI AT,56341,0,8,2017,19.95,787
+1608,Honda City V,53206,1,2,2015,6.69,168
+1609,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],18000,1,0,2017,4.75,276
+1610,Hyundai Elite i20 Asta 1.4 (O) CRDi,63379,0,8,2016,6.85,245
+1611,Honda City VX CVT,48900,1,0,2015,7.5,173
+1612,Hyundai Creta 1.6 S Petrol,41951,1,4,2016,8.56,208
+1613,Tata Safari XZ Plus,22889,0,7,2021,19.45,829
+1614,Kia Seltos HTK 1.5 [2020-2021],19970,1,12,2019,11.43,397
+1615,Maruti Suzuki Alto 800 Vxi,44706,1,6,2018,3.5,498
+1616,Honda City ZX VTEC,83920,1,12,2008,1.8,181
+1617,Audi A4 Technology 40 TFSI [2021-2022],45760,1,0,2021,39.5,17
+1618,Hyundai Verna SX Plus 1.6 CRDi AT,56040,0,8,2017,8.9,328
+1619,Maruti Suzuki S-Presso VXi Plus,64,1,4,2021,4.76,606
+1620,Maruti Suzuki Dzire ZXi AMT,51500,1,0,2019,6.9,573
+1621,Honda City Anniversary Edition Petrol,36040,1,12,2018,11.3,160
+1622,Maruti Suzuki Alto K10 VXi,34579,1,12,2012,1.99,502
+1623,Hyundai Elite i20 Asta 1.2,40875,1,7,2015,4.61,239
+1624,Hyundai i20 Active 1.2 SX,31622,1,6,2017,6.73,348
+1625,Ford EcoSport Titanium 1.5L TDCi,36600,0,2,2017,8.99,107
+1626,Audi A6 2.0 TDI Premium,29000,0,7,2013,13.5,18
+1627,Skoda Rapid Ambition 1.6 TDI CR MT,41443,0,6,2019,9.8,778
+1628,Ford EcoSport Titanium 1.5L Ti-VCT AT,62926,1,8,2016,6.25,109
+1629,Maruti Suzuki Wagon R 1.0 VXI,55486,1,7,2017,3.84,646
+1630,Hyundai Grand i10 Nios Sportz 1.2 Kappa VTVT,36053,1,0,2020,6.25,279
+1631,Honda Jazz V Petrol,17922,1,12,2019,7.7,193
+1632,Kia Seltos HTK Plus 1.5 [2019-2020],8963,1,13,2022,16.85,398
+1633,Honda City V,20143,1,2,2018,8.91,168
+1634,Maruti Suzuki Swift DZire VXI,66000,1,13,2013,4.75,610
+1635,Maruti Suzuki Estilo LXi,29012,1,7,2008,99991,589
+1636,Honda City V,40547,1,8,2018,8.35,168
+1637,Honda City VX,80815,1,8,2016,6.8,172
+1638,Maruti Suzuki Swift VXi,24858,1,2,2017,6.06,620
+1639,Isuzu MU-X 4x2,96095,0,13,2017,17.91,364
+1640,Maruti Suzuki Wagon R 1.0 VXI,54095,1,12,2014,3.23,646
+1641,MINI Cooper Countryman Cooper S,69446,1,6,2014,20,444
+1642,Maruti Suzuki Alto K10 VXi,127000,1,7,2012,2.1,502
+1643,Hyundai Creta SX 1.5 Petrol CVT [2020-2022],12500,Petrol ,11,2020,17,224
+1644,Maruti Suzuki Dzire ZXi Plus AMT,59597,1,2,2018,7.99,575
+1645,Maruti Suzuki Wagon R VXi 1.2,18855,1,13,2019,5.35,655
+1646,Maruti Suzuki Swift VXi AMT [2018-2019],41528,1,2,2018,7.45,623
+1647,Maruti Suzuki Swift LXi,35166,1,6,2019,5.51,616
+1648,Fiat Abarth Punto T-Jet 1.4 Abarth,26762,1,2,2015,8.97,90
+1649,Audi Q5 2.0 TDI quattro Premium Plus,58670,0,0,2014,22.88,36
+1650,Hyundai Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],29964,1,8,2017,5.75,267
+1651,Land Rover Range Rover Evoque SE R-Dynamic Petrol,5600,1,13,2021,77,421
+1652,Maruti Suzuki Alto 800 Lxi,20572,1,4,2017,2.89,495
+1653,Tata Tiago Revotron XT [2016-2019],44296,1,3,2018,4.53,840
+1654,Mahindra KUV100 NXT K8 6 STR [2017-2020],12000,1,6,2020,7,455
+1655,Maruti Suzuki Alto 800 Vxi,39262,1,12,2017,2.91,498
+1656,Hyundai Santro Xing GL,46733,1,7,2010,1.42,297
+1657,Volkswagen Polo Highline1.2L (P),39200,1,2,2016,6.99,917
+1658,Hyundai Creta 1.6 SX Plus AT Petrol,67981,1,12,2016,9.64,214
+1659,Honda City ZX Petrol [2019-2019],66729,1,2,2020,12.49,180
+1660,Mercedes-Benz CLA 200 Petrol Sport,13137,1,8,2017,25.5,675
+1661,Volkswagen Polo Highline1.2L (P),47000,1,7,2013,3,917
+1662,Volvo XC90 D5 AWD,45000,0,7,2018,45,945
+1663,Mahindra XUV300 1.5 W8 (O) AMT [2019-2020],36770,0,2,2019,12.99,476
+1664,Isuzu D-Max V-Cross 4x4,67970,0,2,2017,16.95,363
+1665,Honda City SV CVT,46910,1,12,2015,6.58,165
+1666,Honda Jazz S AT [2015-2016],34231,1,2,2015,6.85,186
+1667,Tata Safari XZA Plus 6S Adventure New,13594,0,2,2021,23.95,833
+1668,Hyundai Venue SX 1.5 CRDi,43000,0,0,2020,9.25,312
+1669,Honda City VX CVT,82953,1,3,2016,7.35,173
+1670,Tata Safari Storme 2.2 VX 4x2,65000,0,7,2014,5.75,827
+1671,Audi A4 2.0 TDI (177bhp) Premium,86830,0,6,2013,14.9,9
+1672,Hyundai Creta S 1.5 Diesel [2020-2022],72305,0,6,2021,16,221
+1673,Honda City V Diesel,55201,0,6,2015,6.8,170
+1674,Maruti Suzuki Ciaz ZXI+,37799,1,13,2017,7.31,559
+1675,Maruti Suzuki Wagon R 1.0 LXi,24628,1,2,2011,2.95,643
+1676,Honda WR-V SV MT Petrol,24000,1,0,2020,7.75,200
+1677,Maruti Suzuki S-Cross Alpha 1.3,34514,0,6,2019,11.5,600
+1678,Mahindra XUV500 W10,89000,0,13,2016,10.5,479
+1679,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],108810,0,0,2018,19,890
+1680,Maruti Suzuki Wagon R 1.0 LXI ABS,3810,1,4,2021,5.56,640
+1681,Jeep Compass Longitude (O) 2.0 Diesel [2017-2020],43922,0,13,2019,15.4,379
+1682,Maruti Suzuki Celerio VXi (O) CNG,36560,3,13,2020,6.15,525
+1683,Hyundai i10 Sportz 1.2 Kappa2,48137,1,6,2014,4.55,346
+1684,Honda City V CVT Petrol [2017-2019],44415,1,13,2017,7.95,169
+1685,Jeep Compass Limited Plus Diesel [2018-2020],64683,0,2,2019,17.99,376
+1686,Honda Amaze 1.2 S AT i-VTEC,38885,1,8,2014,3.95,131
+1687,Maruti Suzuki Baleno Alpha 1.2,69886,1,8,2019,7.11,509
+1688,Toyota Land Cruiser LC 200 VX,152000,0,12,2011,70,894
+1689,Hyundai Verna Fluidic 1.6 VTVT SX Opt AT,31726,1,12,2018,10.11,324
+1690,Maruti Suzuki S-Presso VXi Plus,75258,1,6,2020,4.4,606
+1691,Honda City 1.5 V MT,77000,1,9,2010,3.25,157
+1692,Maruti Suzuki Swift VXi,34551,1,4,2015,4.11,620
+1693,Hyundai Creta 1.6 SX Plus Special Edition,53459,0,6,2017,11.57,217
+1694,Maruti Suzuki S-Cross Zeta AT,11729,1,7,2020,9.14,604
+1695,Hyundai i20 Sportz 1.5 MT Diesel,11000,0,0,2022,9.5,362
+1696,Maruti Suzuki Swift ZXi,75000,1,9,2014,4.1,627
+1697,Toyota Urban Cruiser High Grade AT,15412,1,12,2022,12.56,895
+1698,Honda City V CVT Petrol [2017-2019],70233,1,4,2017,7.93,169
+1699,Honda Brio S MT,53000,1,0,2013,3.45,151
+1700,Skoda Rapid Ambition 1.6 MPI MT Plus,60000,1,6,2014,5.25,777
+1701,Maruti Suzuki Swift VXi,54489,1,3,2017,5.57,620
+1702,Chevrolet Tavera Neo 3 LS- 10 STR BS-IV,95000,0,13,2016,7.95,79
+1703,Toyota Corolla Altis VL AT Petrol,25000,1,8,2017,12.75,861
+1704,Nissan Kicks XV Premium Turbo 1.3,31387,1,6,2020,12.65,704
+1705,Maruti Suzuki Celerio VXi CNG,23225,3,13,2020,6.1,530
+1706,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],35705,1,4,2017,4.94,276
+1707,Honda City VX Diesel,41000,0,7,2015,6.8,176
+1708,Maruti Suzuki Alto K10 VXi [2014-2019],44042,1,12,2015,3.36,507
+1709,Audi Q7 45 TDI Premium Plus,48000,0,12,2017,52,40
+1710,Maruti Suzuki Alto 800 Lxi,72171,1,2,2014,2.99,495
+1711,Renault Triber RXZ [2019-2020],20555,1,12,2020,6.7,758
+1712,Maruti Suzuki Swift VXi [2014-2017],3168,1,7,2019,6.5,624
+1713,Tata Tiago Revotron XT [2016-2019],47751,1,9,2018,4.75,840
+1714,Maruti Suzuki Alto K10 LXi,52151,1,4,2010,2.01,500
+1715,Hyundai Venue SX 1.4 CRDi,40655,0,4,2019,9.83,311
+1716,Maruti Suzuki Swift VDi,82914,0,7,2017,4.27,618
+1717,Volkswagen Vento Highline Diesel,83501,0,6,2013,4.7,929
+1718,Hyundai Elite i20 Asta 1.2,61900,1,5,2015,5.49,239
+1719,Hyundai Creta SX Plus 1.6 AT CRDI,37630,0,7,2018,10.93,232
+1720,Hyundai Verna SX 1.5 VTVT,63994,1,2,2020,11.79,327
+1721,Maruti Suzuki S-Cross Alpha 1.3,58000,0,13,2018,8.75,600
+1722,Honda City VX,25000,1,10,2017,9.5,172
+1723,Honda City V Petrol [2017-2019],33246,1,8,2017,7.45,171
+1724,Ford EcoSport Titanium 1.5L TDCi,42071,0,2,2016,8.25,107
+1725,Jaguar XE Prestige Diesel,29999,0,2,2017,32.99,367
+1726,Renault Kwid RXT [2015-2019],15507,1,13,2017,3.15,754
+1727,Maruti Suzuki Dzire ZDi AMT,15805,0,2,2018,7.64,570
+1728,Maruti Suzuki Celerio VXi AMT,63931,1,9,2014,3.85,527
+1729,Maruti Suzuki Wagon R 1.0 VXI ABS,31295,1,6,2019,5.5,647
+1730,Hyundai Creta SX Plus 1.6 AT CRDI,130000,0,0,2017,10.25,232
+1731,Maruti Suzuki S-Cross Zeta AT,9400,1,0,2021,11.56,604
+1732,Hyundai Creta SX Plus 1.6  Petrol,39000,1,13,2015,8.55,231
+1733,Maruti Suzuki Baleno Delta 1.2,24749,1,7,2018,5.82,512
+1734,Maruti Suzuki Vitara Brezza ZXi Plus AT SHVS,21986,1,2,2020,12.75,638
+1735,BMW 5 Series GT 535d,81000,0,0,2012,15,58
+1736,Volkswagen Vento Highline 1.0L TSI,37230,1,6,2021,12,927
+1737,Hyundai Verna EX 1.6 VTVT [2017-2018],35856,1,4,2014,5.25,320
+1738,Skoda Yeti Ambiente,137849,0,6,2011,6,791
+1739,Renault Kwid 1.0 RXT Opt,19927,1,2,2019,4.52,742
+1740,Nissan Sunny XL,56000,1,7,2012,2.49,712
+1741,BMW 5 Series 520d M Sport,41296,0,8,2017,33,54
+1742,Honda Amaze 1.2 SX i-VTEC,63882,1,8,2016,4.45,136
+1743,Honda Brio V MT,39276,1,8,2014,3.51,152
+1744,Hyundai Creta S 1.5 Petrol [2020-2022],16000,1,13,2021,13.25,222
+1745,Maruti Suzuki Baleno Zeta 1.2,57052,1,7,2016,4.83,520
+1746,Maruti Suzuki Vitara Brezza ZDi Plus,50802,0,12,2019,10.22,634
+1747,Hyundai i20 Magna 1.2,45195,1,8,2014,3.75,355
+1748,Maruti Suzuki Wagon R 1.0 LXI CNG,86955,3,12,2018,4.2,641
+1749,Kia Sonet GTX Plus 1.0 iMT [2020-2021],20879,1,7,2020,11.04,404
+1750,Hyundai Elite i20 Sportz 1.2 (O),5000,1,13,2016,5.95,255
+1751,Maruti Suzuki Wagon R 1.0 VXI,44480,1,7,2014,2.99,646
+1752,Hyundai Santro Sportz CNG [2018-2020],39717,3,12,2018,5.29,295
+1753,Mahindra TUV300 T8,32549,0,7,2017,6.23,466
+1754,Skoda Laura Ambition 2.0 TDI CR AT,140037,0,8,2013,4.25,763
+1755,Mahindra Thar LX Hard Top Petrol AT,10900,1,0,2020,15.75,473
+1756,Audi Q3 35 TDI quattro Technology,90000,0,0,2015,14.9,33
+1757,Maruti Suzuki XL6 Alpha MT Petrol,38598,1,13,2020,9.9,658
+1758,Toyota Innova Crysta GX 2.4 7 STR,12039,0,0,2020,21.5,891
+1759,Tata Tigor EV XZ Plus,17294,2,13,2021,11.35,849
+1760,Skoda Superb Elegance 1.8 TSI AT,135000,Petrol ,14,2010,8,786
+1761,Maruti Suzuki Swift VXi [2014-2017],46027,1,6,2019,6.95,624
+1762,Renault Duster RXL Petrol,46525,1,12,2014,4.8,735
+1763,Tata Harrier XZ [2019-2020],24500,0,0,2019,15.51,801
+1764,Honda City VX CVT,48793,1,13,2016,7.75,173
+1765,Hyundai i10 Sportz 1.2 Kappa2,85500,1,13,2014,3.25,346
+1766,Maruti Suzuki Swift VXi ABS,34088,1,2,2017,6.89,621
+1767,Maruti Suzuki Baleno Delta 1.2,19921,1,12,2019,7.19,512
+1768,Honda Brio V MT,75000,1,0,2012,2.39,152
+1769,Maruti Suzuki Alto K10 VXi,99203,1,6,2012,2.6,502
+1770,Jeep Compass Limited 2.0 Diesel [2017-2020],57000,0,0,2019,13.5,374
+1771,Hyundai Grand i10 Magna 1.0 Kappa VTVT LPG [2014-2016],34810,LPG,2,2015,4.75,272
+1772,Maruti Suzuki Ciaz Alpha Hybrid 1.5 [2018-2020],35829,1,8,2018,8.45,546
+1773,Audi A4 2.0 TDI (143bhp),89332,0,0,2013,13.5,8
+1774,Audi Q7 45 TDI Technology Pack,22000,0,7,2019,54,41
+1775,Maruti Suzuki Vitara Brezza ZDi+ Dual Tone [2017-2018],59706,0,8,2016,8.21,636
+1776,BMW X1 sDrive20d,75000,0,0,2011,8,63
+1777,Hyundai Elite i20 Magna Plus 1.4 CRDi,58262,0,4,2018,5.94,253
+1778,Kia Sonet HTK Plus 1.5 AT,9914,0,13,2021,15.5,407
+1779,Hyundai Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],81298,1,12,2015,4.96,267
+1780,BMW X1 sDrive20d xLine,29221,0,2,2019,37.85,66
+1781,Hyundai Creta E Plus 1.6 Petrol,34766,1,8,2017,8.29,219
+1782,Maruti Suzuki Wagon R 1.0 VXI,20138,1,6,2014,3.41,646
+1783,Honda WR-V VX MT Petrol,47000,1,7,2017,6.49,202
+1784,Hyundai Grand i10 Sportz 1.2 Kappa VTVT Dual Tone,27113,1,2,2019,6.59,286
+1785,Maruti Suzuki Wagon R ZXI 1.2 AGS,7506,1,2,2020,6.99,656
+1786,Toyota Innova Crysta 2.8 GX AT 8 STR [2016-2020],48969,0,13,2018,18.9,889
+1787,Honda Amaze 1.2 S MT Petrol [2018-2020],77200,1,13,2018,5.85,134
+1788,Hyundai Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],34258,1,8,2016,5.41,267
+1789,Hyundai Elite i20 Asta 1.2,54136,1,7,2015,4.46,239
+1790,Hyundai Elite i20 Magna Executive 1.2,28000,1,0,2017,6.75,252
+1791,Volkswagen Vento Comfortline Diesel AT,56000,0,13,2014,5.5,925
+1792,MG Hector Plus Sharp 1.5 Petrol Turbo DCT 6-STR,19000,1,7,2021,17,433
+1793,Maruti Suzuki Wagon R 1.0 VXI+ (O),84065,1,12,2018,4.67,649
+1794,Maruti Suzuki Ertiga VXi AT,37523,1,8,2019,10.45,582
+1795,Maruti Suzuki Wagon R 1.0 LXI CNG,64942,3,4,2017,4.06,641
+1796,Maruti Suzuki Vitara Brezza ZDi Plus,82000,0,0,2018,8.75,634
+1797,Hyundai i20 Magna 1.2,41123,1,4,2011,2.59,355
+1798,Chevrolet Cruze LTZ AT,72000,0,0,2015,6.9,77
+1799,Maruti Suzuki Ritz Zxi BS-IV,65247,1,4,2014,3.21,599
+1800,Honda Brio VX AT,56861,1,0,2017,5.75,153
+1801,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],41100,1,0,2018,5.45,288
+1802,Maruti Suzuki Wagon R 1.0 VXI,56932,1,7,2014,2.99,646
+1803,Toyota Camry Hybrid,20000,1,7,2017,18.9,852
+1804,Honda City VX CVT,4275,1,13,2021,14.5,173
+1805,Hyundai Elite i20 Sportz 1.2,20281,1,8,2017,5.91,254
+1806,Maruti Suzuki Baleno Delta 1.2,46310,1,7,2019,5.68,512
+1807,Maruti Suzuki Ritz Vxi BS-IV,60000,1,7,2014,2.5,598
+1808,Tata Nexon XT [2017-2019],16449,1,7,2018,6.9,817
+1809,Jeep Compass Limited Plus Petrol AT [2018-2020],27000,1,8,2019,18.75,378
+1810,Tata Tigor Revotron XZ,15122,1,3,2021,7.09,850
+1811,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,5221,1,2,2015,5.69,283
+1812,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],35000,1,13,2016,5.95,269
+1813,Toyota Corolla Altis G AT Petrol,67800,1,10,2015,10.25,856
+1814,Hyundai Creta E Plus 1.6 Petrol,34841,1,6,2018,10.5,219
+1815,Maruti Suzuki Ciaz S 1.4 MT,22217,1,0,2017,7.15,553
+1816,Tata Tiago XZ Plus,17817,1,2,2020,6.79,846
+1817,Kia Seltos HTX 1.5 [2020-2021],13969,1,2,2020,15.45,401
+1818,Hyundai i20 Asta (O) 1.2 MT,13626,1,13,2021,9.6,350
+1819,Maruti Suzuki Wagon R 1.0 VXI,31316,1,7,2014,3.32,646
+1820,Maruti Suzuki Dzire VDi,7050,0,13,2018,7.25,566
+1821,Honda City 1.5 S MT,74000,1,8,2012,3.95,156
+1822,Hyundai Elite i20 Asta 1.2 (O) [2019-2020],24737,1,4,2019,8.01,242
+1823,Maruti Suzuki Vitara Brezza VDi (O) [2016-2018],29147,0,6,2019,9.45,631
+1824,Hyundai Creta E Plus 1.4 CRDI,48976,0,12,2017,9.7,218
+1825,Hyundai Creta SX Plus 1.6  Petrol,39240,1,13,2017,9.25,231
+1826,Maruti Suzuki Alto 800 Lxi,70153,1,7,2018,2.81,495
+1827,Hyundai Elite i20 Magna Executive 1.2,16398,1,13,2019,6.75,252
+1828,Honda Amaze 1.2 S i-VTEC,65636,1,12,2014,3.9,135
+1829,Hyundai Elite i20 Asta 1.2 (O) [2016],30000,1,7,2017,5.75,241
+1830,Hyundai i10 Magna 1.2 Kappa2,26916,1,13,2012,2.45,343
+1831,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],34000,1,13,2019,5.4,275
+1832,Hyundai Venue SX (O) 1.5 CRDi,16100,0,1,2021,11.5,307
+1833,Honda City SV CVT,36623,1,13,2015,6.5,165
+1834,Maruti Suzuki Eeco 5 STR WITH A/C+HTR CNG [2017-2019],1374,3,8,2021,6.45,576
+1835,Honda City ZX CVT Petrol,12372,1,6,2021,15.9,177
+1836,Maruti Suzuki Ciaz Alpha Hybrid 1.5 [2018-2020],10200,1,7,2020,8.5,546
+1837,Maruti Suzuki S-Presso VXi Plus,28224,1,8,2020,4.65,606
+1838,Maruti Suzuki Wagon R 1.0 LXI CNG,45116,3,12,2017,4.51,641
+1839,Mercedes-Benz CLA 200 Petrol Sport,37000,1,0,2018,25.9,675
+1840,MG Hector Sharp 1.5 Petrol CVT,14000,1,8,2021,18.75,435
+1841,Honda City V CVT Petrol [2017-2019],59053,1,0,2017,7.3,169
+1842,Audi A4 2.0 TDI (143 bhp),73562,0,6,2012,15,7
+1843,Mercedes-Benz GLE 350 d,75176,0,6,2015,38.5,696
+1844,Toyota Corolla Altis VL AT Petrol,34316,1,7,2018,13.94,861
+1845,Hyundai Elite i20 Asta 1.2,42825,1,2,2018,7.79,239
+1846,Toyota Innova Crysta ZX 2.4 AT 7 STR,23439,0,13,2021,29.75,893
+1847,Jeep Grand Cherokee SRT [2016-2020],47300,1,7,2017,53,384
+1848,MG ZS EV Exclusive [2020-2021],57946,2,2,2020,19.19,442
+1849,Mahindra Marazzo M6 Plus 8 STR,36700,0,3,2021,14.85,460
+1850,Land Rover Range Rover Sport SE 3.0 Diesel [2018-2020],36000,0,2,2019, 1.36 Crore,423
+1851,Maruti Suzuki Wagon R 1.0 VXI,19021,1,7,2018,4.11,646
+1852,Toyota Etios Liva GD,65243,0,2,2013,5.4,867
+1853,Kia Seltos GTX Plus AT 1.5 Diesel [2019-2020],68700,0,6,2020,18.5,394
+1854,MG Hector Sharp 2.0 Diesel [2019-2020],28679,0,2,2019,16.99,438
+1855,Tata Nexon XM,27499,1,3,2020,9.29,813
+1856,Maruti Suzuki Vitara Brezza VDi,86908,0,13,2016,7,630
+1857,Volkswagen Passat 1.8L TSI,55460,1,7,2010,3.35,910
+1858,Ford EcoSport Titanium 1.5L Ti-VCT AT,54310,1,8,2017,6.79,109
+1859,Honda City ZX CVT Petrol [2017-2019],58165,1,12,2017,10.09,178
+1860,Mercedes-Benz GLE 300d 4MATIC LWB,34000,0,12,2020,86,695
+1861,Kia Sonet GTX Plus 1.0 iMT [2020-2021],12800,1,0,2022,12.5,404
+1862,Hyundai Accent Executive,57704,1,6,2011,2.7,203
+1863,Honda City ZX CVT Petrol,6116,1,12,2022,16.06,177
+1864,Honda Brio S MT,81000,1,9,2013,2.95,151
+1865,MG Astor Sharp 1.5 MT,2200,1,2,2022,15.49,429
+1866,Mahindra Marazzo M2 8 STR,9238,0,7,2021,11.36,456
+1867,Hyundai Verna Fluidic 1.6 VTVT SX,84344,1,4,2013,3.91,322
+1868,Tata Harrier XZ [2019-2020],47082,0,2,2019,16.95,801
+1869,Hyundai i20 Asta 1.2,41429,1,12,2012,4.3,353
+1870,Hyundai Xcent SX 1.1 CRDi (O),73000,Diesel ,14,2015,5,333
+1871,Maruti Suzuki Swift VDi,62000,0,13,2017,6.1,618
+1872,Ford EcoSport Trend 1.5 TDCi,74529,0,7,2014,4.51,112
+1873,Skoda Rapid TSI Style AT,46807,1,2,2020,11.25,783
+1874,Hyundai Grand i10 Sportz (O) AT 1.2 Kappa VTVT [2017-2018],25971,1,13,2017,5.7,285
+1875,Maruti Suzuki Dzire VXi,43100,1,0,2018,6.11,568
+1876,MG Gloster Savvy 6 STR 2.0 Twin Turbo 4WD,20264,0,13,2021,42.85,430
+1877,Maruti Suzuki Ciaz ZXi  AT,75000,1,13,2016,6.5,561
+1878,Honda City V,20580,1,7,2019,8.15,168
+1879,Hyundai Creta 1.6 S Petrol,28596,1,4,2019,11.67,208
+1880,Honda Amaze 1.2 SX i-VTEC,48333,1,2,2014,5.09,136
+1881,Mahindra XUV500 W6 AT,74000,0,0,2017,9.5,484
+1882,Toyota Corolla H2 1.8E,140000,1,10,2005,2,862
+1883,Maruti Suzuki Vitara Brezza VDi,42000,0,13,2016,7.4,630
+1884,Honda Jazz V AT Petrol,26786,1,8,2016,5.9,191
+1885,Maruti Suzuki Celerio VXi,36415,1,12,2016,4.43,524
+1886,Mercedes-Benz GLE 250 d,42000,0,12,2018,54,694
+1887,Honda City ZX CVT Petrol,7747,1,8,2021,15.11,177
+1888,Maruti Suzuki Swift ZXi,18619,1,12,2019,7.34,627
+1889,Mercedes-Benz GLE 350 d,55000,0,0,2017,47,696
+1890,Hyundai i10 Sportz 1.2 AT Kappa2,36000,1,8,2012,3.45,345
+1891,Renault Kwid 1.0 RXT [2016-2019],2066,1,8,2020,4.75,744
+1892,Audi Q2 Premium Plus I 40 TFSI quattro,10700,1,0,2020,30.5,24
+1893,Maruti Suzuki Dzire VXi AMT,48000,1,13,2018,6.6,569
+1894,Maruti Suzuki Baleno Delta 1.2,48702,1,4,2016,4.98,512
+1895,Honda City V,87693,1,12,2016,6.75,168
+1896,Tata Nexon XMA (S),14836,1,0,2021,10.25,814
+1897,Tata Harrier Kaziranga XZA Plus,16000,0,0,2022,22.9,796
+1898,Hyundai Elite i20 Asta 1.2,53864,1,2,2018,7.21,239
+1899,Hyundai Elite i20 Sportz 1.2,14546,1,2,2019,8.39,254
+1900,Honda Amaze 1.2 VX i-VTEC,87150,1,12,2017,5.05,141
+1901,Maruti Suzuki Celerio VXi CNG [2017-2019],50889,3,12,2018,5.25,532
+1902,Toyota Etios G,70000,1,9,2011,2.75,864
+1903,Audi A4 35 TDI Premium Plus,47555,0,2,2018,32.75,14
+1904,Datsun redi-GO T [2016-2019],63225,1,6,2016,2.7,88
+1905,Mahindra KUV100 NXT K6 Plus 6 STR [2017-2020],60132,1,7,2020,4.92,454
+1906,BMW 5 Series 520d Luxury Line,42465,0,7,2016,20.99,52
+1907,Mercedes-Benz C-Class 220 BlueEfficiency,64304,0,7,2013,10.95,666
+1908,Audi A6 35 TDI Matrix,79059,0,0,2016,24,20
+1909,Hyundai Grand i10 Nios Sportz 1.2 Kappa VTVT CNG,18590,3,13,2021,7.25,280
+1910,Hyundai Creta 1.6 SX Plus,75000,0,4,2016,8.75,212
+1911,Jeep Compass Longitude 2.0 Diesel [2017-2020],70400,0,2,2017,14.99,380
+1912,Honda City V Petrol [2017-2019],79938,1,13,2017,7.6,171
+1913,Mahindra XUV300 1.5 W8 (O) AMT [2019-2020],70000,0,6,2019,13,476
+1914,MG Gloster Savvy 6 STR 2.0 Twin Turbo 4WD,24600,0,2,2020,41.99,430
+1915,Maruti Suzuki Baleno Alpha 1.2,56800,1,4,2016,5.24,509
+1916,Maruti Suzuki Vitara Brezza VDi,48174,0,13,2018,8.25,630
+1917,Volkswagen Polo GT TSI,52000,1,6,2019,9.25,914
+1918,Renault Captur RXT Petrol Dual Tone,34000,1,8,2018,6.9,722
+1919,BMW X1 sDrive20d M Sport,16000,0,6,2019,39,65
+1920,Maruti Suzuki Ritz Vdi BS-IV,92000,0,6,2012,3.45,596
+1921,Maruti Suzuki Alto 800 Lxi,70661,1,12,2015,2.69,495
+1922,Hyundai Verna SX 1.5 VTVT,11000,1,7,2021,11.5,327
+1923,Maruti Suzuki Swift DZire ZDI,89000,0,3,2014,5.5,611
+1924,Ford Endeavour Titanium 3.2 4x4 AT,45000,0,4,2018,31.43,115
+1925,Mercedes-Benz GLA 200 Sport,53000,1,8,2017,21.75,688
+1926,Nissan Terrano XL (D),85000,0,8,2015,5.75,715
+1927,Maruti Suzuki Swift VXi,46000,1,0,2012,3.34,620
+1928,Maruti Suzuki Dzire VXi,45000,1,7,2021,6.75,568
+1929,Jeep Compass Limited (O) 1.4 Petrol AT [2017-2020],48381,1,13,2018,13.41,370
+1930,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],20225,1,4,2018,4.82,275
+1931,Toyota Corolla Altis VL AT Petrol,25914,1,12,2018,16.5,861
+1932,Mercedes-Benz GLE 250 d,50012,0,0,2018,55,694
+1933,MG Hector Smart 1.5 DCT Petrol [2019-2020],9700,1,2,2019,14.99,441
+1934,Kia Seltos GTX Plus AT 1.4 [2019-2020],8000,1,8,2021,18.65,393
+1935,Hyundai Elite i20 Asta 1.2 (O) [2016],47452,1,0,2016,6.2,241
+1936,Honda Jazz V Petrol,10861,1,6,2016,5.95,193
+1937,Maruti Suzuki SX4 VXI CNG BS-IV,76000,3,4,2010,1.71,607
+1938,Maruti Suzuki A-Star VXI,15000,1,1,2013,2.95,489
+1939,Mahindra Marazzo M6 Plus 7 STR,10616,0,7,2020,11.37,459
+1940,Hyundai i20 Asta (O) 1.0 Turbo DCT,10530,1,2,2021,11.95,349
+1941,Honda Civic 1.8S MT,62500,1,13,2012,3.49,182
+1942,Kia Seltos GTX Plus 1.4 DCT,7358,1,2,2021,19.95,391
+1943,Citroen C5 Aircross Shine,27000,0,6,2021,35,80
+1944,Honda City 1.5 V MT,95000,1,8,2010,3.1,157
+1945,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],36234,1,7,2018,4.15,275
+1946,Maruti Suzuki Alto 800 LXi CNG [2019-2020],54765,3,12,2019,3.89,494
+1947,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],58000,1,13,2017,4.65,276
+1948,Hyundai Santro Sportz AMT [2018-2020],13772,1,2,2018,5.89,294
+1949,Hyundai Grand i10 Magna 1.2 Kappa VTVT CNG [2019-2020],8423,3,12,2021,7.78,274
+1950,Ford Endeavour Titanium 3.2 4x4 AT,47000,0,8,2018,31.5,115
+1951,Hyundai Verna 1.6 CRDI SX (O),45000,0,0,2019,10.9,315
+1952,Mahindra Scorpio VLX 2WD Airbag BS-IV,127000,0,6,2014,6.15,465
+1953,Honda City V,21946,1,13,2015,6.15,168
+1954,Hyundai Elite i20 Asta 1.4 (O) CRDi,91,0,0,2015,5.51,245
+1955,Ford EcoSport Titanium 1.5 TDCi,59685,0,7,2013,4.34,104
+1956,Skoda Superb L&K TSI AT,14500,1,12,2021,34.9,788
+1957,Maruti Suzuki Ertiga ZDI + SHVS,65917,0,6,2018,10.8,585
+1958,Maruti Suzuki Wagon R VXi 1.0 [2019-2019],34124,1,7,2018,4.25,654
+1959,Maruti Suzuki Celerio VXi [2019-2020],25834,1,4,2019,4.86,534
+1960,Maruti Suzuki Alto K10 LXi,58073,1,4,2014,2.36,500
+1961,Maruti Suzuki Wagon R 1.0 VXi,52002,1,2,2013,3.57,651
+1962,Hyundai Tucson GLS 4WD AT Diesel,17852,0,0,2018,19.9,302
+1963,Volkswagen Tiguan Highline TDI,41797,0,13,2018,24.95,923
+1964,Jaguar XF 2.2 Diesel Luxury,36000,0,7,2014,19.5,368
+1965,Honda Amaze 1.2 S i-VTEC,37206,1,12,2016,5.21,135
+1966,Maruti Suzuki Wagon R 1.0 LXi CNG,106900,3,13,2013,3.35,644
+1967,Hyundai Elite i20 Asta 1.2,46000,1,13,2017,6.4,239
+1968,BMW X4 xDrive20d M Sport X [2019-2020],13600,0,0,2020,62.5,70
+1969,Maruti Suzuki Vitara Brezza VDi,69812,0,4,2018,7.35,630
+1970,Maruti Suzuki Vitara Brezza VDi,33747,0,4,2019,8.01,630
+1971,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],36122,1,7,2015,3.6,275
+1972,Maruti Suzuki Wagon R 1.0 VXI AMT,38447,1,13,2019,4.75,648
+1973,Hyundai Elite i20 Sportz 1.2,18000,1,13,2017,6.35,254
+1974,Hyundai i10 Magna 1.2 Kappa2,63000,1,8,2013,2.95,343
+1975,Hyundai Grand i10 Nios Magna 1.2 Kappa VTVT,24736,1,12,2020,7.12,278
+1976,Ford Endeavour Titanium 3.2 4x4 AT,25160,0,4,2018,31.89,115
+1977,Audi Q3 35 TDI Premium + Sunroof,76840,0,6,2016,21.5,30
+1978,BMW X1 sDrive20i xLine,19000,1,12,2021,41.9,67
+1979,Maruti Suzuki Wagon R 1.0 VXI AMT,56000,1,13,2015,4.5,648
+1980,Hyundai i10 1.1L iRDE Magna Special Edition,26250,1,4,2015,3.59,337
+1981,Hyundai i10 Magna,43278,1,6,2008,2.5,340
+1982,Hyundai Creta 1.6 SX Plus AT Petrol,58676,1,8,2018,12.75,214
+1983,Maruti Suzuki Dzire VXi,30663,1,3,2019,6.41,568
+1984,Maruti Suzuki Swift DZire VXI,71138,1,13,2013,4.15,610
+1985,Ford EcoSport Titanium + 1.5L Ti-VCT AT [2019-2020],17002,1,2,2019,10.85,101
+1986,Skoda Yeti Active 2.0 TDI CR 4x2,86000,0,0,2012,3.49,790
+1987,Hyundai Santro Xing XG AT,74000,1,10,2007,3,300
+1988,Maruti Suzuki Alto K10 VXi,15685,1,12,2012,2.34,502
+1989,Tata Tiago XE,100088,1,1,2022,4,845
+1990,Mercedes-Benz GL 350 CDI,69000,0,6,2015,47,686
+1991,Honda City E,69000,Petrol ,10,2014,5.3,161
+1992,Maruti Suzuki Baleno Alpha 1.2,40244,1,8,2018,6.9,509
+1993,Ford EcoSport Titanium 1.5L Ti-VCT AT,35724,1,2,2017,8.29,109
+1994,Hyundai Tucson 2WD MT Diesel,12030,0,4,2021,7.61,301
+1995,Maruti Suzuki Ciaz Sigma 1.4 MT,43152,1,12,2017,6.97,554
+1996,Hyundai Creta SX Plus 1.6 AT CRDI,120000,0,6,2017,11.95,232
+1997,MG Hector Sharp 1.5 DCT Petrol [2019-2020],21105,1,6,2021,18,434
+1998,Honda Brio S MT,46089,1,2,2014,4.39,151
+1999,Maruti Suzuki Eeco 5 STR WITH A/C+HTR [2019-2020],18568,1,3,2020,4.92,577
+2000,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],57847,1,2,2018,5.39,275
+2001,Volkswagen Vento Highline Diesel AT,58436,0,8,2015,6.35,930
+2002,Maruti Suzuki Swift VXi,52000,1,0,2015,4.9,620
+2003,Volkswagen Vento Highline Plus 1.0L TSI Automatic,30788,1,6,2021,13.5,934
+2004,Honda Amaze 1.5 S i-DTEC,90354,0,6,2014,4.5,143
+2005,Kia Seltos HTE 1.5,11870,1,3,2021,10.75,395
+2006,Toyota Corolla Altis 1.8 G L CNG,149500,3,13,2010,3.45,855
+2007,Hyundai Xcent S 1.2 (O),44000,1,0,2015,4.75,331
+2008,Hyundai Santa Fe 2WD MT [2014-2017],55545,0,2,2015,16.25,290
+2009,Tata Tiago Revotron XT [2016-2019],57000,1,9,2018,4.45,840
+2010,Skoda Rapid Style 1.5 TDI AT,123000,0,6,2017,8.25,780
+2011,Maruti Suzuki Celerio VXi AMT ABS,24595,1,8,2016,4.45,528
+2012,Maruti Suzuki Ritz Zxi BS-IV,49000,1,8,2012,3.25,599
+2013,Tata Safari XZA Plus Adventure,16600,0,6,2021,24,834
+2014,Maruti Suzuki Ciaz Alpha 1.4 MT,30830,1,12,2018,9.23,544
+2015,Maruti Suzuki Wagon R 1.0 LXI CNG (O),72000,3,13,2017,4.65,642
+2016,Audi A4 2.0 TDI (177bhp) Premium Plus,89070,0,0,2014,16.5,10
+2017,Mahindra XUV300 1.2 W6 [2019-2019],15777,1,7,2021,7.24,475
+2018,Skoda Kodiaq Style 2.0 TDI 4x4 AT,25000,0,8,2017,29.75,760
+2019,Hyundai Creta SX Plus 1.6 AT CRDI,56907,0,7,2018,10.23,232
+2020,Toyota Innova Crysta ZX 2.4 AT 7 STR,33500,0,6,2021,31,893
+2021,Maruti Suzuki Alto 800 Lxi,24456,1,12,2016,2.98,495
+2022,Volkswagen Vento Highline Diesel AT [2015-2016],48000,0,0,2016,7.9,931
+2023,Hyundai Grand i10 Nios Sportz 1.2 Kappa VTVT CNG,21187,3,12,2021,7.09,280
+2024,Hyundai Elite i20 Magna 1.2,58326,1,4,2014,3.95,250
+2025,Maruti Suzuki Eeco 5 STR WITH A/C+HTR [2019-2020],12566,1,3,2019,4.33,577
+2026,Maruti Suzuki Celerio ZXi,49821,1,4,2015,3.98,536
+2027,Hyundai Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],25028,1,8,2013,3.95,284
+2028,Mahindra KUV100 NXT K2 6 STR,41604,1,0,2018,4.51,453
+2029,Maruti Suzuki Wagon R 1.0 LXi,80386,1,12,2011,2.55,643
+2030,Mercedes-Benz E-Class E 220 d Avantgarde,17500,0,0,2020,60,679
+2031,Maruti Suzuki Ciaz Alpha 1.3 Hybrid,27095,0,7,2019,8.7,542
+2032,Honda City VX Diesel,34178,0,7,2018,8.85,176
+2033,Mahindra XUV500 W10,37000,0,7,2016,9.75,479
+2034,Hyundai Elantra 1.6 SX (O) AT,85930,0,6,2017,13,233
+2035,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],35373,1,6,2017,5.3,288
+2036,Hyundai Elite i20 Asta 1.2,54136,1,7,2015,4.46,239
+2037,BMW 5 Series 530i M Sport [2019-2019],9664,1,8,2022,68,56
+2038,Honda Jazz VX Petrol,34640,1,7,2018,5.32,196
+2039,Renault Duster RXL Petrol,50244,1,2,2017,6.99,735
+2040,Honda WR-V VX MT Petrol,29099,1,8,2018,7.85,202
+2041,Volkswagen Polo GT TSI,27239,1,13,2016,6.95,914
+2042,Hyundai i10 Sportz 1.1 iRDE2 [2010--2017],41000,1,7,2014,2.45,344
+2043,Datsun GO+ T (O) W/VDC,15755,1,7,2019,4.98,85
+2044,Audi A4 2.0 TDI (177bhp) Premium,57566,0,13,2015,13.95,9
+2045,Maruti Suzuki Alto 800 Lxi,65315,1,6,2012,2.39,495
+2046,Maruti Suzuki Alto K10 VXi [2014-2019],74200,1,2,2016,3.79,507
+2047,Hyundai Elite i20 Magna Executive 1.2,45000,1,0,2018,6.9,252
+2048,Skoda Slavia Style 1.0L TSI AT,6098,1,3,2022,16.58,785
+2049,Hyundai i10 1.1L iRDE Magna Special Edition,46150,1,0,2016,4.25,337
+2050,BMW X1 sDrive20d Expedition,68714,0,6,2016,22.5,64
+2051,Honda Amaze 1.2 S i-VTEC,61000,1,0,2013,4.3,135
+2052,BMW X1 sDrive20d xLine,7100,0,3,2021,44.75,66
+2053,Mercedes-Benz S-Class S 350 CDI,18000,0,0,2017,69,703
+2054,Maruti Suzuki Swift VXi AMT [2018-2019],21800,1,2,2020,7.95,623
+2055,Hyundai Santro Sportz,47873,1,12,2020,5.89,292
+2056,Maruti Suzuki Wagon R 1.0 VXI AMT,84827,1,3,2018,4.75,648
+2057,Tata Tiago Revotron XZA [2017-2019],34867,1,8,2017,4.75,844
+2058,Volvo V40 D3 R-Design,47000,0,8,2018,16.75,942
+2059,Renault Kwid 1.0 RXT AMT Opt [2016-2019],53447,1,3,2019,4.56,741
+2060,Bentley Continental GT Coupe,19506,1,6,2008,70,74
+2061,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],67844,1,12,2014,3.94,275
+2062,Renault Kwid 1.0 RXL [2017-2019],32000,1,13,2017,3.35,739
+2063,Honda Amaze 1.2 S AT i-VTEC Opt,15075,1,2,2016,6.49,132
+2064,Hyundai Elite i20 Asta 1.2 [2016-2017],100000,1,6,2016,6.5,244
+2065,Honda Brio VX AT,46314,1,8,2014,4.35,153
+2066,Maruti Suzuki Baleno Zeta 1.3,58238,0,6,2017,7.3,522
+2067,Ford Figo Trend 1.2 Ti-VCT,44000,1,0,2017,4.3,125
+2068,Skoda Rapid Style 1.6 MPI,45834,1,12,2016,6.66,781
+2069,MG Gloster Savvy 6 STR 2.0 Twin Turbo 4WD,22000,0,6,2020,39,430
+2070,Ford Aspire Trend Plus CNG,47781,3,12,2019,6.77,95
+2071,Honda WR-V VX MT Petrol,51425,1,0,2018,7.35,202
+2072,Jaguar XE Prestige Diesel,9090,0,2,2018,37.75,367
+2073,Tata Nexon EV XZ Plus,7000,2,0,2022,18.75,812
+2074,Honda Amaze 1.2 VX i-VTEC,44114,1,12,2013,4.39,141
+2075,Honda Jazz SV Petrol,52000,1,9,2015,4.95,190
+2076,Tata Safari XZA New,6625,0,12,2022,26.15,831
+2077,Renault Duster 110 PS RXZ 4X2 AMT Diesel,62732,0,13,2018,8.95,725
+2078,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],121842,0,6,2018,24,890
+2079,Skoda Rapid Ambition 1.6 MPI AT,57702,1,2,2018,8.99,774
+2080,Hyundai Verna Fluidic 1.6 VTVT SX Opt,40493,1,2,2015,6.49,323
+2081,Maruti Suzuki Swift VDi,65000,0,6,2018,7.5,618
+2082,Ford EcoSport Ambiente 1.5L Ti-VCT,30723,1,9,2017,6.25,98
+2083,Hyundai i20 Sportz 1.2 (O),15608,1,2,2020,8.89,358
+2084,Renault Triber RXZ [2019-2020],19000,1,8,2021,7.65,758
+2085,Hyundai Grand i10 Sports Edition 1.1 CRDi,52242,0,7,2015,3.49,282
+2086,Tata Harrier XZ [2019-2020],45163,0,0,2019,15.5,801
+2087,Tata Altroz XT Petrol,33530,1,3,2020,7.06,792
+2088,Renault Duster RXL Petrol,60444,1,2,2017,7.89,735
+2089,Hyundai Elite i20 Magna Executive 1.2,27189,1,7,2018,5.38,252
+2090,Maruti Suzuki Ertiga Vxi CNG,112000,3,13,2014,7.15,584
+2091,Toyota Corolla Altis VL AT Petrol,65100,1,13,2018,12.95,861
+2092,Maruti Suzuki Dzire VXi AMT,21477,1,4,2019,6.47,569
+2093,Honda City V,14437,1,4,2018,8.79,168
+2094,Maruti Suzuki Alto LXi BS-III,67181,1,6,2008,1.8,508
+2095,Honda City V CVT Petrol [2017-2019],31482,1,13,2018,9.35,169
+2096,Maruti Suzuki Dzire VXi,27563,1,7,2018,5.5,568
+2097,Land Rover Discovery Sport SE R-Dynamic Petrol,8500,1,0,2021,64,415
+2098,Honda Jazz V Petrol,37210,1,7,2016,4.25,193
+2099,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,66250,1,0,2014,4.5,283
+2100,Ford Figo Titanium1.5 TDCi,42158,0,7,2015,3.6,124
+2101,MINI Cooper Countryman Cooper D,68862,0,6,2013,22,443
+2102,Hyundai Verna 1.6 VTVT SX,37622,1,3,2018,8.38,317
+2103,Maruti Suzuki Ciaz VXi+ AT,64726,1,8,2017,6.75,557
+2104,Hyundai Verna 1.6 VTVT SX,29150,1,12,2017,8.76,317
