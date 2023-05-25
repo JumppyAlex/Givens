@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animate</title>
+    <style>
+        .box{
+            height: 200px;
+            width: 400px;
+            background:url(  "car2.jpg") ;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+            animation-name: moveit;
+            animation-duration: 3s;
+            animation-iteration-count:infinite ;
+            animation-direction: alternate;
+
+        }
+        @keyframes moveit{
+            from{left:0;}
+            to{left:100%}
+        }
+        h1{
+            background-color: orchid;
+            color: white;
+            transition: 2s;
+        }
+        h1:hover{
+            background-color: chocolate;
+        }
+    </style>
+</head>
+<body>
+    <!-- 192.168.o.46/pics -->
+    <h1>My Moving Car</h1>
+    <div class="box">
+
+    </div>
+</body>
+</html>

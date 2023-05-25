@@ -1,0 +1,37 @@
+#p1{
+    color: blueviolet;
+    background-color: crimson;
+    padding: 20px;
+    border: solid blue 5px;
+}
+#p2{
+    color: black;
+    background-color: beige;
+    padding: 20px;
+    margin: 10px;
+    border:solid gold 5px;
+}
+.design{
+    color: brown;
+    background-color: bisque;
+    padding: 20px;
+    border: solid cyan 5px;
+}
+
+/* 
+Ids vs Class
+1.Ids use a #,classes use a .(dot)
+2.Ids style individual tag ,classes style a group 
+3.Ids cannot be repeated ,Classes can be repeated
+*/
+.awesome{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    text-align: center;
+}
+
+.great{
+    border: solid red 5px;
+    padding: 10px;
+}
